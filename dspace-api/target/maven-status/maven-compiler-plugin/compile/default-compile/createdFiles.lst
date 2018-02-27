@@ -31,6 +31,7 @@ org/dspace/submit/lookup/SubmissionItemDataLoader.class
 org/dspace/statistics/content/filter/StatisticsSolrDateFilter.class
 org/dspace/browse/BrowseDAOUtilsDefault.class
 org/dspace/rdf/conversion/MetadataConverterPlugin.class
+org/dspace/submit/step/PrefillStep.class
 org/dspace/versioning/VersioningService.class
 org/dspace/core/LicenseManager.class
 org/dspace/ctask/general/NoOpCurationTask.class
@@ -287,6 +288,7 @@ org/dspace/content/packager/AbstractMETSIngester$1.class
 org/dspace/app/itemmarking/ItemMarkingAvailabilityBitstreamStrategy.class
 org/dspace/harvest/HarvestedItem.class
 org/dspace/submit/lookup/MultipleSubmissionLookupDataLoader.class
+org/dspace/content/authority/Pair.class
 org/dspace/ctask/general/BasicLinkChecker.class
 org/dspace/app/sitemap/HTMLSitemapGenerator.class
 org/dspace/content/ItemIterator.class
@@ -682,6 +684,7 @@ org/dspace/content/crosswalk/MetadataValidationException.class
 org/dspace/authority/indexer/AuthorityIndexClient$ContextNoCaching.class
 org/dspace/content/crosswalk/XSLTCrosswalk.class
 org/dspace/xmlworkflow/state/actions/processingaction/ReviewAction.class
+org/dspace/content/authority/OpenAIREAuthority.class
 org/dspace/content/Bitstream.class
 org/dspace/content/crosswalk/OAIDCIngestionCrosswalk.class
 org/dspace/browse/BrowseItemDAOOracle.class

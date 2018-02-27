@@ -1,0 +1,42 @@
+User-agent: *
+
+Disallow: /browse
+
+Disallow: /advanced-search
+Disallow: /contact
+Disallow: /feedback
+Disallow: /forgot
+Disallow: /login
+Disallow: /register
+Disallow: /search
+Disallow: /*/browse
+Disallow: /*/advanced-search
+Disallow: /*/contact
+Disallow: /*/feedback
+Disallow: /*/forgot
+Disallow: /*/login
+Disallow: /*/register
+Disallow: /*/search
+Disallow: /mdexport/handle/*
+Disallow: /resolvexml
+
+##############################
+# Section for misbehaving bots
+# The following directives to block specific robots were borrowed from Wikipedia's robots.txt
+##############################
+
+# advertising-related bots:
+User-agent: Mediapartners-Google*
+Disallow: /
+
+# Crawlers that are kind enough to obey, but which we'd rather not have
+# unless they're feeding search engines.
+User-agent: UbiCrawler
+Disallow: /
+
+User-agent: DOC
+Disallow: /
+
+User-agent: Zao
+Disallow: /
+

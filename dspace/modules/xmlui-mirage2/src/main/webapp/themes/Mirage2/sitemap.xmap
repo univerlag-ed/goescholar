@@ -120,8 +120,8 @@
         -->
         <map:component-configurations>
             <global-variables>
-                <theme-path>${item}</theme-path>
-                <theme-name>${item}</theme-name>
+                <theme-path>Mirage2</theme-path>
+                <theme-name>Mirage2</theme-name>
             </global-variables>
         </map:component-configurations>
 
@@ -139,6 +139,47 @@
             </map:match>
         </map:pipeline>
 
+	<!-- bibliographic export -->
+	<map:pipeline>
+          <map:match pattern="mdexport/handle/*/*">
+                <map:generate type="file" src="cocoon://DRI/handle/{1}/{2}" />
+                        
+                <map:select type="request-parameter">
+                        <map:parameter name="parameter-name" value="format"/>
+                           <map:when test="ris">
+                                <map:act type="set-header">
+                                        <map:parameter name="Content-Disposition" value="attachment; filename=GoeScholar-{1}-{2}.ris"/>
+                                </map:act>
+                                <map:act type="DSpacePropertyFileReader">
+                                        <map:parameter name="dspace.dir" value="dspace.dir" />
+                                        <map:transform src="file://{dspace.dir}/config/Ris.xsl" />
+                                </map:act>
+                                <!-- <map:transform src="Ris.xsl" /> -->
+                          </map:when>
+                           <map:when test="bibtex">
+                                <map:act type="set-header">
+                                        <map:parameter name="Content-Disposition" value="attachment; filename=GoeScholar-{1}-{2}.bib"/>
+                                </map:act>
+                                <map:act type="DSpacePropertyFileReader">
+                                        <map:parameter name="dspace.dir" value="dspace.dir" />
+                                        <map:transform src="file://{dspace.dir}/config/BibTex.xsl" />
+                                </map:act>
+                                <!-- <map:transform src="BibTex.xsl" /> -->
+                          </map:when>
+                           <map:when test="endnote">
+                                <map:act type="set-header">
+                                        <map:parameter name="Content-Disposition" value="attachment; filename=GoeScholar-{1}-{2}.ndn"/>
+                                </map:act>
+                                <map:act type="DSpacePropertyFileReader">
+                                        <map:parameter name="dspace.dir" value="dspace.dir" />
+                                        <map:transform src="file://{dspace.dir}/config/Endnote.xsl" />
+                                </map:act>
+                                <!-- <map:transform src="Endnote.xsl" /> -->
+                          </map:when>
+                </map:select>
+                <map:serialize type="text" />
+        </map:match>
+	</map:pipeline>
         <!--
              Caching Pipeline: This caching pipeline handles access to static content (css, js, etc)
              which is used by this Theme. These static files are simply passed directly to

@@ -44,11 +44,11 @@
     <!-- TODO: figure out why i18n tags break the go button -->
     <xsl:template match="dri:options">
         <div id="ds-options" class="word-break hidden-print">
-            <xsl:if test="not(contains(/dri:document/dri:meta/dri:pageMeta/dri:metadata[@element='request'][@qualifier='URI'], 'discover'))">
-                <div id="ds-search-option" class="ds-option-set">
+           <!-- <xsl:if test="not(contains(/dri:document/dri:meta/dri:pageMeta/dri:metadata[@element='request'][@qualifier='URI'], 'discover'))"> -->
+            <div id="ds-search-option" class="ds-option-set"> 
                     <!-- The form, complete with a text box and a button, all built from attributes referenced
                  from under pageMeta. -->
-                    <form id="ds-search-form" class="" method="post">
+                <form id="ds-search-form" class="visible-xs hidden-sm hidden-md hidden-lg" method="post">
                         <xsl:attribute name="action">
                             <xsl:value-of select="/dri:document/dri:meta/dri:pageMeta/dri:metadata[@element='contextPath']"/>
                             <xsl:value-of
@@ -119,12 +119,29 @@
                                 </div>
                             </xsl:if>
                         </fieldset>
-                    </form>
+                    </form> 
                 </div>
-            </xsl:if>
-            <xsl:apply-templates/>
+            <!-- </xsl:if> -->
+            <!-- <xsl:apply-templates/> -->
+		<xsl:apply-templates select="dri:list[@n='browse']"/>
+	        <xsl:apply-templates select="dri:list[@n='context']"/>
+		<xsl:if test="//dri:userMeta/@authenticated='yes'">
+                	<xsl:apply-templates select="dri:list[@n='account']"/>
+		</xsl:if>
+		<h2 class="ds-option-set-head h6"><i18n:text>xmlui.static.info_label</i18n:text></h2>
+		<div class="list-group">
+			<a href="/help" class="list-group-item ds-option"><i18n:text>xmlui.static.help_link</i18n:text></a>
+			<!-- <a href="/user-rights" class="list-group-item ds-option"><i18n:text>xmlui.static.user-rights_link</i18n:text></a> 
+			<a href="/rights" class="list-group-item ds-option"><i18n:text>xmlui.static.rights_link</i18n:text></a> -->
+			<a href="/upload-service" class="list-group-item ds-option"><i18n:text>xmlui.static.upload-service_link</i18n:text></a>
+			<a href="/licenses" class="list-group-item ds-option"><i18n:text>xmlui.static.licenses_link</i18n:text></a>  
+			<a href="/oa-fonds" class="list-group-item ds-option"><i18n:text>xmlui.static.oa-fonds_link</i18n:text></a>
+		</div> 
+		<xsl:apply-templates select="dri:list[@n='administrative']"/>
+                <xsl:apply-templates select="dri:list[@n='discovery']"/>
+                <xsl:apply-templates select="dri:list[@n='statistics']"/>
             <!-- DS-984 Add RSS Links to Options Box -->
-            <xsl:if test="count(/dri:document/dri:meta/dri:pageMeta/dri:metadata[@element='feed']) != 0">
+            <!--<xsl:if test="count(/dri:document/dri:meta/dri:pageMeta/dri:metadata[@element='feed']) != 0">
                 <div>
                     <h2 class="ds-option-set-head h6">
                         <i18n:text>xmlui.feed.header</i18n:text>
@@ -134,7 +151,7 @@
                     </div>
                 </div>
 
-            </xsl:if>
+            </xsl:if> -->
         </div>
     </xsl:template>
 

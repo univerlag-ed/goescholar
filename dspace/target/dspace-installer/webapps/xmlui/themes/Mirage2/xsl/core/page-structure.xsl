@@ -87,6 +87,12 @@
                         </xsl:when>
                         <xsl:otherwise>
                             <xsl:call-template name="buildHeader"/>
+			    <div class="header-image visible-lg visible-md">
+                                <div class="container">
+					&#160;
+                                </div>
+                            </div>
+
                             <xsl:call-template name="buildTrail"/>
                             <!--javascript-disabled warning, will be invisible if javascript is enabled-->
                             <div id="no-js-warning-wrapper" class="hidden">
@@ -109,7 +115,9 @@
                                             </div>
                                         </div>
                                         <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
-                                            <xsl:apply-templates select="dri:options"/>
+					    <!-- <xsl:if test="not(/dri:document/dri:body/dri:div[1]/@n = 'item-view')"> -->
+	                                            <xsl:apply-templates select="dri:options"/>
+					    <!-- </xsl:if> -->
                                         </div>
 
                                     </div>
@@ -193,7 +201,7 @@
             </xsl:for-each>
 
             <link rel="stylesheet" href="{concat($theme-path, 'styles/main.css')}"/>
-
+	    <link rel="stylesheet" href="{concat($theme-path, 'styles/font-awesome-4.7.0/css/font-awesome.min.css')}"/>
             <!-- Add syndication feeds -->
             <xsl:for-each select="/dri:document/dri:meta/dri:pageMeta/dri:metadata[@element='feed']">
                 <link rel="alternate" type="application">
@@ -226,9 +234,11 @@
                 </link>
             </xsl:if>
 
+	    <script src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js" type="text/javascript"> </script>
             <!-- The following javascript removes the default text of empty text areas when they are focused on or submitted -->
             <!-- There is also javascript to disable submitting a form when the 'enter' key is pressed. -->
             <script>
+
                 //Clear default text of emty text areas on focus
                 function tFocus(element)
                 {
@@ -334,9 +344,11 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-
+			<a href="{$context-path}/" class="header-image">
+				<img class="visible-md visible-lg" src="{$theme-path}/images/goescholar-header.png" />
+			</a>
                         <a href="{$context-path}/" class="navbar-brand">
-                            <img src="{$theme-path}/images/DSpace-logo-line.svg" />
+			    <img class="visible-sm visible-xs" src="{$theme-path}/images/goescholar-brand.png" />
                         </a>
 
 
@@ -413,6 +425,79 @@
                     </div>
 
                     <div class="navbar-header pull-right hidden-xs">
+			<div>
+                   <form id="ds-search-form" class="" method="post">
+                        <xsl:attribute name="action">
+                            <xsl:value-of select="/dri:document/dri:meta/dri:pageMeta/dri:metadata[@element='contextPath']"/>
+                            <xsl:value-of
+                                    select="/dri:document/dri:meta/dri:pageMeta/dri:metadata[@element='search'][@qualifier='simpleURL']"/>
+                        </xsl:attribute>
+                        <fieldset>
+                            <div class="input-group">
+                                <input class="ds-text-field form-control" type="text" placeholder="xmlui.general.search"
+                                       i18n:attr="placeholder">
+                                    <xsl:attribute name="name">
+                                        <xsl:value-of
+                                                select="/dri:document/dri:meta/dri:pageMeta/dri:metadata[@element='search'][@qualifier='queryField']"/>
+                                    </xsl:attribute>
+                                </input>
+                                <span class="input-group-btn">
+                                    <button class="ds-button-field btn btn-primary" title="xmlui.general.go" i18n:attr="title">
+                                        <span class="glyphicon glyphicon-search" aria-hidden="true"/>
+                                        <xsl:attribute name="onclick">
+                                                    <xsl:text>
+                                                        var radio = document.getElementById(&quot;ds-search-form-scope-container&quot;);
+                                                        if (radio != undefined &amp;&amp; radio.checked)
+                                                        {
+                                                        var form = document.getElementById(&quot;ds-search-form&quot;);
+                                                        form.action=
+                                                    </xsl:text>
+                                            <xsl:text>&quot;</xsl:text>
+                                            <xsl:value-of
+                                                    select="/dri:document/dri:meta/dri:pageMeta/dri:metadata[@element='contextPath']"/>
+                                            <xsl:text>/handle/&quot; + radio.value + &quot;</xsl:text>
+                                            <xsl:value-of
+                                                    select="/dri:document/dri:meta/dri:pageMeta/dri:metadata[@element='search'][@qualifier='simpleURL']"/>
+                                            <xsl:text>&quot; ; </xsl:text>
+                                                    <xsl:text>
+                                                        }
+                                                    </xsl:text>
+                                        </xsl:attribute>
+                                    </button>
+                                </span>
+                            </div>
+                            <!-- <xsl:if test="/dri:document/dri:meta/dri:pageMeta/dri:metadata[@element='focus'][@qualifier='container']">
+                                <div class="radio">
+                                    <label>
+                                        <input id="ds-search-form-scope-all" type="radio" name="scope" value=""
+                                               checked="checked"/>
+                                        <i18n:text>xmlui.dri2xhtml.structural.search</i18n:text>
+                                    </label>
+                                </div>
+                                <div class="radio">
+                                    <label>
+                                        <input id="ds-search-form-scope-container" type="radio" name="scope">
+                                            <xsl:attribute name="value">
+                                                <xsl:value-of
+                                                        select="substring-after(/dri:document/dri:meta/dri:pageMeta/dri:metadata[@element='focus'][@qualifier='container'],':')"/>
+                                            </xsl:attribute>
+                                        </input>
+                                        <xsl:choose>
+                                            <xsl:when
+                                                    test="/dri:document/dri:meta/dri:pageMeta/dri:metadata[@element='focus'][@qualifier='containerType']/text() = 'type:community'">
+                                                <i18n:text>xmlui.dri2xhtml.structural.search-in-community</i18n:text>
+                                            </xsl:when>
+                                            <xsl:otherwise>
+                                                <i18n:text>xmlui.dri2xhtml.structural.search-in-collection</i18n:text>
+                                            </xsl:otherwise>
+
+                                        </xsl:choose>
+                                    </label>
+                                </div>
+                            </xsl:if> -->
+                        </fieldset>
+                    </form>
+			</div>
                         <ul class="nav navbar-nav pull-left">
                               <xsl:call-template name="languageSelection"/>
                         </ul>
@@ -615,23 +700,25 @@
 
         <xsl:if test="$ccLicenseName and $ccLicenseUri and contains($ccLicenseUri, 'creativecommons')">
             <div about="{$handleUri}" class="row">
+	   <div class="col-sm-8">
+                <span>
+                    <i18n:text>xmlui.dri2xhtml.METS-1.0.cc-license-text</i18n:text>
+                    <!-- <xsl:value-of select="$ccLicenseName"/> -->
+                </span>
+            </div>
+
             <div class="col-sm-3 col-xs-12">
                 <a rel="license"
                    href="{$ccLicenseUri}"
                    alt="{$ccLicenseName}"
-                   title="{$ccLicenseName}"
+                   title="{$ccLicenseUri}"
                         >
                     <xsl:call-template name="cc-logo">
                         <xsl:with-param name="ccLicenseName" select="$ccLicenseName"/>
                         <xsl:with-param name="ccLicenseUri" select="$ccLicenseUri"/>
                     </xsl:call-template>
                 </a>
-            </div> <div class="col-sm-8">
-                <span>
-                    <i18n:text>xmlui.dri2xhtml.METS-1.0.cc-license-text</i18n:text>
-                    <xsl:value-of select="$ccLicenseName"/>
-                </span>
-            </div>
+            </div> 
             </div>
         </xsl:if>
     </xsl:template>
@@ -641,36 +728,36 @@
         <xsl:param name="ccLicenseUri"/>
         <xsl:variable name="ccLogo">
              <xsl:choose>
-                  <xsl:when test="starts-with($ccLicenseUri,
-                                           'http://creativecommons.org/licenses/by/')">
+                  <xsl:when test="contains($ccLicenseUri,
+                                           '://creativecommons.org/licenses/by/')">
                        <xsl:value-of select="'cc-by.png'" />
                   </xsl:when>
-                  <xsl:when test="starts-with($ccLicenseUri,
-                                           'http://creativecommons.org/licenses/by-sa/')">
+                  <xsl:when test="contains($ccLicenseUri,
+                                           '://creativecommons.org/licenses/by-sa/')">
                        <xsl:value-of select="'cc-by-sa.png'" />
                   </xsl:when>
-                  <xsl:when test="starts-with($ccLicenseUri,
-                                           'http://creativecommons.org/licenses/by-nd/')">
+                  <xsl:when test="contains($ccLicenseUri,
+                                           '://creativecommons.org/licenses/by-nd/')">
                        <xsl:value-of select="'cc-by-nd.png'" />
                   </xsl:when>
-                  <xsl:when test="starts-with($ccLicenseUri,
-                                           'http://creativecommons.org/licenses/by-nc/')">
+                  <xsl:when test="contains($ccLicenseUri,
+                                           '://creativecommons.org/licenses/by-nc/')">
                        <xsl:value-of select="'cc-by-nc.png'" />
                   </xsl:when>
-                  <xsl:when test="starts-with($ccLicenseUri,
-                                           'http://creativecommons.org/licenses/by-nc-sa/')">
+                  <xsl:when test="contains($ccLicenseUri,
+                                           '://creativecommons.org/licenses/by-nc-sa/')">
                        <xsl:value-of select="'cc-by-nc-sa.png'" />
                   </xsl:when>
-                  <xsl:when test="starts-with($ccLicenseUri,
-                                           'http://creativecommons.org/licenses/by-nc-nd/')">
+                  <xsl:when test="contains($ccLicenseUri,
+                                           '://creativecommons.org/licenses/by-nc-nd/')">
                        <xsl:value-of select="'cc-by-nc-nd.png'" />
                   </xsl:when>
-                  <xsl:when test="starts-with($ccLicenseUri,
-                                           'http://creativecommons.org/publicdomain/zero/')">
+                  <xsl:when test="contains($ccLicenseUri,
+                                           '://creativecommons.org/publicdomain/zero/')">
                        <xsl:value-of select="'cc-zero.png'" />
                   </xsl:when>
-                  <xsl:when test="starts-with($ccLicenseUri,
-                                           'http://creativecommons.org/publicdomain/mark/')">
+                  <xsl:when test="contains($ccLicenseUri,
+                                           '://creativecommons.org/publicdomain/mark/')">
                        <xsl:value-of select="'cc-mark.png'" />
                   </xsl:when>
                   <xsl:otherwise>
@@ -694,16 +781,13 @@
                 <div class="row">
                     <hr/>
                     <div class="col-xs-7 col-sm-8">
-                        <div>
-                            <a href="http://www.dspace.org/" target="_blank">DSpace software</a> copyright&#160;&#169;&#160;2002-2015&#160; <a href="http://www.duraspace.org/" target="_blank">DuraSpace</a>
-                        </div>
                         <div class="hidden-print">
-                            <a>
-                                <xsl:attribute name="href">
+                            <a href="/contact">
+                                <!-- <xsl:attribute name="href">
                                     <xsl:value-of
                                             select="/dri:document/dri:meta/dri:pageMeta/dri:metadata[@element='contextPath'][not(@qualifier)]"/>
                                     <xsl:text>/contact</xsl:text>
-                                </xsl:attribute>
+                                </xsl:attribute> -->
                                 <i18n:text>xmlui.dri2xhtml.structural.contact-link</i18n:text>
                             </a>
                             <xsl:text> | </xsl:text>
@@ -715,16 +799,20 @@
                                 </xsl:attribute>
                                 <i18n:text>xmlui.dri2xhtml.structural.feedback-link</i18n:text>
                             </a>
+                            <xsl:text> | </xsl:text>
+                            <a href="/impressum">
+                                <i18n:text>xmlui.static.impressum_link</i18n:text>
+                            </a>
+			    <xsl:text> | </xsl:text>
+                            <a href="/guideline">
+                                <i18n:text>xmlui.static.guideline_link</i18n:text>
+                            </a>
                         </div>
                     </div>
                     <div class="col-xs-5 col-sm-4 hidden-print">
-                        <div class="pull-right">
-                            <span class="theme-by">Theme by&#160;</span>
-                            <br/>
-                            <a title="@mire NV" target="_blank" href="http://atmire.com">
-                                <img alt="@mire NV" src="{concat($theme-path, '/images/@mirelogo-small.png')}"/>
-                            </a>
-                        </div>
+                         <div class="pull-right">
+				<i18n:text>xmlui.static.footer.text</i18n:text>
+                        </div> 
 
                     </div>
                 </div>
@@ -867,6 +955,9 @@
                   ga('send', 'pageview');
            </xsl:text></script>
         </xsl:if>
+	<!--<script src="/themes/Mirage2/scripts/bootstrap-modal.min.js"></script>
+	<script src="/themes/Mirage2/scripts/bootstrap-modalmanager.min.js"></script> -->
+	<!--<link rel="stylesheet" href="/themes/Mirage2/styles/bootstrap-modal.min.css"></link> -->
     </xsl:template>
 
     <!--The Language Selection-->

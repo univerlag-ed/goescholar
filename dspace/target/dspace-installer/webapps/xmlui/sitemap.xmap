@@ -240,6 +240,15 @@
                         <map:parameter name="outputBufferSize" value="8192"/>
                         <map:parameter name="expires" value="now"/>
 
+			<!-- local Resolver -->
+			<map:match pattern="resolvexml">
+				<map:generate type="file" src="resolver/local-resolver-response.xml"/>
+				<map:transform src="resolver/resolver.xsl">
+					<map:parameter name="purl" value="{request-param:purl}"/>
+                                        <map:parameter name="query" value="{request:queryString}"/>
+				</map:transform>
+				<map:serialize type="xml"/>
+			</map:match>
 
                         <!--
                                 Bitstreams for items that have a handle assigned. If the
