@@ -201,20 +201,22 @@
     </xsl:template>
 
 
-    <xsl:template match="dri:options//dri:item">
+ <xsl:template match="dri:options//dri:item">
         <div>
             <xsl:call-template name="standardAttributes">
                 <xsl:with-param name="class">list-group-item ds-option</xsl:with-param>
             </xsl:call-template>
             <xsl:apply-templates />
         </div>
-    </xsl:template>
+    </xsl:template> 
+
 
     <xsl:template match="dri:options//dri:item[dri:xref]">
         <a href="{dri:xref/@target}">
             <xsl:call-template name="standardAttributes">
                 <xsl:with-param name="class">list-group-item ds-option</xsl:with-param>
             </xsl:call-template>
+	<!--
             <xsl:choose>
                 <xsl:when test="dri:xref/node()">
                     <xsl:apply-templates select="dri:xref/node()"/>
@@ -223,7 +225,22 @@
                     <xsl:value-of select="dri:xref"/>
                 </xsl:otherwise>
             </xsl:choose>
-
+	-->
+	<xsl:choose>
+                <!-- Translate publication types and status in search facet bar -->
+                <xsl:when test="(contains(dri:xref/@target, 'filtertype=type') or contains(dri:xref/@target, 'status'))">
+                    <xsl:if test="contains(., '(')">
+                        <xsl:variable name="kind"><xsl:value-of select="substring-before(dri:xref/node(), ' (')" /></xsl:variable>
+                        <i18n:text><xsl:value-of select="translate($kind, ' ', '+')" /></i18n:text><xsl:value-of select="concat(' (', substring-after(dri:xref/node(), ' ('))" />
+                    </xsl:if>
+                </xsl:when>
+                <xsl:when test="dri:xref/node()">
+                    <xsl:apply-templates select="dri:xref/node()"/>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:value-of select="dri:xref"/>
+                </xsl:otherwise>
+            </xsl:choose>
         </a>
     </xsl:template>
 

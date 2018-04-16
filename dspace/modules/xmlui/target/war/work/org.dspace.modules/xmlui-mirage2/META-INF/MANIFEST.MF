@@ -9,7 +9,7 @@ Specification-Title: DSpace XML-UI Mirage2 Theme :: Local Customisatio
  ns
 Implementation-Vendor-Id: org.dspace.modules
 Created-By: Apache Maven 3.3.9
-Build-Jdk: 1.8.0_131
+Build-Jdk: 1.8.0_151
 Specification-Version: 5.6
 Implementation-Vendor: DuraSpace
 

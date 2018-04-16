@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <project name="maven-antrun-" default="main"  >
 <target name="main">
-  <echo>PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/opt/tomcat/bin</echo>
+  <echo>PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games</echo>
   <echo>GEM_PATH=${env.GEM_PATH}</echo>
   <echo>GEM_HOME=${env.GEM_HOME}</echo>
   <echo>mirage2.deps.included=true</echo>

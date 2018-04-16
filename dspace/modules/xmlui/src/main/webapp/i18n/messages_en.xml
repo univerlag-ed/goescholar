@@ -24,10 +24,10 @@
 			-->
 
 		<!-- General keys -->
-		<message key="xmlui.general.dspace_home">GoeScholar</message>
-		<message key="xmlui.general.search">Search</message>
+		<message key="xmlui.general.dspace_home">Home</message>
+		<message key="xmlui.general.search">Full Text Search</message>
 		<message key="xmlui.general.go">Go</message>
-		<message key="xmlui.general.go_home">Go to GoeScholar</message>
+		<message key="xmlui.general.go_home">Go to Home</message>
 		<message key="xmlui.general.save">Save</message>
 		<message key="xmlui.general.cancel">Cancel</message>
 		<message key="xmlui.general.return">Return</message>
@@ -220,7 +220,7 @@
 		<!-- org.dspace.app.xmlui.artifactbrowser.CommunityBrowser.java -->
 		<message key="xmlui.ArtifactBrowser.CommunityBrowser.title">Institutions</message>
 		<message key="xmlui.ArtifactBrowser.CommunityBrowser.trail">Institutions</message>
-		<message key="xmlui.ArtifactBrowser.CommunityBrowser.head">Institutions in GoeScholar</message>
+		<message key="xmlui.ArtifactBrowser.CommunityBrowser.head">Institutions</message>
 		<message key="xmlui.ArtifactBrowser.CommunityBrowser.select">Select an Institutions to browse.</message>
 
 		<!-- org.dspace.app.xmlui.artifactbrowser.CommunityViewer.java -->
@@ -277,8 +277,8 @@
 		<message key="xmlui.ArtifactBrowser.Navigation.browse_title">Titles</message>
 		<message key="xmlui.ArtifactBrowser.Navigation.browse_author">Authors</message>
 		<message key="xmlui.ArtifactBrowser.Navigation.browse_subject">Subjects</message>
-		<message key="xmlui.ArtifactBrowser.Navigation.browse_dateissued">By Issue Date</message>
-		<message key="xmlui.ArtifactBrowser.Navigation.browse_dateaccessioned">By Submit Date</message>
+		<message key="xmlui.ArtifactBrowser.Navigation.browse_dateissued">Issue Date</message>
+		<message key="xmlui.ArtifactBrowser.Navigation.browse_dateaccessioned">Submit Date</message>
 		<message key="xmlui.ArtifactBrowser.Navigation.head_this_collection">This Collection</message>
 		<message key="xmlui.ArtifactBrowser.Navigation.head_this_community">This Community</message>
 
@@ -646,7 +646,7 @@
 		<message key="xmlui.Submission.general.default.trail">Submission</message>
 
 		<!-- org.dspace.app.xmlui.submission.CollectiovViewer -->
-		<message key="xmlui.Submission.CollectionViewer.link1">Submit a new item to this collection</message>
+		<message key="xmlui.Submission.CollectionViewer.link1">Publish here</message>
 
 		<!-- org.dspace.app.xmlui.submission.Navigation -->
 		<message key="xmlui.Submission.Navigation.submissions">Submissions</message>
@@ -2993,16 +2993,76 @@ Der Urheber räumt der Universität Göttingen im Rahmen der Rechtseinräumung g
                 </div>
 
         </div> -->
-   <div class="page-header">
-        <h2>Welcome to GoeScholar
+   <div>
+        <h2 class="ds-div-head page-header first-page-header">Welcome to GoeScholar
         <br />The Publication Server of the Georg-August-Universität Göttingen</h2>
    </div>
-   <div>
+
+   <div class="row">
+            
+	<div class="col-sm-6">		
+		<div class="media">						
+			<div class="media-left hidden-xs">							
+				<img src="/themes/Mirage2/images/upload2.svg" class="media-object home" alt="publish"></img>
+			</div>						
+			<div class="media-body">							
+				<span class="media-heading"><strong>Publishing</strong></span>							
+				<p>
+				Publish your works so that they are persistent addressable (on request via DOI) and citable.
+				</p>						
+			</div>					
+		</div>				
+	</div>
+				
+	<div class="col-sm-6">					
+		<div class="media">						
+			<div class="media-left hidden-xs">							
+				<img src="/themes/Mirage2/images/archive.svg" class="media-object home" alt="archive"></img>
+			</div>						
+			<div class="media-body">							
+				<span class="media-heading"><strong>Archiving</strong></span>							
+				<p>
+				All documents are permanently archived and (PDF versions) usable in the long term.
+				</p>						
+			</div>					
+		</div>				
+	</div>
+</div>			
+<div class="row">				
+		<div class="col-sm-6">					
+			<div class="media">						
+				<div class="media-left hidden-xs">							
+					<img src="/themes/Mirage2/images/upload-to-cloud.svg" class="media-object home" alt="distribute"></img>
+				</div>						
+				<div class="media-body">							
+					<span class="media-heading"><strong>Distributing</strong></span>							
+					<p>
+					Through the partnership of GoeScholar in several international networks, the visibility of the publications is increased worldwide.
+					</p>						
+				</div>					
+			</div>				
+		</div>
+				
+	<div class="col-sm-6">					
+		<div class="media">						
+			<div class="media-left hidden-xs">							
+				<img src="/themes/Mirage2/images/lock-open2.svg" class="media-object home" alt="openaccess"></img>
+			</div>						
+			<div class="media-body">							
+				<span class="media-heading"><strong>Open Access/Publication Funds</strong></span>							
+				<p>
+				Free access to research results is financially supported by the Georg-August-Universität Göttingen with its own <a href="https://www.sub.uni-goettingen.de/elektronisches-publizieren/open-access/open-access-publikationsfonds/" target="_blank">Open-Access-Publication-Fund</a>.
+				</p>								
+			</div>			
+		</div>
+	</div>
+</div>
+  <!-- <div>
            
                     
 			<div><p class="page-header">
 					<span class="goes">&#160;</span> 
-					offers a comprehensive spectrum of scientific publications of the University Göttingen </p>
+					GoeScholar offers a comprehensive spectrum of scientific publications of the University Göttingen </p>
 					
 						
 					
@@ -3013,7 +3073,7 @@ Der Urheber räumt der Universität Göttingen im Rahmen der Rechtseinräumung g
 
 			</div>		
 
-			<div><p class="page-header"><span class="goes">&#160;</span> supports Open Access to research data in the sense of the 
+			<div><p class="page-header"><span class="goes">&#160;</span> GoeScholar supports Open Access to research data in the sense of the 
 					<a href="http://oa.mpg.de/lang/de/berlin-prozess/berliner-erklarung/" target="_blank" class="extern"> Berlin Declaration</a> 
 					</p>
 					
@@ -3024,7 +3084,7 @@ Der Urheber räumt der Universität Göttingen im Rahmen der Rechtseinräumung g
 
 			</div>	
 
-			<div><p class="page-header"><span class="goes">&#160;</span> is a partner in the European repository networks <a href="http://www.driver-community.eu/" target="_blank" class="extern">  
+			<div><p class="page-header"><span class="goes">&#160;</span> GoeScholar is a partner in the European repository networks <a href="http://www.driver-community.eu/" target="_blank" class="extern">  
 					<acronym title="Digital Repository Infrastructure Vision for Euorpean Research">DRIVER</acronym></a>, 
 					<a href="http://coar-repositories.org/" target="_blank" class="extern"><acronym title="Confedaration of Open Access Repositories">COAR</acronym></a>,  
 				    <a href="http://www.openaire.eu" target="_blank" class="extern"><acronym title="Open Access Infrastructure for Research in Europa">OpenAIRE</acronym></a> 
@@ -3038,9 +3098,9 @@ Der Urheber räumt der Universität Göttingen im Rahmen der Rechtseinräumung g
 			</div>	
 
 	</div>
-	
+-->	
 	<div class="strech">		
-		<strong>On request the GoeScholar team can undertake the provision of your publication in GoeScholar via the Upload Service</strong>
+		<strong><a href="/upload-service">On request the GoeScholar team can undertake the provision of your publication.</a></strong>
 	</div>
   </message>
 
@@ -3149,7 +3209,261 @@ Der Urheber räumt der Universität Göttingen im Rahmen der Rechtseinräumung g
    </message>
   <message key="xmlui.static.help">
     <div class="help">
-        
+       <h2 class="ds-div-head page-header first-page-header">Help &#38; FAQ</h2>
+	<h3 class="page-header">
+			Help
+		</h3>
+		<h4 class="page-header">
+					<a data-toggle="collapse" href="#publishing">Submission Process</a>
+		</h4>
+		<div  id="publishing" class="collapse">	
+			<p>
+				Submitting documents to GoeScholar can only be carried out by properly registered users and takes place in a multi-step submission process: 
+			</p>
+			<ol>
+				<li>Navigate to the Institution to which your publication is associated.</li>
+				<li>Optional: Metadata Import (Nur dann möglich, wenn Ihr Dokument schon anderswo erschienen ist und über eine DOI, PubMedID verfügt, bzwe. im Bibliothekskatalog verzeichnet ist (d.h. eine PPN hat).</li>
+				<li>Describe [the document]</li>
+				<li>Upload</li>
+				<li>Optional: CC-License</li>
+				<li>[Deposit] License</li>
+				<li>Completed</li>
+			</ol>
+			<p>
+					<strong>Bitte beachten Sie:</strong>
+			</p>
+			<p>	
+				Die Korrektur der Beschreibungsdaten bzw. Austausch des Dokumentes ist nur während des Veröffentlichungsprozesses möglich. 
+				Ist der Prozess abgeschlossen, dürfen/können weder das Dokument noch die Daten verändert werden.
+			</p>
+			<p>
+			    GoeScholar spielt kontinuierlich Daten und Volltexte von Göttinger Open-Access-Publikationen aus unterschiedlichen Verlagen (z. B. BioMed Central, Copernicus Publications, Public Library of Science, Universitätsverlag Göttingen) ein. 
+			   <!-- Eine detaillierte Übersicht finden Sie unter: <a href="#externdata">Externe Daten</a> -->
+			   Bevor Sie den Publikationsprozess starten, prüfen Sie bitte zuerst, ob Ihre Arbeit in GoeScholar schon vorhanden ist.
+			   
+			</p>
+			<p>
+			Im folgenden werden die einzelne Schritte des Veröffentlichungsprozesses detaillierter beschrieben.
+			</p>
+			<h5 class="page-header">
+				1. Navigate to the Institution to which your publication is associated.
+			</h5>
+			<p>
+				Go to the "Institutions" in the main menü on the right and select your institution by browsing. Then use the function, “Publish here”.
+				
+			</p>
+			<!--<p>
+				<strong>TIPP:</strong> Einfacher ist über die Funktion Browsen >> Fakultäten &amp; Zentren zu Ihre Einrichtung zu navigieren. 
+				Als angemeldete Nutzer wird Ihnen dort die Option „Hier veröffentlichen“ angeboten. Mit einem Klick Sie auf diesen Link gelangen Sie zum Schritt 
+				„Import bibliographischer Daten“.
+			</p> -->
+			<p>
+				In individual cases it may be difficult to clearly assign a document to a collection. If none of the shown collections appears appropriate please contact 
+				<a href="mailto:witt@sub.uni-goettingen.de">Sabine Witt (E-Mail)</a> or make use of the GoeScholar Team’s GoeScholar <a href="/upload-service" title ="Goescholar Hochlade-Service">Upload Service</a>.
+
+			</p>
+			<h5 class="page-header">
+				2. Metadata Import
+			</h5>
+		
+			<p>
+				Publishing on GoeScholar is supported by an automated import of bibliographic data (metadata). 
+				The metadata import form has input fields for the following identifiers: DOI, PubMedIDand PPN (identifier of the GBV catalog).
+				Enter, for example, the PubMedID of your publication and continue via the “Weiter” button.
+				If possible, the publication data is automatically transferred to the Metadatenformular.
+				If you have more than one identifier, please use the PubMedID due to the excellent quality of the publication data.
+			</p>
+			<p>
+				
+				If no identifier is available or no data can be imported, just click the “Weiter” button.
+			</p>
+			<!-- <p>
+
+				If you resume work on publications in the “Unfinished submissions” area under "Submissions" it could happen that e. g. the DOI for the document will already be visible in the “Metadata Import” screen. If you continue via “Weiter” the data associated with this DOI will be loaded into the entry form. If you make an error while typing in your identifier, delete this and check the “Aktualisieren” (i.e. update) box. 
+			</p> -->
+			<h5 class="page-header">
+				3. Describe [the document]
+			</h5>
+			<p>
+			If no data can be imported, please describe your document with the aid of the provided metadata fields. Different fields will be shown depending on your publication type. Required fields are marked with an asterisks (*). These must be filled in.
+
+			</p>
+			<p>
+				Your information will help improve how easily your publication is found online as well as its accessibility.
+			</p>
+			
+			<!-- <p>
+					<strong>Autorinnen und Autoren:</strong>
+			</p>
+			<p>
+					Bitte geben Sie in dieses Feld den Namen von Personen oder Einrichtungen ein, die an der Veröffentlichung beteiligt waren. Handelt es sich um eine Einrichtung, z. B. „Deutsche Forschungsgemeinschaft“, so geben Sie den Namen in das Feld „Nachname“ ein. Die meisten Namen bestehen aus einem Vornamen und einem Nachnamen und sind darum einfach zu erfassen. Grundsätzlich gilt, dass die Namen von Personen in der Form aufgenommen werden, wie sie ihn selbst verwenden. Adelstitel, Berufsbezeichnungen, Titulaturen und ähnliches werden bei der Aufnahme von Personennamen nicht berücksichtigt.
+			</p>
+			<p>
+				 Beispiele:
+			</p>
+					 <ul>
+						<li><strong>Vorlage</strong>: Prof. Dr. Norbert Henrichs;  <strong>GoeScholar</strong>: Henrichs, Norbert</li>
+						<li><strong>Vorlage</strong>: Sir Peter Ustinov;           <strong>GoeScholar</strong>: Ustinov, Peter</li>
+						<li><strong>Vorlage</strong>: Peter von Ustinov;           <strong>GoeScholar</strong>: Ustinov, Peter von</li>
+					  </ul>
+
+			<p>Präfixe (Präpositionen, Artikel und deren Verschmelzungen) bei Personennamen werden je nach Sprachregion entweder zum Vornamen oder zum Nachnamen gestellt.
+			   </p>
+			<p>
+					<strong>Titel:</strong>
+			</p>
+			<p>
+					Geben Sie bitte den vollständigen Titel, ggf. Untertitel, Übersetzungstitel und weitere Titel Ihrer Veröffentlichung an.
+			</p>		
+			<p>
+					<strong>Erscheinungsdatum:</strong>
+			</p>
+			<p>
+					Bitte geben Sie nur das Erscheinungsjahr von der Verlagspublikation ein. Bei Autorenversionen können Sie ein ggf. abweichendes Jahr im Feld Bemerkung notieren.
+			</p>
+			<p>
+					<strong>Verlag:</strong>
+			</p>
+			<p>
+					Bitte nennen Sie den Verlagsnamen entsprechend der Vorlage.
+			</p>
+			<p>
+					<strong>Gesamttitel/Serie und Zählung:</strong>
+			</p>
+			<p>
+					Bitte geben Sie hier den Gesamttitel der Serie oder den Zeitschriftentitel und die zugehörige Zählung ein, sofern vorhanden.
+			</p>
+			<p>
+					Beispiele für Serien:
+			</p>
+				<ul>
+						<li>Rowohlt Monographien ; 6 </li>
+						<li>Lecture notes on computer science ; 3a</li>
+				</ul>
+			<p>
+					<strong>Keywords:</strong>
+			</p>
+			<p>
+					Bitte nehmen Sie sich die Zeit, Ihr Dokument mit Hilfe geeigneter <strong>Keywords (Schlüsselwörter)</strong> zu beschreiben. Diese charakterisieren den Dokumentinhalt und werden durch Semikolon getrennt. Verwenden Sie bitte keine anderen Trennungszeichen, da diese derzeit nicht automatisch korrigiert werden.<br />
+					Beispiel: polar oceanography; boundary current; mass transport; water masses; halocline<br />
+			</p>
+			<p>
+					<strong>Dokumentversion:</strong>
+			</p>
+			<p>
+					Bitte wählen Sie aus, ob Sie Ihre Autorenversion oder das Verlags-PDF auf GoeScholar hochladen.  Die Autorenversion ist das von den Autorinnen und Autoren zuletzt geschriebene und vom Verlag zur Publikation akzeptierte Manuskript. Es ist von den Autorinnen und Autoren gestaltet, idealerweise im PDF-Format und enhält alle Revisionen, die im Verlauf des Review-Prozesses gemacht wurden. Daher ist es inhaltlich gleichwertig mit der publizierten Version, hat aber kein Verlags-Layout, keine Verlags-Logos und -Seitenzahlen. Bitte entfernen Sie auch Kommentare, farbige Korrekturen und Zeilenmarkierungen. Das publizierte Verlags-PDF ist die publizierte Version eines Artikels im Verlags-Layout und mit entsprechend gesetzten Seitenzahlen.
+
+			</p>
+			<p>
+					<strong>Identifikationsnummer:</strong>
+			</p>
+			<p>
+					Beispiele:
+			</p>
+				<ul>
+						<li>DOI (Digital Object Identifier):
+								10.1103/PhysRevLett.87.478
+						</li>
+						<li>ISBN (International Standard Book Number):
+								3-411-04163-3
+						</li>
+						<li>ISSN (International Standard Serial Number):
+						1234-5678</li>
+						<li>URI (Uniform Resource Identifier):
+						http://de.wikipedia.org/wiki/URI</li>
+				</ul>
+			<p>
+					<strong>Sprache:</strong>
+			</p>
+			<p>
+					Bitte bezeichnen Sie die Sprache, in der Ihr Dokument verfasst worden ist. Sollte sie nicht in der Liste enthalten sein, wählen Sie bitte „Andere“
+			</p>
+			 <p>
+					<strong>Bemerkungen:</strong>
+			</p>
+			<p>
+					Hier können Sie weitere Informationen eintragen, die in der Anzeige mitgeführt werden.
+			</p> -->
+			<h5 class="page-header">
+					4. Dokument(e) Hochladen
+			</h5>
+			<p>
+					Clicking on “Browse” (i.e. Select) will open a new window in which you can select a file from the local file system. 
+					If you want to publish a document which consists of multiple files, enter the additional information to these files. 
+					Please use short and appropriate descriptions. These will be shown in the list of files in the document’s sidebar. Click on “Next” or “Save/Exit” to continue with or cancel publishing. 
+			</p>
+			<!--<p>
+					Wählen Sie bitte kurze und treffende Beschreibungen. Diese werden in der Auflistung der Dateien auf der Dokumentseite mit angezeigt.  Wählen Sie „Weiter“ oder „Speichern/Abbrechen“, um mit der
+					Veröffentlichung fortzufahren oder sie abzubrechen.
+			</p> -->
+			<p>
+					<strong>File formats</strong>
+			</p>
+			<p>
+					It is highly recommended to upload your document in PDF Format.
+					Bitte laden Sie Ihr Dokument möglichst in PDF-Format hoch. Only for this format can we guarantee that your document will be usable in the long term.
+					 <br />
+					You can also upload your document or supplementary material (such as tables, graphics, etc.) in any other format. 
+					These documents are also kept permanently, but there is no guarantee for the usability of the formats.
+			</p>
+			<!-- <p>
+					Falls Ihre Veröffentlichungen mehrere Dokumente beinhaltet, empfehlen wir eine kurze Beschreibung für die einzelne Dokumente anzugeben. 
+			</p> -->
+			<p>
+				<strong>Upload</strong>
+			</p>
+			
+			<p>
+				<strong>Checksums</strong>
+		</p>
+
+		<p>
+				Checksums help ensure that your document is uploaded correctly and that the contents were not modified during the process. The checksum is created on the basis of the document’s contents. To verify the integrity of your document create the checksum on your local computer and compare it with the displayed checksum. If the two values are different then a transmission error occurred and the upload process needs to be repeated. If the two values correspond your document was transferred correctly and exactly. 
+			</p>
+			<!-- <p>
+			To generate a checksum on your local computer please proceed as follows:	
+					Linux users can enter mdsum/<absolute path to document> in their Terminal shell and the checksum will be indicated. OSX users can use md5/<absolute path to document> to view the checksum.
+			</p>
+			<p>
+					Tools for Unix systems: "md5sum". <br />
+					Tools for Windows systems: "md5sum"
+					Tools für Windows-Systeme: <a href="http://www.fourmilab.ch/md5/">md5</a>,
+					 „textutils“ von <a href="http://www.cygwin.com/">Cygwin</a>.
+			</p> -->
+			<h5>
+				4. CC-License 
+			</h5>
+			<p>	
+				You can see the default Terms of Use for publications on GoeScholar <a hfer="/licenses">here</a> (User Rights).
+				<br />
+				If you want to publish your work under different conditions, you can choose a suitable Creative Commons License which will be shown on the publication page.
+				 
+			</p>
+			<p>	
+				If you agree with the standard license for the usage of your document, just click on "Next" without selecting a license.
+			</p>
+			<h5 class="page-header">
+				 5. [Deposit]-Licence
+			</h5>
+			<p>
+				Publishing your work on GoeScholar requires your agreement to the <a href="\licenses">following</a> assignment of rights (Deposit Licence).
+				
+			</p>
+			<p>
+				Please approve the terms of license in order to make your publication available on GoeScholar. Once you accept the license your publication will be made available according to the terms described in the license and archived in the system. 
+			</p>
+			<p>
+			If you do not agree to the terms of license the document will remain in your personal workspace, “My GoeScholar”, but will not be publically available.
+			</p>
+			
+			<h5 class="page-header">
+				Completed
+			</h5>
+			<p>
+				Your document is now archived with GoeScholar. A confirmation will be sent to you by email. Under “My GoeScholar/Submission” you can view the documents which remain in an “incomplete status” in the publication workflow.
+			</p>
+			
+		</div> 
         <h3 class="page-header">
 			Frequently Asked Questions
 		</h3>
@@ -3753,15 +4067,29 @@ Der Urheber räumt der Universität Göttingen im Rahmen der Rechtseinräumung g
   <message key="report">Report</message>
   <message key="review">Review</message>
   <message key="researchData">Research Data</message>
+
+  <!-- subtypes -->
+  <message key="posterPresentation">Poster Presentation</message>
+  <message key="meetingAbstracts">Meeting Abstracts</message>
+  <message key="databaseReport">Database Report</message>
   <!-- status -->
   <message key="peerReviewed">peer reviewed</message>
   <message key="unReviewed">unreviewed</message>
   <message key="unKnown">unknown</message>
 
-  <!-- end -->
+   <!-- document version -->
+  <message key="publishedVersion">Published Version</message>
+  <message key="submittedVersion">Submitted Version</message>
+   <message key="acceptedVersion">Accepted Version</message>
+  <message key="draft">Draft</message>
 
-  
-   <message key="xmlui.Submission.submit.PrefillStep.identifier.info">If your work already has an Identifier (DOI, PubMed ID or PPN  [Identifier of the library catlogue), please fill out the related field. We will try to automatically import the bibliographic data of your document. <br/> If there is no such identifier, please click "next".</message>
+
+  <!-- end -->
+   <message key="xmlui.Submission.submit.PrefillStep.refresh.label">Overwrite</message>
+   <message key="xmlui.Submission.submit.PrefillStep.identifier.error">The data could not be loaded. Please check the validity of the ID or continue with "next" manually.</message>
+  <message key="xmlui.Submission.submit.PrefillStep.help">If your work already has an Identifier (DOI, PubMed ID or PPN  [Identifier of the library catlogue), please enter it in the form. The bibliographic data for the document will be automatically loaded and displayed in the next step. Otherwise simply continue with "Next".</message>
+  <message key="xmlui.Submission.submit.PrefillStep.refresh_help">Please activate the "overwrite" checkbox only if you want to correct an already filled in ID.</message> 
+   f your work already has an Identifier (DOI, PubMed ID or PPN  [Identifier of the library catlogue), please enter it in the form. The bibliographic data for the document will be automatically loaded and displayed in the next step. Otherwise simply continue with "Next".<message key="xmlui.Submission.submit.PrefillStep.identifier.info"></message>
   <message key="xmlui.Administrative.WithdrawnItems.title.item.title">Withdrawn Items</message>
 
   <!-- Discovery -->
@@ -3782,10 +4110,15 @@ Der Urheber räumt der Universität Göttingen im Rahmen der Rechtseinräumung g
 	<message key="xmlui.Discovery.AbstractSearch.sort_by.head">Sort by:</message>
 	<message key="xmlui.Discovery.AbstractSearch.sort_by.dc.title_sort_asc">Title ascendent</message>
 	<message key="xmlui.Discovery.AbstractSearch.sort_by.dc.title_sort_desc">Title descendent</message>
-	<message key="xmlui.Discovery.AbstractSearch.sort_by.dc.date.issued_dt_asc">Date ascendent</message>
-	<message key="xmlui.Discovery.AbstractSearch.sort_by.dc.date.issued_dt_desc">Date descendent</message>
-	<message key="xmlui.Discovery.AbstractSearch.sort_by.dc.title_sort_asc"></message>
-	<message key="xmlui.Discovery.AbstractSearch.sort_by.dc.title_sort_asc"></message>
+	<message key="xmlui.Discovery.AbstractSearch.sort_by.dc.date.issued_dt_asc">Issue Date ascendent</message>
+	<message key="xmlui.Discovery.AbstractSearch.sort_by.dc.date.issued_dt_desc">Issue Date descendent</message>
+	  <message key="xmlui.ArtifactBrowser.SimpleSearch.filter.identifier">Identifier</message>
+  <message key="xmlui.Discovery.AbstractSearch.sort_by.dc.date.accessioned_dt_asc">Access Date ascendent</message>
+  <message key="xmlui.Discovery.AbstractSearch.sort_by.dc.date.accessioned_dt_desc">Access Date descendent</message>
 	
 	<message key="xmlui.Discovery.AbstractSearch.rpp">Items per page:</message>
+
+	<message key="xmlui.navigation.more.offers">More Offers</message>
+	<message key="xmlui.navigation.lectures.link">Lecture Series at the University</message>
+	<message key="xmlui.ArtifactBrowser.AdvancedSearch.type_version">Document version</message>
 </catalogue>

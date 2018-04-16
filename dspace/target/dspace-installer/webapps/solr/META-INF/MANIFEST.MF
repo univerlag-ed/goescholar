@@ -7,7 +7,7 @@ Specification-Vendor: DuraSpace
 Specification-Title: DSpace SOLR :: Local Customizations
 Implementation-Vendor-Id: org.dspace.modules
 Created-By: Apache Maven 3.3.9
-Build-Jdk: 1.8.0_131
+Build-Jdk: 1.8.0_151
 Specification-Version: 5.6
 Implementation-Vendor: DuraSpace
 

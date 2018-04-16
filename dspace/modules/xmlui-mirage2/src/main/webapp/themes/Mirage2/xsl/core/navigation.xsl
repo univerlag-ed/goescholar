@@ -128,6 +128,11 @@
 		<xsl:if test="//dri:userMeta/@authenticated='yes'">
                 	<xsl:apply-templates select="dri:list[@n='account']"/>
 		</xsl:if>
+		<xsl:apply-templates select="dri:list[@n='discovery']"/>
+		<h2 class="ds-option-set-head h6"><i18n:text>xmlui.navigation.more.offers</i18n:text></h2>
+                <div class="list-group">
+			<a href="/lectures/list" class="list-group-item ds-option"><i18n:text>xmlui.navigation.lectures.link</i18n:text></a>
+		</div>
 		<h2 class="ds-option-set-head h6"><i18n:text>xmlui.static.info_label</i18n:text></h2>
 		<div class="list-group">
 			<a href="/help" class="list-group-item ds-option"><i18n:text>xmlui.static.help_link</i18n:text></a>
@@ -138,7 +143,6 @@
 			<a href="/oa-fonds" class="list-group-item ds-option"><i18n:text>xmlui.static.oa-fonds_link</i18n:text></a>
 		</div> 
 		<xsl:apply-templates select="dri:list[@n='administrative']"/>
-                <xsl:apply-templates select="dri:list[@n='discovery']"/>
                 <xsl:apply-templates select="dri:list[@n='statistics']"/>
             <!-- DS-984 Add RSS Links to Options Box -->
             <!--<xsl:if test="count(/dri:document/dri:meta/dri:pageMeta/dri:metadata[@element='feed']) != 0">

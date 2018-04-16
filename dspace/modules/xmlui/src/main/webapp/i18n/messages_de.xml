@@ -24,10 +24,10 @@
 		--> 
 	
 	<!-- General keys -->
-	<message key="xmlui.general.dspace_home">GoeScholar</message>
-	<message key="xmlui.general.search">Suche</message>
+	<message key="xmlui.general.dspace_home">Startseite</message>
+	<message key="xmlui.general.search">Volltextsuche</message>
 	<message key="xmlui.general.go">Los</message>
-	<message key="xmlui.general.go_home">Zur GoeScholar</message>
+	<message key="xmlui.general.go_home">Zur Startseite</message>
 	<message key="xmlui.general.save">Speichern</message>
 	<message key="xmlui.general.cancel">Abbrechen</message>
 	<message key="xmlui.general.return">Zurück</message>
@@ -91,7 +91,7 @@
 	<message key="xmlui.ArtifactBrowser.AbstractSearch.head2">Bereiche und Sammlungen zu Ihrer Suchanfrage</message>
 	<message key="xmlui.ArtifactBrowser.AbstractSearch.head3">Dokumente zu Ihrer Suchanfrage</message>
 	<message key="xmlui.ArtifactBrowser.AbstractSearch.no_results">Die Suche führte zu keinem Treffer.</message>
-	<message key="xmlui.ArtifactBrowser.AbstractSearch.all_of_dspace">Gesamtes GoeScholar</message>
+	<message key="xmlui.ArtifactBrowser.AbstractSearch.all_of_dspace">GoeScholar Bestand</message>
 
     <message key="xmlui.ArtifactBrowser.AbstractSearch.sort_by.title">Titel</message>
     <message key="xmlui.ArtifactBrowser.AbstractSearch.sort_by.dateissued">Erscheinungsdatum</message>
@@ -119,7 +119,7 @@
 	<message key="xmlui.ArtifactBrowser.AdvancedSearch.type_advisor">Betreuer</message>
 	<message key="xmlui.ArtifactBrowser.AdvancedSearch.type_series">Serie</message>
 	<message key="xmlui.ArtifactBrowser.AdvancedSearch.type_sponsor">Sponsor</message>
-	<message key="xmlui.ArtifactBrowser.AdvancedSearch.type_identifier">Kennung</message>
+	<message key="xmlui.ArtifactBrowser.AdvancedSearch.type_identifier">exakte Zeichenfolge</message>
 	<message key="xmlui.ArtifactBrowser.AdvancedSearch.type_language">Sprache (ISO)</message>
 	<message key="xmlui.ArtifactBrowser.AdvancedSearch.type_keyword">Stichwort</message>
 
@@ -203,7 +203,7 @@
 	<message key="xmlui.ArtifactBrowser.CommunityViewer.all_of_dspace">Gesamter Bestand</message>
 	<message key="xmlui.ArtifactBrowser.CommunityViewer.full_text_search">Volltextsuche:</message>
 	<message key="xmlui.ArtifactBrowser.CommunityViewer.head_browse">Auflisten nach</message>
-	<message key="xmlui.ArtifactBrowser.CommunityViewer.browse_titles">Titeln</message>
+	<message key="xmlui.ArtifactBrowser.CommunityViewer.browse_titles">Titel</message>
 	<message key="xmlui.ArtifactBrowser.CommunityViewer.browse_authors">Autoren</message>
 	<message key="xmlui.ArtifactBrowser.CommunityViewer.browse_dates">Datum</message>
 	<message key="xmlui.ArtifactBrowser.CommunityViewer.advanced_search_link">Erweiterte Suche</message>
@@ -250,9 +250,9 @@
 	
 	<!-- org.dspace.app.xmlui.artifactbrowser.Navigation.java -->
 	<message key="xmlui.ArtifactBrowser.Navigation.head_browse">Browsen</message>
-	<message key="xmlui.ArtifactBrowser.Navigation.head_all_of_dspace">Gesamter GoeScholar</message>
+	<message key="xmlui.ArtifactBrowser.Navigation.head_all_of_dspace">GoeScholar Bestand</message>
 	<message key="xmlui.ArtifactBrowser.Navigation.communities_and_collections">Einrichtungen</message>
-	<message key="xmlui.ArtifactBrowser.Navigation.browse_title">Titeln</message>
+	<message key="xmlui.ArtifactBrowser.Navigation.browse_title">Titel</message>
 	<message key="xmlui.ArtifactBrowser.Navigation.browse_author">Autoren</message>
 	<message key="xmlui.ArtifactBrowser.Navigation.browse_subject">Schlagworten</message>
 	<message key="xmlui.ArtifactBrowser.Navigation.browse_dateissued">Erscheinungsdatum</message>
@@ -2543,8 +2543,69 @@
 
 			Publikationenserver der Georg-August-Universität Göttingen
 	</h2>
+	
+	<!-- icons -->
+	<div class="row">
+            
+	<div class="col-sm-6">		
+		<div class="media">						
+			<div class="media-left hidden-xs">							
+				<img src="/themes/Mirage2/images/upload2.svg" class="media-object home" alt="publish"></img>
+			</div>						
+			<div class="media-body">							
+				<span class="media-heading"><strong>Publizieren</strong></span>							
+				<p>
+				Veröffentlichen Sie Ihre Arbeiten, damit sie persistent adressierbar (auf Wunsch via DOI) und zitierbar sind.
+				</p>						
+			</div>					
+		</div>				
+	</div>
+				
+	<div class="col-sm-6">					
+		<div class="media">						
+			<div class="media-left hidden-xs">							
+				<img src="/themes/Mirage2/images/archive.svg" class="media-object home" alt="archive"></img>
+			</div>						
+			<div class="media-body">							
+				<span class="media-heading"><strong>Archivieren</strong></span>							
+				<p>
+				Alle Dokumente sind dauerhaft archiviert und die (PDF-Versionen) langfristig nutzbar.
+				</p>						
+			</div>					
+		</div>				
+	</div>
+</div>			
+<div class="row">				
+		<div class="col-sm-6">					
+			<div class="media">						
+				<div class="media-left hidden-xs">							
+					<img src="/themes/Mirage2/images/upload-to-cloud.svg" class="media-object home" alt="distribute"></img>
+				</div>						
+				<div class="media-body">							
+					<span class="media-heading"><strong>Verbreiten</strong></span>							
+					<p>
+					Durch die Partnerschaft von GoeScholar in mehreren internationalen Netzwerken wird die Sichtbarkeit der Publikationen weltweit erhöht.
+					</p>						
+				</div>					
+			</div>				
+		</div>
+				
+	<div class="col-sm-6">					
+		<div class="media">						
+			<div class="media-left hidden-xs">							
+				<img src="/themes/Mirage2/images/lock-open2.svg" class="media-object home" alt="openaccess"></img>
+			</div>						
+			<div class="media-body">							
+				<span class="media-heading"><strong>Open Access/Publikationsfonds</strong></span>							
+				<p>
+				Der freie Zugang zu Forschungsergebnissen wird von der Georg-August-Universität Göttingen mit einem eigenen  <a href="https://www.sub.uni-goettingen.de/elektronisches-publizieren/open-access/open-access-publikationsfonds/" target="_blank">Open-Access-Publikationsfonds</a>  finanziell unterstützt.
+				</p>								
+			</div>			
+		</div>
+	</div>
+</div>
 
-	<div>
+<!--	<div>
            
                     
 			<div><p class="page-header">
@@ -2582,9 +2643,9 @@
 
 			</div>	
 
-	</div>
+	</div> -->
 	<div class="strech">
-		<strong>Das GoeScholar Team übernimmt für Sie auf Wunsch mit dem <a href="/upload-service">Hochlade-Service</a> die Bereitstellung Ihrer Publikationen.</strong>
+		<strong><a href="/upload-service">Das GoeScholar Team übernimmt für Sie auf Wunsch die Bereitstellung Ihrer Publikationen.</a></strong>
 	</div>
   </message>
   <message key="xmlui.error.contact"><a href="mailto:mmuehlh@sub.uni-goettingen.de">Systemadministrator</a></message>
@@ -2820,7 +2881,7 @@
 				1. Zur Einrichtung navigieren, in die Ihre Veröffentlichung zugeordnet wird.
 			</h5>
 			<p>
-				Wenn Sie in GoeScholar angemeldet sind und über den Menüpunkt "Einrichten" eine bestimmte Einrichtung anklicken, wird Ihnen der Link "Hier Veröffetnlichen" angeboten.
+				Wenn Sie in GoeScholar angemeldet sind und über den Menüpunkt "Einrichtungen" eine bestimmte Einrichtung anklicken, wird Ihnen der Link "Hier Veröffetnlichen" angeboten.
 				Dieser Link führt Sie zum nächsten Schritt des Veröffentlichungsprozesses.
 			</p>
 			<!--<p>
@@ -3008,7 +3069,7 @@
 					Tools für Windows-Systeme: <a href="http://www.fourmilab.ch/md5/">md5</a>,
 					 „textutils“ von <a href="http://www.cygwin.com/">Cygwin</a>.
 			</p>
-			<h5>
+			<h5 class="page-header">
 				4. Eine Creative Commons-Lizenz für die Nutzung der Publikation vergeben
 			</h5>
 			<p>	
@@ -3588,13 +3649,13 @@
 		<h5 class="page-header">
                 <a data-toggle="collapse" href="#sources">Gibt es einen Download von Publikationen aus fremden Quellen?</a>
         </h5>
-        <div id="sources">
+        <div id="sources" class="collapse">
 			In Zusammenarbeit mit anderen Einrichtungen und durch die Kooperation mit einigen Verlagen im Bereich „Verlagsvereinbarungen der Universität Göttingen“ erweitert GoeScholar sein Angebot zur Nutzung von Fremddaten kontinuierlich. 
         </div>
         <h5 class="page-header">
                 <a data-toggle="collapse" href="#techsupport">Wo erhalte ich technische Unterstützung bei der Online-Veröffentlichung?</a>
         </h5>
-        <div id="techsupport">
+        <div id="techsupport" class="collapse">
 			Wenn Sie Ihr Dokument für die Online-Bereitstellung aufbereiten wollen (z. B. Konvertierung in PDF, Erstellung von Navigationsinstrumenten im Dokument, optimale Skalierung etc.), können Sie an den Geräten im Learning Resources Center (LRC - 2. Obergeschoss, Zentralbibliothek der SUB Göttingen) arbeiten und Services wie Drucken, Scannen, Grafik- oder Textbearbeitung nutzen. Dabei werden Sie in den Kernzeiten von Mitarbeiterinnen und Mitarbeitern des LRC beraten und technisch betreut. 
         </div>
         <h5 class="page-header">
@@ -3617,17 +3678,19 @@
         <h5 class="page-header">
                 <a data-toggle="collapse" href="#scann">Gibt es eine Möglichkeit meine bisher nur gedruckt vorliegenden Veröffentlichungen einzuscannen?</a>
         </h5>
-        <div id="scann">
+        <div id="scann" class="collapse">
 			Der Digitalisierungsservice der SUB Göttingen bietet Ihnen hierfür die geeignete technische Infrastruktur, entweder durch die Scanner des Learning Resources Center oder unsere Digitalisierungsdienste. Für Aufträge von Scanarbeiten (pro Seite bis DINA3 circa 0,25 Euro mit Volltexterkennung) oder die Erstellung von Kostenvoranschlägen kontaktieren Sie bitte unser Göttinger Digitalisierungszentrum (GDZ) <a href="mailto:gdz%40sub.uni-goettingen.de">(E-Mail)</a>. 
         </div>
-        <h5>Kann ich mehrere Dokumente hintereinander über GoeScholar bereitstellen?</h5>
-        <div>
+        <h5>
+		<a data-toggle="collapse" href="#moredocs">Kann ich mehrere Dokumente hintereinander über GoeScholar bereitstelln?</a>
+	</h5>
+        <div id="moredocs" class="collapse">
 			Sollten Sie eine grössere Zahl an Veröffentlichungen über GoeScholar einbringen wollen, kann das GoeScholar-Team seine Unterstützung anbieten. Schicken Sie uns einfach den Link zu Ihrer bereits vorhandenen Publikationsliste, so dass wir von dort die PDF-Dateien direkt herunterladen können. Bitte ergänzen Sie die dortigen Angaben um entsprechende Schlüsselwörter (Keywords), sofern sie nicht bereits in den Dateien enthalten sind. Alternativ können Sie uns Ihre PDF-Dateien (incl. der Angabe von Keywords) direkt zuschicken ggf. mit zusätzlicher Textdatei, aus der die Schlüsselwörter (Keywords) ersichtlich sind. Bitte schicken Sie Ihre Dateien, Links oder Publikationslisten für die Bereitstellung Ihrer Dokumente auf GoeScholar direkt an: Sabine Witt <a href="mailto:witt@sub.uni-goettingen.de">(E-Mail)</a>.
         </div>
         <h5 class="page-header">
                 <a data-toggle="collapse" href="#fq">Sie haben weitere Fragen?</a>
         </h5>
-        <div id="fq">
+        <div id="fq" class="collapse">
 			Bitte schicken Sie uns Ihre Frage(n) unter Menüpunkt „Feedback“ über unser Feedback-Formular. Sie erhalten von uns in Kürze eine Rückmeldung. 
         </div>
     </div>
@@ -4092,10 +4155,25 @@ E-Mail: <a href="mailto:bargheer@sub.uni-goettingen.de;mmuehlh@sub.uni-goettinge
   <message key="report">Report</message>
   <message key="review">Rezension</message>
   <message key="researchData">Forschungsdaten</message>
+
+  <!-- subtypes -->
+  
+  <message key="posterPresentation">Poster Präsentation</message>
+  <message key="meetingAbstracts">Zusammenfassung der Sitzungen</message>
+  <message key="databaseReport">Datenbankreport</message>
+
+  <message key="xmlui.ArtifactBrowser.SimpleSearch.filter.type">Publikationstyp</message>
+  <message key="xmlui.ArtifactBrowser.SimpleSearch.filter.status">Publikationsstatus</message>
   <!-- status -->
   <message key="peerReviewed">begutachtet</message>
   <message key="unReviewed">nicht begutachtet</message>
   <message key="unKnown">unbekannt</message>
+
+  <!-- document version -->
+  <message key="publishedVersion">Verlagsversion</message>
+  <message key="submittedVersion">Zur Publikation eingereicht</message>
+   <message key="acceptedVersion">Vom Verlag akzeptiert</message>
+  <message key="draft">Entwurf</message>
 
   <!-- end -->  
 
@@ -4103,18 +4181,24 @@ E-Mail: <a href="mailto:bargheer@sub.uni-goettingen.de;mmuehlh@sub.uni-goettinge
   <message key="xmlui.Administrative.WithdrawnItems.title.item.title">Zurückgezogene Dokumente</message>
 
   <!-- Discovery -->
-  <message key="show-advanced-filters">Erweiterte Filter</message>
-  <message key="xmlui.mirage2.discovery.hideAdvancedFilters">Filter schließen</message>
+  <message key="xmlui.ArtifactBrowser.SimpleSearch.filter.identifier">Identifikatior</message>
+  <message key="xmlui.Discovery.AbstractSearch.sort_by.dc.date.accessioned_dt_asc">Zugangsdatum aufsteigend</message>
+  <message key="xmlui.Discovery.AbstractSearch.sort_by.dc.date.accessioned_dt_desc">Zugangsdatum absteigend</message>
+  <message key="show-advanced-filters">Filter anzeigen</message>
+  <message key="xmlui.mirage2.discovery.hideAdvancedFilters">Filter ausblenden</message>
   <message key="xmlui.mirage2.itemSummaryView.MetaData">Metadata</message>
     <message key="xmlui.mirage2.itemSummaryView.Collections">Collections</message>
 
     <message key="xmlui.mirage2.discovery.reset">Zurücksetzen</message>
     <message key="xmlui.mirage2.discovery.newFilter">Filter hinzufügen</message>
     <message key="xmlui.mirage2.discovery.showAdvancedFilters">Erweiterte Filter</message>
-    <message key="xmlui.mirage2.discovery.hideAdvancedFilters">Filter schließen</message>
+    <message key="xmlui.mirage2.discovery.hideAdvancedFilters">Filter ausblenden</message>
 
   <message key="xmlui.ArtifactBrowser.AdvancedSearch.type_type">Typ</message>
   <message key="xmlui.ArtifactBrowser.AdvancedSearch.type_status">Status</message>
 
+  <message key="xmlui.navigation.more.offers">Weitere Angebote</message>
+  <message key="xmlui.navigation.lectures.link">Ringvorlesungen der Universität</message>
+  <message key="xmlui.ArtifactBrowser.AdvancedSearch.type_version">Dokumentversion</message>
 </catalogue>
 

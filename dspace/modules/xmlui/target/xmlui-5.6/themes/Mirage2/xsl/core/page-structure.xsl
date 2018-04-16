@@ -943,21 +943,23 @@
             <xsl:call-template name="choiceLookupPopUpSetup"/>
         </xsl:if>
 
-        <!-- Add a google analytics script if the key is present -->
-        <xsl:if test="/dri:document/dri:meta/dri:pageMeta/dri:metadata[@element='google'][@qualifier='analytics']">
-            <script><xsl:text>
-                  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-                  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-                  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-                  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-                  ga('create', '</xsl:text><xsl:value-of select="/dri:document/dri:meta/dri:pageMeta/dri:metadata[@element='google'][@qualifier='analytics']"/><xsl:text>', '</xsl:text><xsl:value-of select="/dri:document/dri:meta/dri:pageMeta/dri:metadata[@element='request'][@qualifier='serverName']"/><xsl:text>');
-                  ga('send', 'pageview');
-           </xsl:text></script>
-        </xsl:if>
-	<!--<script src="/themes/Mirage2/scripts/bootstrap-modal.min.js"></script>
-	<script src="/themes/Mirage2/scripts/bootstrap-modalmanager.min.js"></script> -->
-	<!--<link rel="stylesheet" href="/themes/Mirage2/styles/bootstrap-modal.min.css"></link> -->
+	<!-- Add PIWIK analytics -->
+	<script type="text/javascript">
+			var pkBaseURL = (("https:" == document.location.protocol) ? "https://piwik.gwdg.de/" : "http://piwik.gwdg.de/");
+			document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+		</script>
+	<script type="text/javascript">
+			try {
+				var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 72);
+				piwikTracker.trackPageView(); 
+				piwikTracker.enableLinkTracking();
+			} catch( err ) {} 
+	</script>
+	<noscript>
+	<p>
+		<img alt="" style="border:0" src="http://piwik.gwdg.de/piwik.php?idsite=72" />
+	</p>
+	</noscript>
     </xsl:template>
 
     <!--The Language Selection-->

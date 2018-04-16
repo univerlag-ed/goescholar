@@ -499,7 +499,7 @@
         </strong>
     </xsl:template>
 
-    <xsl:template match="dri:xref">
+    <!-- <xsl:template match="dri:xref">
         <a>
             <xsl:if test="@target">
                 <xsl:attribute name="href"><xsl:value-of select="@target"/></xsl:attribute>
@@ -519,7 +519,7 @@
 
             <xsl:apply-templates />
         </a>
-    </xsl:template>
+    </xsl:template> -->
 
     <xsl:template match="dri:figure">
         <xsl:if test="@target">
@@ -759,5 +759,34 @@
         <xsl:apply-templates select="dri:item/dri:field"/>
     </xsl:template>
 
+        <xsl:template match="dri:xref">
+        <a>
+	    <xsl:if test="@target">
+                <xsl:attribute name="href"><xsl:value-of select="@target"/></xsl:attribute>
+            </xsl:if>
 
+            <xsl:if test="@rend">
+                <xsl:attribute name="class"><xsl:value-of select="@rend"/></xsl:attribute>
+            </xsl:if>
+
+            <xsl:if test="@n">
+                <xsl:attribute name="name"><xsl:value-of select="@n"/></xsl:attribute>
+            </xsl:if>
+
+            <xsl:if test="@onclick">
+                <xsl:attribute name="onclick"><xsl:value-of select="@onclick"/></xsl:attribute>
+            </xsl:if>
+
+            <xsl:choose>
+
+                <xsl:when test="contains(@target, 'filtertype') and (contains(@target, 'type') or contains(@target, 'status'))">
+                    <i18n:text>xmlui.Mirage2.DIM-type-<xsl:value-of select="substring-before(.,' ')" /></i18n:text><xsl:value-of select="concat(' ', substring-after(., ' ')) "/>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:apply-templates />
+                </xsl:otherwise>
+            </xsl:choose>
+
+        </a>
+    </xsl:template>
 </xsl:stylesheet>

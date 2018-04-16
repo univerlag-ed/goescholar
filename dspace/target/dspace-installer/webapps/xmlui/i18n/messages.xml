@@ -186,16 +186,16 @@
 	<message key="xmlui.ArtifactBrowser.CollectionViewer.all_of_dspace">Gesamter Bestand</message>
 	<message key="xmlui.ArtifactBrowser.CollectionViewer.full_text_search">Volltextsuche:</message>
 	<message key="xmlui.ArtifactBrowser.CollectionViewer.head_browse">Auflisten nach</message>
-	<message key="xmlui.ArtifactBrowser.CollectionViewer.browse_titles">Titeln</message>
+	<message key="xmlui.ArtifactBrowser.CollectionViewer.browse_titles">Titel</message>
 	<message key="xmlui.ArtifactBrowser.CollectionViewer.browse_authors">Autoren</message>
 	<message key="xmlui.ArtifactBrowser.CollectionViewer.browse_dates">Datum</message>
 	<message key="xmlui.ArtifactBrowser.CollectionViewer.advanced_search_link">Erweiterte Suche</message>
 	<message key="xmlui.ArtifactBrowser.CollectionViewer.head_recent_submissions">Zuletzt publiziert</message>
 	
 	<!-- org.dspace.app.xmlui.artifactbrowser.CommunityBrowser.java -->
-	<message key="xmlui.ArtifactBrowser.CommunityBrowser.title">Bereichsliste</message>
-	<message key="xmlui.ArtifactBrowser.CommunityBrowser.trail">Bereichsliste</message>
-	<message key="xmlui.ArtifactBrowser.CommunityBrowser.head">Einrichtungen in GoeScholar</message>
+	<message key="xmlui.ArtifactBrowser.CommunityBrowser.title">Einrichtungen</message>
+	<message key="xmlui.ArtifactBrowser.CommunityBrowser.trail">Einrichtungen</message>
+	<message key="xmlui.ArtifactBrowser.CommunityBrowser.head">Einrichtungen</message>
 	<message key="xmlui.ArtifactBrowser.CommunityBrowser.select">&#32;</message>
 
 	<!-- org.dspace.app.xmlui.artifactbrowser.CommunityViewer.java -->
@@ -2046,7 +2046,7 @@
 	
 	<message key="xmlui.dri2xhtml.METS-1.0.license-text">Nutzungslizenz für diese Dokumente:</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.cc-license-text">Nutzungslizenz für diese Dokumente:</message>
-	<message key="xmlui.dri2xhtml.METS-1.0.standard-license-text">Nutzungslizenz für diese Dokumente: <a href="/linceses"><span class="goes"> Standard GoeScholar Lizenz</span></a></message>
+	<message key="xmlui.dri2xhtml.METS-1.0.standard-license-text">Nutzungslizenz für diese Dokumente: <a href="/licenses"><span class="goes">&#160;</span> Standard GoeScholar Lizenz</a></message>
 	<message key="xhtml.METS-1.0.collection-not-implemented">
 		Die zusammenfassende Darstellung einer Sammlung ist noch nicht implementiert. Sie können dies tun, 
 		indem Sie das dri2xhtml template "collectionSummaryView" überschreiben.
@@ -2549,7 +2549,7 @@
                     
 			<div><p class="page-header">
 					<span class="goes">&#160;</span> 
-					bietet ein umfassendes Spektrum wissenschaftlicher Publikationen der Universität Göttingen </p>
+					GoeScholar bietet ein umfassendes Spektrum wissenschaftlicher Publikationen der Universität Göttingen </p>
 					
 						
 					
@@ -2559,7 +2559,7 @@
 
 			</div>		
 
-			<div><p class="page-header"><span class="goes">&#160;</span> unterstützt den offenen Zugang zu wissenschaftlicher Information im Sinne der 
+			<div><p class="page-header"><span class="goes">&#160;</span> GoeScholar unterstützt den offenen Zugang zu wissenschaftlicher Information im Sinne der 
 					<a href="http://oa.mpg.de/lang/de/berlin-prozess/berliner-erklarung/" target="_blank" class="extern"> Berliner Erklärung</a> 
 					</p>
 					
@@ -2570,7 +2570,7 @@
 
 			</div>	
 
-			<div><p class="page-header"><span class="goes">&#160;</span> ist Partner in den europäischen Repositorien-Netzwerken <a href="http://www.driver-community.eu/" target="_blank" class="extern">  
+			<div><p class="page-header"><span class="goes">&#160;</span> GoeScholar ist Partner in den europäischen Repositorien-Netzwerken <a href="http://www.driver-community.eu/" target="_blank" class="extern">  
 					<acronym title="Digital Repository Infrastructure Vision for Euorpean Research">DRIVER</acronym></a>, 
 					<a href="http://coar-repositories.org/" target="_blank" class="extern"><acronym title="Confedaration of Open Access Repositories">COAR</acronym></a>,  
 				    <a href="http://www.openaire.eu" target="_blank" class="extern"><acronym title="Open Access Infrastructure for Research in Europa">OpenAIRE</acronym></a> 
@@ -2712,9 +2712,9 @@
 
   <message key="xmlui.static.help">
     <div class="help">
-        <h2 class="ds-div-head page-header first-page-header">Help &#38; FAQ</h2>
+        <h2 class="ds-div-head page-header first-page-header">Hilfe &#38; FAQ</h2>
         <h3 class="page-header">
-			Help
+			Hilfe
 		</h3>
         <h4 class="page-header">
                 <a href="#search" data-toggle="collapse">Suche</a>
@@ -2831,7 +2831,7 @@
 			<p>
 
 				In Einzelfällen kann die Zuordnung schwierig sein und daher nicht eindeutig erfolgen. Sollte Ihnen keine der angezeigten Einrichtungen passend erscheinen, 
-				wenden Sie sich bitte an <a href="mailto:witt@sub.uni-goettingen.de">Sabine Witt (E-Mail)</a> oder nutzen Sie den <a href="/upload-service" title ="Goescholar Hochlade-Service">GoeScholar Hochlade-Service</a> des GoeScholar-Teams.
+				wenden Sie sich bitte an <a href="mailto:witt@sub.uni-goettingen.de">Sabine Witt (E-Mail)</a> oder nutzen Sie den <a href="/upload-service" title ="GoeScholar Hochlade-Service">GoeScholar Hochlade-Service</a> des GoeScholar-Teams.
 
 			</p>
 			<h5 class="page-header">
@@ -3380,7 +3380,7 @@
         </div>
         
         <h3 class="page-header">
-			FAQ
+			FAQ - häufig gestellte Fragen
 		</h3>
 		<h4 class="page-header">
                 		Allgemeines
@@ -3637,7 +3637,8 @@
   <message key="xmlui.static.liceses.title">GoeScholar Lizenzen</message>
   <message key="xmlui.static.user-rights">
 	<h2 class="ds-div-head page-header first-page-header">GoeScholar Lizenzen</h2> 
-        <h3>Lizenzbedingungen für die Nutzung der Publikationen in GoeScholar</h3>
+        <h3>NUTZUNGSLIZENZ</h3>
+	<p class="it">Die Dokumente auf GoeScholar sind standardmäßig - d.h. falls auf der jeweiligen Publikationsseite nicht anders vermerkt - unter folgenden Bedingungen nutzbar:</p>
 
 	<div>
 		<p>
@@ -3651,7 +3652,8 @@
   </message>
 
   <message key="xmlui.static.rights">
-	<h2 class="ds-div-head page-header first-page-header">Das Publizieren auf GoeScholar setzt voraus, dass die Publizierenden der folgenden Rechtevereinbarung zustimmen. </h2>
+	<h2 class="ds-div-head page-header first-page-header">DEPOSIT LIZENZ</h2>
+	<p class="it">Das Publizieren auf GoeScholar setzt voraus, dass die Publizierenden der folgenden Rechtevereinbarung zustimmen. Die Zustimmung erfolgt im letzten Schritt des Veröffentlichungsprozesses.</p>
         <h3>Rechtseinräumung</h3>
 
 	<div>
@@ -3659,8 +3661,8 @@
 	</div>
    </message>
    <message key="xmlui.deposit.license.text">
-	<h3>Das Publizieren auf GoeScholar setzt voraus, dass die Publizierenden der folgenden Rechtevereinbarung zustimmen.</h3>
-<!--		LIZENZBEDINGUNGEN FÜR DIE VERÖFFENTLICHUNG AUF DEM DOKUMENTENSERVER DER GEORG-AUGUST-UNIVERSITÄT GÖTTINGEN -->
+	<h2 class="ds-div-head page-header first-page-header">DEPOSIT LIZENZ</h2>
+        <p>Das Publizieren auf GoeScholar setzt voraus, dass die Publizierenden der folgenden Rechtevereinbarung zustimmen. Die Zustimmung erfolgt im letzten Schritt des Veröffentlichungsprozesses.</p>
 	<div>
 	  <ol>
 		<li>
@@ -3902,6 +3904,24 @@ E-Mail: <a href="mailto:bargheer@sub.uni-goettingen.de;mmuehlh@sub.uni-goettinge
 <span>+49 (0)551 39-4255 (Tel.)</span>
 <span><a href="mailto:mmuehlh@sub.uni-goettingen.de">mmuehlh@sub.uni-goettingen.de (E-Mail)</a></span>
 </div>
+<h4>Urheberrecht</h4>
+	
+	<div>
+	<h3>Kopfbild</h3>
+
+
+	<p>
+	Auditorium der Universität Göttingen /©2007, created by Daniel Schwen, License: <a href="//creativecommons.org/licenses/by-sa/2.5/deed.de">CC BY-SA 2.5</a>
+	</p>
+	<h3>Icon Fonts</h3>
+
+	<p>
+	 Font Awesome 4.7.0<br />
+	 ©Font: Created by Dave Gandy, License:  <a href="http://scripts.sil.org/OFL">SIL OFL 1.1</a> <br />
+	 ©Code: <a href="http://opensource.org/licenses/mit-license.html">MIT License</a>
+	 </p>
+
+	</div>
 </message>
 
   <message key="xmlui.static.oa-fonds">
@@ -4049,12 +4069,35 @@ E-Mail: <a href="mailto:bargheer@sub.uni-goettingen.de;mmuehlh@sub.uni-goettinge
   <message key="xmlui.Mirage2.DIM-type-erratum">Erratum</message>
   <message key="xmlui.Mirage2.DIM-type-report">Report</message>
   <message key="xmlui.Mirage2.DIM-type-review">Rezension</message>
+  <message key="xmlui.Mirage2.DIM-type-researchData">Forschungsdaten</message>
   <!-- subtypes -->
   <message key="xmlui.Mirage2.DIM-type-meetingAbstracts">Zusammenfassung der Sitzungen</message>
   <message key="xmlui.Mirage2.DIM-type-posterPresentation">Poster Präsentation</message>
   <message key="xmlui.Mirage2.DIM-type-letter">Brief</message>
   <message key="xmlui.Mirage2.DIM-type-databaseReport">Datenbankreport</message>
-  
+
+
+   <!-- keys for facet translation -->
+  <message key="journalArticle">Zeitschriftenartikel</message>
+  <message key="anthologyArticle">Sammelbandbeitrag</message>
+  <message key="anthology">Sammelband</message>
+  <message key="monograph">Monografie</message>
+  <message key="bookPart">Buchteil</message>
+  <message key="workingPaper">Working Paper</message>
+  <message key="conferencePaper">Konferenzbeitrag</message>
+  <message key="conferenceVolume">Konferenzband</message>
+  <message key="lecture">Vortrag</message>
+  <message key="preprint">Arbeitspapier</message>
+  <message key="erratum">Erratum</message>
+  <message key="report">Report</message>
+  <message key="review">Rezension</message>
+  <message key="researchData">Forschungsdaten</message>
+  <!-- status -->
+  <message key="peerReviewed">begutachtet</message>
+  <message key="unReviewed">nicht begutachtet</message>
+  <message key="unKnown">unbekannt</message>
+
+  <!-- end -->  
 
   <message key="xmlui.Submission.submit.PrefillStep.identifier.info">Falls für die Publikation kein Identifier vorliegt, gehen Sie bitte auf "Weiter". Ist ein Identifier vorhanden, werden die bibliographischen Daten zum Dokument im nächsten Schritt automatisch eingetragen.</message>
   <message key="xmlui.Administrative.WithdrawnItems.title.item.title">Zurückgezogene Dokumente</message>

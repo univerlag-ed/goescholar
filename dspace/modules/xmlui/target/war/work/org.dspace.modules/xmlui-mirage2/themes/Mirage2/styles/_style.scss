@@ -22,6 +22,17 @@
     background: hotpink;
 }
 
+.ds-static-div h3.list-item-header {
+    border-bottom: 1px solid #ddd;
+}
+
+.ds-static-div.copy {
+    margin-bottom: 15px;
+}
+.media .media-left .media-object {
+    max-width: 60px;
+}
+
 h2, .h2 {
     font-size: 25px;
 }
