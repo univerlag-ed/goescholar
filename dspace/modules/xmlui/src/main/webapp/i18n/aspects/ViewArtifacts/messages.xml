@@ -57,6 +57,23 @@
     <!-- Liste der Ringvorlesungen -->
 
     <message key="xmlui.static.ring.listall">
+
+	<h3 class="list-item-header">2018</h3>
+        
+            <div class="alone">
+                <div class="media">
+
+                    <div class="media-left hidden-xs">
+                        <img src="/docs/images/ring/cover-18.jpg" class="media-object poster" alt="poster"></img>
+                    </div>
+                    <div class="media-body">
+                        <span class="media-heading"><strong>Sommersemester 2018</strong></span>
+                        <p><a href="/lectures/18">Nachhaltigkeit als Argument</a></p>
+                    </div>
+                </div>
+            </div>
+            
+
 	<h3 class="list-item-header">2017</h3>
 
        <div class="row">
@@ -8670,6 +8687,659 @@
 
     <!-- ********************************************************************************************* -->
 
+
+  <!-- ********** SS 18******* -->
+
+
+   <message key="xmlui.static.ring.playlist-18">
+   <!--     <p>
+            Die Videoaufzeichnung finden Sie unter der jeweils aktuellen <a class="extern-link" target="_blank" href="//www.youtube.com/playlist?list=PLgoiCMgV-zrc_N2snDBeXkdT41cbIbuIH"><i class="icon-youtube"></i>Playlist</a>.
+        </p> -->
+    </message>
+
+    <message key="xmlui.static.ring-18.trail">
+
+        SS 2018
+
+    </message>
+
+
+
+    <!-- Title -->
+
+    <message key="xmlui.static.ring.title-18">
+
+	Nachhaltigkeit als Argument
+
+    </message>
+
+
+
+    <!-- Poster -->
+
+    <message key="xmlui.static.ring.poster-18">
+
+        <div class="media-right hidden-xs">
+
+            <img class="media-object" src="/dokumente/images/ring/cover-18.jpg" alt="poster"></img><br />
+
+            <small><a class="extern-link" href="//www.uni-goettingen.de/de/571206.html">Mehr Informationen ...</a></small>
+
+        </div>
+
+    </message>
+
+
+
+
+
+    <message key="xmlui.static.ring.list-18">
+
+		
+
+		<!-- Liste der Vorlesungen -->
+
+		
+
+		
+
+		<!-- Vortrag -->
+
+        <div class="panel panel-default">
+
+            <header class="panel-heading">
+
+                <h3 class="panel-title">10. April 2018</h3>
+
+            </header>
+
+            <div class="panel-body">
+
+                Prof. Dr. Tanja Scheer(Göttingen)
+
+                <h4>Nichts im Übermaß? Religion und Nachhaltigkeit im antiken Griechenland</h4>
+
+                <div class="pull-right">
+
+                    <div class="btn-toolbar">
+
+						<!-- Audio Datei -->
+
+                        <!-- <a href="/dokumente/audio/ring2018-04-10.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+
+                        <!-- YouTube Link 
+
+                        <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+		<!-- Ende -->
+
+
+
+
+
+
+
+		<!-- Vortrag -->
+
+        <div class="panel panel-default">
+
+            <header class="panel-heading">
+
+                <h3 class="panel-title">17. April 2018</h3>
+
+            </header>
+
+            <div class="panel-body">
+
+                Prof. Dr. Johannes Bergemann (Göttingen)<br />
+
+				Mario Rempe M.A. (Göttingen)
+
+                <h4>Nachhaltigkeit der Griechen? Archäologische Quellen aus Sizilien und Athen</h4>
+
+                <div class="pull-right">
+
+                    <div class="btn-toolbar">
+
+						<!-- Audio Datei -->
+
+                        <!-- <a href="/dokumente/audio/ring2018-04-17.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+
+                        <!-- YouTube Link 
+
+                        <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+		<!-- Ende -->
+
+
+
+
+
+		<!-- Vortrag -->
+
+        <div class="panel panel-default">
+
+            <header class="panel-heading">
+
+                <h3 class="panel-title">24. April 2018</h3>
+
+            </header>
+
+            <div class="panel-body">
+
+                Prof. Dr. Kai Ruffing (Kassel)
+
+                <h4>Zwischen Feld, Wald und Wiese. Nachhaltigkeit in der römischen Wirtschaft</h4>
+
+                <div class="pull-right">
+
+                    <div class="btn-toolbar">
+
+						<!-- Audio Datei -->
+
+                        <!-- <a href="/dokumente/audio/ring2018-04-24.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+
+                        <!-- YouTube Link 
+
+                        <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+		<!-- Ende -->
+
+
+
+
+
+
+
+		<!-- Vortrag -->
+
+        <div class="panel panel-default">
+
+            <header class="panel-heading">
+
+                <h3 class="panel-title">8. Mai 2018</h3>
+
+            </header>
+
+            <div class="panel-body">
+
+                Prof. Dr. Wiebke Kirleis (Kiel)
+
+                <h4>Pflanzenökonomie zwischen Wandel und Stabilität in prähistorischen und spätantiken Gesellschaften</h4>
+
+                <div class="pull-right">
+
+                    <div class="btn-toolbar">
+
+						<!-- Audio Datei -->
+
+                        <!-- <a href="/dokumente/audio/ring2018-05-08.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+
+                        <!-- YouTube Link 
+
+                        <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+		<!-- Ende -->
+
+
+
+
+
+		<!-- Vortrag -->
+
+        <div class="panel panel-default">
+
+            <header class="panel-heading">
+
+                <h3 class="panel-title">15. Mai 2018</h3>
+
+            </header>
+
+            <div class="panel-body">
+
+                Prof. Dr. Arnd Reitemeier (Göttingen)
+
+                <h4>Die Stadt des späten Mittelalters: Idylle der Nachhaltigkeit?</h4>
+
+                <div class="pull-right">
+
+                    <div class="btn-toolbar">
+
+						<!-- Audio Datei -->
+
+                        <!-- <a href="/dokumente/audio/ring2018-05-15.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+
+                        <!-- YouTube Link 
+
+                        <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+		<!-- Ende -->
+
+
+
+
+
+		<!-- Vortrag -->
+
+        <div class="panel panel-default">
+
+            <header class="panel-heading">
+
+                <h3 class="panel-title">22. Mai 2018</h3>
+
+            </header>
+
+            <div class="panel-body">
+
+                Prof. Dr. Petra van Dam (Amsterdam)
+
+                <h4>Sustainable features of the amphibious culture of the Netherlands</h4>
+
+                <div class="pull-right">
+
+                    <div class="btn-toolbar">
+
+						<!-- Audio Datei -->
+
+                        <!-- <a href="/dokumente/audio/ring2018-05-22.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+
+                        <!-- YouTube Link 
+
+                        <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+		<!-- Ende -->
+
+
+
+
+
+		<!-- Vortrag -->
+
+        <div class="panel panel-default">
+
+            <header class="panel-heading">
+
+                <h3 class="panel-title">29. Mai 2018</h3>
+
+            </header>
+
+            <div class="panel-body">
+
+                Dr. Ansgar Schanbacher (Göttingen)
+
+                <h4>Ressourcen und Umwelt in der mitteleuropäischen Stadt der Frühen Neuzeit – Diskurse über Nachhaltigkeit?</h4>
+
+                <div class="pull-right">
+
+                    <div class="btn-toolbar">
+
+						<!-- Audio Datei -->
+
+                        <!-- <a href="/dokumente/audio/ring2018-05-29.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+
+                        <!-- YouTube Link 
+
+                        <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+		<!-- Ende -->
+
+
+
+
+
+		<!-- Vortrag -->
+
+        <div class="panel panel-default">
+
+            <header class="panel-heading">
+
+                <h3 class="panel-title">5. Juni 2018</h3>
+
+            </header>
+
+            <div class="panel-body">
+
+                Dr. Johannes Laufer (Osnabrück)
+
+                <h4>Nachhaltigkeit als Strategie staatlicher Ressourcenökonomik im 18. und frühen 19. Jahrhundert – der Harzer Bergbau als Sonderfall</h4>
+
+                <div class="pull-right">
+
+                    <div class="btn-toolbar">
+
+						<!-- Audio Datei -->
+
+                        <!-- <a href="/dokumente/audio/ring2018-06-05.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+
+                        <!-- YouTube Link 
+
+                        <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+		<!-- Ende -->
+
+
+
+
+
+		<!-- Vortrag -->
+
+        <div class="panel panel-default">
+
+            <header class="panel-heading">
+
+                <h3 class="panel-title">12. Juni 2018</h3>
+
+            </header>
+
+            <div class="panel-body">
+
+                Prof. Dr. Ruth Florack (Göttingen)
+
+                <h4>Lob der Genügsamkeit. Zur Idylle in der Literatur</h4>
+
+                <div class="pull-right">
+
+                    <div class="btn-toolbar">
+
+						<!-- Audio Datei -->
+
+                        <!-- <a href="/dokumente/audio/ring2018-06-12.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+
+                        <!-- YouTube Link 
+
+                        <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+		<!-- Ende -->
+
+
+
+
+
+		<!-- Vortrag -->
+
+        <div class="panel panel-default">
+
+            <header class="panel-heading">
+
+                <h3 class="panel-title">19. Juni 2018</h3>
+
+            </header>
+
+            <div class="panel-body">
+
+                Prof. Dr. Dieter Schott (Darmstadt)
+
+                <h4>Nachhaltigkeit als Strategie staatlicher Ressourcenökonomik im 18. und frühen 19. Jahrhundert – der Harzer Bergbau als Sonderfall</h4>
+
+                <div class="pull-right">
+
+                    <div class="btn-toolbar">
+
+						<!-- Audio Datei -->
+
+                        <!-- <a href="/dokumente/audio/ring2018-06-19.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+
+                        <!-- YouTube Link 
+
+                        <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+		<!-- Ende -->
+
+
+
+
+
+
+
+		<!-- Vortrag -->
+
+        <div class="panel panel-default">
+
+            <header class="panel-heading">
+
+                <h3 class="panel-title">26. Juni 2018</h3>
+
+            </header>
+
+            <div class="panel-body">
+
+                Prof. Dr. Hansjörg Küster (Hannover)
+
+                <h4>Ökologie und Nachhaltigkeit</h4>
+
+                <div class="pull-right">
+
+                    <div class="btn-toolbar">
+
+						<!-- Audio Datei -->
+
+                        <!-- <a href="/dokumente/audio/ring2018-06-26.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+
+                        <!-- YouTube Link 
+
+                        <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+		<!-- Ende -->
+
+
+
+
+
+
+
+		<!-- Vortrag -->
+
+        <div class="panel panel-default">
+
+            <header class="panel-heading">
+
+                <h3 class="panel-title">3. Juli 2018</h3>
+
+            </header>
+
+            <div class="panel-body">
+
+                Prof. Dr. Renate Bürger-Arndt (Göttingen)
+
+                <h4>Aspekte ökologischer Nachhaltigkeit in der Waldnutzung</h4>
+
+                <div class="pull-right">
+
+                    <div class="btn-toolbar">
+
+						<!-- Audio Datei -->
+
+                        <!-- <a href="/dokumente/audio/ring2018-07-03.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+
+                        <!-- YouTube Link 
+
+                        <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+		<!-- Ende -->
+
+
+
+
+
+		<!-- Vortrag -->
+
+        <div class="panel panel-default">
+
+            <header class="panel-heading">
+
+                <h3 class="panel-title">10. Juli 2018</h3>
+
+            </header>
+
+            <div class="panel-body">
+
+                Prof. Dr. Monika Oberle (Göttingen)
+
+                <h4>Bildung für nachhaltige Entwicklung – Ziele, Herausforderungen, Perspektiven </h4>
+
+                <div class="pull-right">
+
+                    <div class="btn-toolbar">
+
+						<!-- Audio Datei -->
+
+                        <!-- <a href="/dokumente/audio/ring2018-07-10.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+
+                        <!-- YouTube Link 
+
+                        <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+		<!-- Ende -->
+
+
+
+   </message>
+
+
+
+
+
+
+
+
+
+	<!-- Kontakt -->
+
+    <message key="xmlui.static.ring.contact-18">
+
+
+
+        <h3>Organisation / Kontakt: </h3>
+
+
+
+        <div class="contact">
+
+            <strong>Prof. Dr. Arnd Reitemeier</strong>
+
+
+
+            <p><i class="icon-location"></i>Heinrich-Düker-Weg 14</p>
+
+            <p><span class="icon-body">37073 Göttingen</span></p>
+
+            <p><i class="icon-call"></i>+49 551 39 	21213</p>
+
+            <p><i class="icon-fax"></i>+49 551 39 24347</p>
+
+            <p><i class="icon-mail"></i><a href="mailto:arnd.reitemeier@phil.uni-goettingen.de">arnd.reitemeier [at] phil.uni-goettingen.de</a></p>
+
+        </div>
+
+    </message>
+
+
+
+    <!-- ********************************************************************************************* -->
 
 
 </catalogue>
