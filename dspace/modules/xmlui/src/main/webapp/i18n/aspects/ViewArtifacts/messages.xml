@@ -1203,12 +1203,12 @@
     <message key="xmlui.static.ring.poster-05">
         <div class="media-right hidden-xs">
             <img class="media-object" src="/docs/images/ring/cover-05.jpg" alt="poster"></img><br />
-            <small><a class="extern-link" href="//www.uni-goettingen.de/de/22319.html">Mehr Informationen ...</a></small>
-        </div>
+            <small><a class="extern-link" href="//www.uni-goettingen.de/de/22317.html">Mehr Informationen ...</a></small>
+       	    </div>
     </message>
 
 
-    <message key="xmlui.static.ring.list-04">
+    <message key="xmlui.static.ring.list-05">
 
         <!-- Liste der Vorlesungen -->
 
@@ -2989,8 +2989,8 @@
     <message key="xmlui.static.ring.poster-08">
         <div class="media-right hidden-xs">
             <img src="/docs/images/ring/cover-08.jpg" class="media-object poster" alt="poster"></img><br />
-            <small><a class="extern-link" href="//www.uni-goettingen.de/de/begleittext-zur-ringvorlesung/109585.html">Mehr Informationen ...</a></small>
-        </div>
+            <small><a class="extern-link" href="//www.uni-goettingen.de/de/92780.html">Mehr Informationen ...</a></small>
+         </div>
     </message>
 
 
@@ -5312,8 +5312,8 @@
     <message key="xmlui.static.ring.poster-12">
         <div class="media-right hidden-xs">
             <img src="/docs/images/ring/cover-12.jpg" class="media-object poster" alt="poster"></img><br />
-            <small><a class="extern-link" href="//www.uni-goettingen.de/de/349376.html">Mehr Informationen ...</a></small>
-        </div>
+            <small><a class="extern-link" href="//www.uni-goettingen.de/de/366144.html">Mehr Informationen ...</a></small>
+         </div>
     </message>
 
 
@@ -6020,7 +6020,7 @@
     </message>
 
 
-    <!-- ****************************************** -->
+    <!-- ************************************************************************************************************************** -->
 
     <!-- ********** WS 13-14 ******* -->
     <message key="xmlui.static.ring.playlist-13-14">
@@ -6042,7 +6042,7 @@
     <message key="xmlui.static.ring.poster-13-14">
         <div class="media-right hidden-xs">
             <img src="/docs/images/ring/cover-13-14.jpg" class="media-object poster" alt="poster"></img><br />
-            <small><a class="extern-link" href="//www.uni-goettingen.de/de/wintersemester-2013-2014/481743.html">Mehr Informationen ...</a></small>
+            <small><a class="extern-link" href="//www.uni-goettingen.de/de/481743.html">Mehr Informationen ...</a></small>
         </div>
     </message>
 
@@ -6276,7 +6276,7 @@
 
     </message>
 
-    <!-- ********************************************************************************************* -->
+    <!-- ************************************************************************************************************************* -->
 
     <!-- ********** SS 14 ******* -->
     <message key="xmlui.static.ring.playlist-14">
@@ -6548,7 +6548,7 @@
 
 
 
-
+<!-- **************************************************************************************************************************** -->
     <!-- ********** WS 14-15 ******* -->
     <message key="xmlui.static.ring.playlist-14-15">
         <p>
@@ -6811,8 +6811,8 @@
 
         </div>
     </message>
-
-    <!-- ************************************************************** -->
+	
+    <!-- ********************************************************************************************************************** -->
 
     <!-- ********** SS 15 ******* -->
     <message key="xmlui.static.ring.playlist-15">
@@ -6834,7 +6834,7 @@
     <message key="xmlui.static.ring.poster-15">
         <div class="media-right hidden-xs">
             <img src="/docs/images/ring/cover-15.jpg" class="media-object poster" alt="poster"></img><br />
-            <small><a class="extern-link" href="//www.uni-goettingen.de/de/54374.html">Mehr Informationen ...</a></small>
+            <small><a class="extern-link" href="//www.uni-goettingen.de/de/522873.html">Mehr Informationen ...</a></small>
         </div>
     </message>
 
@@ -8217,9 +8217,9 @@
 
             <img class="media-object" src="/docs/images/ring/cover-17-18.jpg" alt="poster"></img><br />
 
-            <small><a class="extern-link" href="//www.uni-goettingen.de/de/571206.html">Mehr Informationen ...</a></small>
+            <small><a class="extern-link" href="//www.uni-goettingen.de/de/582994.html">Mehr Informationen ...</a></small>
 
-        </div>
+	 </div>
 
     </message>
 
@@ -8467,7 +8467,7 @@
 
                     <div class="btn-toolbar">
 
-                       <!-- <a href="/docs/audio/ring2017-12-12.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                       <a href="/docs/audio/ring2017-12-12.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a>
 
                     </div>
 
@@ -8501,7 +8501,7 @@
 
                     <div class="btn-toolbar">
 
-                       <!-- <a href="/docs/audio/ring2018-01-09.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                       <a href="/docs/audio/ring2018-01-09.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a>
 
                     </div>
 
@@ -8535,8 +8535,7 @@
 
                     <div class="btn-toolbar">
 
-                       <!-- <a href="/docs/audio/ring2018-01-16.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
-
+                       <a href="/docs/audio/ring2018-01-16.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a>
                     </div>
 
                 </div>
@@ -8569,7 +8568,7 @@
 
                     <div class="btn-toolbar">
 
-                       <!-- <a href="/docs/audio/ring2018-01-23.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                       <a href="/docs/audio/ring2018-01-23.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a>
 
                     </div>
 
@@ -8603,7 +8602,7 @@
 
                     <div class="btn-toolbar">
 
-                       <!-- <a href="/docs/audio/ring2018-01-30.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                       <a href="/docs/audio/ring2018-01-30.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a>
 
                     </div>
 
@@ -8637,7 +8636,7 @@
 
                     <div class="btn-toolbar">
 
-                       <!-- <a href="/docs/audio/ring2018-02-06.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                       <a href="/docs/audio/ring2018-02-06.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a>
 
                     </div>
 
@@ -8765,7 +8764,7 @@
 
 						<!-- Audio Datei -->
 
-                        <!-- <a href="/dokumente/audio/ring2018-04-10.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                        <a href="/dokumente/audio/ring2018-04-10.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a>
 
                         <!-- YouTube Link 
 
