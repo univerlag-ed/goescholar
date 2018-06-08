@@ -8467,7 +8467,7 @@
 
                     <div class="btn-toolbar">
 
-                       <!-- <a href="/docs/audio/ring2017-12-12.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                       <a href="/docs/audio/ring2017-12-12.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio Datei</span></a>
 
                     </div>
 
@@ -8501,7 +8501,7 @@
 
                     <div class="btn-toolbar">
 
-                       <!-- <a href="/docs/audio/ring2018-01-09.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                       <a href="/docs/audio/ring2018-01-09.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio Datei</span></a>
 
                     </div>
 
@@ -8535,7 +8535,7 @@
 
                     <div class="btn-toolbar">
 
-                       <!-- <a href="/docs/audio/ring2018-01-16.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                       <a href="/docs/audio/ring2018-01-16.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio Datei</span></a>
 
                     </div>
 
@@ -8569,7 +8569,7 @@
 
                     <div class="btn-toolbar">
 
-                       <!-- <a href="/docs/audio/ring2018-01-23.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                       <!-- <a href="/docs/audio/ring2018-01-23.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio Datei</span></a> -->
 
                     </div>
 
@@ -8603,7 +8603,7 @@
 
                     <div class="btn-toolbar">
 
-                       <!-- <a href="/docs/audio/ring2018-01-30.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                       <a href="/docs/audio/ring2018-01-30.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio Datei</span></a>
 
                     </div>
 
@@ -8637,7 +8637,7 @@
 
                     <div class="btn-toolbar">
 
-                       <!-- <a href="/docs/audio/ring2018-02-06.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                       <a href="/docs/audio/ring2018-02-06.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio Datei</span></a>
 
                     </div>
 
@@ -8765,7 +8765,7 @@
 
 						<!-- Audio Datei -->
 
-                        <!-- <a href="/dokumente/audio/ring2018-04-10.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                        <a href="/dokumente/audio/ring2018-04-10.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio Datei</span></a>
 
                         <!-- YouTube Link 
 
