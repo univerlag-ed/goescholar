@@ -8451,7 +8451,7 @@
 
                     <div class="btn-toolbar">
 
-                       <a href="/docs/audio/ring2017-12-12.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio File</a>
+                       <a href="/docs/audio/ring2017-12-12.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio File</span></a>
 
                     </div>
 
@@ -8485,7 +8485,7 @@
 
                     <div class="btn-toolbar">
 
-                       <a href="/docs/audio/ring2018-01-09.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio File</a>
+                       <a href="/docs/audio/ring2018-01-09.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio File</span></a>
 
                     </div>
 
@@ -8519,7 +8519,7 @@
 
                     <div class="btn-toolbar">
 
-                       <a href="/docs/audio/ring2018-01-16.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio File</a>
+                       <a href="/docs/audio/ring2018-01-16.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio File</span></a>
 
                     </div>
 
@@ -8587,7 +8587,7 @@
 
                     <div class="btn-toolbar">
 
-                       <a href="/docs/audio/ring2018-01-30.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio File</a>
+                       <a href="/docs/audio/ring2018-01-30.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio File</span></a>
 
                     </div>
 
@@ -8621,7 +8621,7 @@
 
                     <div class="btn-toolbar">
 
-                       <a href="/docs/audio/ring2018-02-06.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio File</a>
+                       <a href="/docs/audio/ring2018-02-06.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio File</span></a>
 
                     </div>
 
@@ -8743,7 +8743,7 @@ Nachhaltigkeit als Argument
 
 						<!-- Audio Datei -->
 
-                        <a href="/docs/audio/ring2018-04-10.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a>
+                        <a href="/docs/audio/ring2018-04-10.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio File</span></a>
 
                         <!-- YouTube Link 
 
@@ -8789,7 +8789,7 @@ Nachhaltigkeit als Argument
 
 						<!-- Audio Datei -->
 
-                        <!-- <a href="/docs/audio/ring2018-04-17.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                        <!-- <a href="/docs/audio/ring2018-04-17.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio File</span></a> -->
 
                         <!-- YouTube Link 
 
@@ -8831,7 +8831,7 @@ Nachhaltigkeit als Argument
 
 						<!-- Audio Datei -->
 
-                        <!-- <a href="/docs/audio/ring2018-04-24.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                        <!-- <a href="/docs/audio/ring2018-04-24.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio File</span></a> -->
 
                         <!-- YouTube Link 
 
@@ -8875,7 +8875,7 @@ Nachhaltigkeit als Argument
 
 						<!-- Audio Datei -->
 
-                        <!-- <a href="/docs/audio/ring2018-05-08.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                        <!-- <a href="/docs/audio/ring2018-05-08.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio File</span></a> -->
 
                         <!-- YouTube Link 
 
@@ -8917,7 +8917,7 @@ Nachhaltigkeit als Argument
 
 						<!-- Audio Datei -->
 
-                        <!-- <a href="/docs/audio/ring2018-05-15.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                        <!-- <a href="/docs/audio/ring2018-05-15.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio File</span></a> -->
 
                         <!-- YouTube Link 
 
@@ -8959,7 +8959,7 @@ Nachhaltigkeit als Argument
 
 						<!-- Audio Datei -->
 
-                        <!-- <a href="/docs/audio/ring2018-05-22.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                        <!-- <a href="/docs/audio/ring2018-05-22.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio File</span></a> -->
 
                         <!-- YouTube Link 
 
@@ -9001,7 +9001,7 @@ Nachhaltigkeit als Argument
 
 						<!-- Audio Datei -->
 
-                        <!-- <a href="/docs/audio/ring2018-05-29.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                        <!-- <a href="/docs/audio/ring2018-05-29.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio File</span></a> -->
 
                         <!-- YouTube Link 
 
@@ -9043,7 +9043,7 @@ Nachhaltigkeit als Argument
 
 						<!-- Audio Datei -->
 
-                        <!-- <a href="/docs/audio/ring2018-06-05.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                        <!-- <a href="/docs/audio/ring2018-06-05.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio File</span></a> -->
 
                         <!-- YouTube Link 
 
@@ -9085,7 +9085,7 @@ Nachhaltigkeit als Argument
 
 						<!-- Audio Datei -->
 
-                        <!-- <a href="/docs/audio/ring2018-06-12.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                        <!-- <a href="/docs/audio/ring2018-06-12.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio File</span></a> -->
 
                         <!-- YouTube Link 
 
@@ -9127,7 +9127,7 @@ Nachhaltigkeit als Argument
 
 						<!-- Audio Datei -->
 
-                        <!-- <a href="/docs/audio/ring2018-06-19.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                        <!-- <a href="/docs/audio/ring2018-06-19.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio File</span></a> -->
 
                         <!-- YouTube Link 
 
@@ -9171,7 +9171,7 @@ Nachhaltigkeit als Argument
 
 						<!-- Audio Datei -->
 
-                        <!-- <a href="/docs/audio/ring2018-06-26.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                        <!-- <a href="/docs/audio/ring2018-06-26.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio File</span></a> -->
 
                         <!-- YouTube Link 
 
@@ -9215,7 +9215,7 @@ Nachhaltigkeit als Argument
 
 						<!-- Audio Datei -->
 
-                        <!-- <a href="/docs/audio/ring2018-07-03.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                        <!-- <a href="/docs/audio/ring2018-07-03.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio File</span></a> -->
 
                         <!-- YouTube Link 
 
@@ -9257,7 +9257,7 @@ Nachhaltigkeit als Argument
 
 						<!-- Audio Datei -->
 
-                        <!-- <a href="/docs/audio/ring2018-07-10.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                        <!-- <a href="/docs/audio/ring2018-07-10.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio File</span></a> -->
 
                         <!-- YouTube Link 
 
