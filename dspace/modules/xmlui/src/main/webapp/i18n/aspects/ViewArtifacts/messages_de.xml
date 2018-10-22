@@ -8721,7 +8721,7 @@
 
         <div class="media-right hidden-xs">
 
-            <img class="media-object" src="/dokumente/images/ring/cover-18.jpg" alt="poster"></img><br />
+            <img class="media-object" src="/docs/images/ring/cover-18.jpg" alt="poster"></img><br />
 
             <small><a class="extern-link" href="//www.uni-goettingen.de/de/571206.html">Mehr Informationen ...</a></small>
 
@@ -9341,5 +9341,297 @@
 
     <!-- ********************************************************************************************* -->
 
+<!-- ********** WS 18/19******* -->
+	
+    <message key="xmlui.static.ring-18-19.trail">
+        WS 2018 / 2019
+    </message>
 
+    <!-- Title -->
+    <message key="xmlui.static.ring.title-18-19">
+        >>Verstehst du auch, was du liest?<< <br />
+		Debatten über Heilige Texte in Orient und Okzident
+    </message>
+
+    <!-- Poster -->
+    <message key="xmlui.static.ring.poster-18-19">
+        <div class="media-right hidden-xs">
+            <img class="media-object" src="/docs/images/ring/cover-18-19.jpg" alt="poster"></img><br />
+            <small><a class="extern-link" href="//www.uni-goettingen.de/de/571206.html">Mehr Informationen ...</a></small>
+        </div>
+    </message>
+
+
+    <message key="xmlui.static.ring.list-18-19">
+		
+		<!-- Liste der Vorlesungen -->
+		
+		
+        <div class="panel panel-default panel-first">
+            <header class="panel-heading">
+                <h4 class="panel-title">23. Oktober 2018</h4>
+            </header>
+
+            <div class="panel-body">
+                Prof. Dr. Florian Wilk (Göttingen)
+                <h4>Einführung</h4><br />
+				Prof. Dr. Annette Zgoll (Göttingen)
+				<h4>Heilige Texte des antiken Mesopotamien - neue Entdeckungen zu frühesten religiösen Schriftquellen der Menschheit</h4>
+                <div class="pull-right">
+                    <div class="btn-toolbar">
+                       <!-- <a href="/docs/audio/ring2018-10-23.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                       <!-- <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a> -->
+				    </div>
+                </div>
+            </div>
+        </div>
+		
+
+ <div class="panel panel-default panel-first">
+            <header class="panel-heading">
+                <h4 class="panel-title">30. Oktober 2018</h4>
+            </header>
+
+            <div class="panel-body">
+                Prof. Dr. Heinz-Günther Nesselrath (Göttingen)
+                <h4>Hesiods Theogonie: Ihre Quellen, ihr Weltbild und ihre Bedeutung in der späteren Antike</h4>
+                <div class="pull-right">
+                    <div class="btn-toolbar">
+                       <!-- <a href="/docs/audio/ring2018-10-30.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+					   <!-- <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="panel panel-default panel-first">
+            <header class="panel-heading">
+                <h4 class="panel-title">6. November 2018</h4>
+            </header>
+
+            <div class="panel-body">
+                Prof. Dr. Ulrike Egelhaaf-Gaiser (Göttingen)
+                <h4>Hüter der Geschichte oder fake news? Orakel, Archive und Priesterbücher in der römischen Republik und Kaiserzeit</h4>
+                <div class="pull-right">
+                    <div class="btn-toolbar">
+                       <!-- <a href="/docs/audio/ring2018-11-06.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+					   <!-- <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="panel panel-default panel-first">
+            <header class="panel-heading">
+                <h4 class="panel-title">13. November 2018</h4>
+            </header>
+
+            <div class="panel-body">
+                Prof. Dr. Reinhard Müller (Münster)
+                <h4> Alttestamentliche Schriftgelehrsamkeit und ihre altorientalischen Wurzeln</h4>
+                <div class="pull-right">
+                    <div class="btn-toolbar">
+                       <!-- <a href="/docs/audio/ring2018-11-13.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+					   <!-- <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="panel panel-default panel-first">
+            <header class="panel-heading">
+                <h4 class="panel-title">20. November 2018</h4>
+            </header>
+
+            <div class="panel-body">
+                Prof. Dr. Hermann Lichtenberger (Tübingen)
+                <h4> Heilige Texte im hellenistischen Judentum: Mose und Homer?</h4>
+                <div class="pull-right">
+                    <div class="btn-toolbar">
+                       <!-- <a href="/docs/audio/ring2018-11-20.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+					   <!-- <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="panel panel-default panel-first">
+            <header class="panel-heading">
+                <h4 class="panel-title">27. November 2018</h4>
+            </header>
+
+            <div class="panel-body">
+                Prof. Dr. Reinhard Feldmeier und Prof. Dr. Florian Wilk (Göttingen)
+                <h4>Zwischen Hören und Deuten. Der Umgang mit der Heiligen Schrift in den Briefen des Paulus und im Doppelwerk des Lukas</h4>
+                <div class="pull-right">
+                    <div class="btn-toolbar">
+                       <!-- <a href="/docs/audio/ring2018-11-27.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+					   <!-- <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="panel panel-default panel-first">
+            <header class="panel-heading">
+                <h4 class="panel-title">4. Dezember 2018</h4>
+            </header>
+
+            <div class="panel-body">
+                Prof. Dr. Wolfram Drews (Münster)
+                <h4> Bodo-Eleazar und Paulus Alvarus von Córdoba: Ein jüdisch-christlicher Disput über Bibelexegese und religiöse Praxis im Spanien des 9. Jahrhunderts</h4>
+                <div class="pull-right">
+                    <div class="btn-toolbar">
+                       <!-- <a href="/docs/audio/ring2018-12-04.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+					   <!-- <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="panel panel-default panel-first">
+            <header class="panel-heading">
+                <h4 class="panel-title">11. Dezember 2018</h4>
+            </header>
+
+            <div class="panel-body">
+                Prof. Dr. Hans-Jürgen Becker (Göttingen)
+                <h4>Was macht einen Text heilig? Zum Verhältnis von schriftlicher und mündlicher Thora im rabbinischen Judentum</h4>
+                <div class="pull-right">
+                    <div class="btn-toolbar">
+                       <!-- <a href="/docs/audio/ring2018-12-11.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+					   <!-- <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+<div class="panel panel-default panel-first">
+            <header class="panel-heading">
+                <h4 class="panel-title">18. Dezember 2018</h4>
+            </header>
+
+            <div class="panel-body">
+                Prof. Dr. Angelika Neuwirth (Berlin)
+                <h4>Der Koran: Die Heilige Schrift der Muslime und die Debatten zwischen Islam, Judentum und Christentum im Kontext der Spätantike</h4>
+                <div class="pull-right">
+                    <div class="btn-toolbar">
+                       <!-- <a href="/docs/audio/ring2018-12-18.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+					   <!-- <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="panel panel-default panel-first">
+            <header class="panel-heading">
+                <h4 class="panel-title">8. Januar 2019</h4>
+            </header>
+
+            <div class="panel-body">
+                Prof. Dr. Eva Orthmann (Göttingen)
+                <h4>Die persischen Mahabharata-Übersetzungen: Rezeption und Relevanz</h4>
+                <div class="pull-right">
+                    <div class="btn-toolbar">
+                       <!-- <a href="/docs/audio/ring2019-01-08.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+					   <!-- <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="panel panel-default panel-first">
+            <header class="panel-heading">
+                <h4 class="panel-title">15. Januar 2019</h4>
+            </header>
+
+            <div class="panel-body">
+                Prof. Dr. Heike Behlmer und Prof. Dr. Martin Tamcke (Göttingen)
+                <h4>Debatten um die Heiligen Schriften im orientalischen Christentum</h4>
+                <div class="pull-right">
+                    <div class="btn-toolbar">
+                       <!-- <a href="/docs/audio/ring2019-01-15.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+					   <!-- <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="panel panel-default panel-first">
+            <header class="panel-heading">
+                <h4 class="panel-title">22. Januar 2019</h4>
+            </header>
+
+            <div class="panel-body">
+                Prof. Dr. Rüdiger Seesemann (Bayreuth)
+                <h4>Zum Status des geschriebenen Wortes in suﬁschen Vorstellungen und Praktiken </h4>
+                <div class="pull-right">
+                    <div class="btn-toolbar">
+                       <!-- <a href="/docs/audio/ring2019-01-22.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+					   <!-- <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="panel panel-default panel-first">
+            <header class="panel-heading">
+                <h4 class="panel-title">29. Januar 2019</h4>
+            </header>
+
+            <div class="panel-body">
+                Prof. Dr. Sebstian Günther (Göttingen)
+                <h4>Die Zehn Gebote Gottes im Koran und in der Koranexegese</h4>
+                Prof. Dr. Peter Gemeinhardt (Göttingen)
+				<h4>Schlusswort zur Ringvorlesung</h4>
+				<div class="pull-right">
+                    <div class="btn-toolbar">
+                       <!-- <a href="/docs/audio/ring2019-01-29.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+					   <!-- <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </message>
+
+	<!-- Kontakt -->
+    <message key="xmlui.static.ring.contact-18-19">
+
+        <h3>Organisation / Kontakt: </h3>
+
+        <div class="contact">
+            <strong>Prof. Dr. Florian Wilk</strong>
+            <p><i class="icon-location"></i>Platz der Göttinger Sieben 2</p>
+            <p><span class="icon-body">37073 Göttingen</span></p>
+            <p><i class="icon-call"></i>+49 551 39-27123</p>
+            <p><i class="icon-mail"></i><a href="mailto:Florian.Wilk@theologie.uni-goettingen.de">Florian.Wilk@theologie.uni-goettingen.de</a></p>
+			 und 
+	        <strong>Prof. Dr. Sebastian Günther</strong>
+			<p><i class="icon-location"></i>Heinrich-Düker-Weg 14</p>
+			<p><span class="icon-body">37073 Göttingen</span></p>
+			<p><i class="icon-call"></i>+49 551 39-24397</p>
+            <p><i class="icon-mail"></i><a href="mailto:s.guenther@uni-goettingen.de">s.guenther@uni-goettingen.de</a></p>
+ 
+        </div>
+    </message>
+
+    <!-- ********************************************************************************************* -->
+	
+	
+	
 </catalogue>
