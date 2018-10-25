@@ -501,7 +501,7 @@
 			<i18n:text>xmlui.Mirage2.DIM-firstpublished</i18n:text>
 			<xsl:if test="not(//dim:field[@element='type' and @qualifier='version'])"> 
 				<i18n:text>xmlui.Mirage2.DIM-firstpublished-goescholar</i18n:text>
-				<xsl:value-of select="concat(' ', //dim:field[@element='date' and @qualifier='issued'])"/>
+				<xsl:value-of select="concat(' ', substring(//dim:field[@element='date' and @qualifier='issued'],1,4))"/>
 			</xsl:if>
 			<xsl:if test="//mets:dmdSec/mets:mdWrap[@OTHERMDTYPE='DIM']/mets:xmlData/dim:dim/dim:field[@element='description' and @qualifier='status'] = 'peerReviewed'">
                                 <!-- <i title="peer reviewed" class="fa fa-star" aria-hidden="true"></i> -->
@@ -562,7 +562,7 @@
 		<div>
                                 <xsl:value-of select="//dim:field[@element='publisher']" />
 				<xsl:text>, </xsl:text>
-                                <xsl:value-of select="//dim:field[@element='date' and @qualifier='issued']" />
+                                <xsl:value-of select="substring(//dim:field[@element='date' and @qualifier='issued'],1,4)" />
 		</div>
                </xsl:when>
 	     </xsl:choose>
@@ -636,7 +636,7 @@
 			      <div class="modal-body">
 								
 								<div class="radio">
-									<label><input type="radio" name="format" value="ris" checked="" ></input>refWorks</label>
+									<label><input type="radio" name="format" value="ris" checked="" ></input>refMan</label>
 								</div>
 								<div class="radio">
 									<label><input type="radio" name="format" value="ris" >Citavi</input></label>
@@ -726,12 +726,13 @@
     </xsl:template>
 
     <xsl:template name="itemSummaryView-DIM-Sponsorship">
-        <xsl:if test="dim:field[@element='relation' and @qualifier='eusponsor' and descendant::text()]">
+        <xsl:if test="dim:field[@element='relation' and not(@qualifier) and descendant::text()]">
             <div class="simple-item-view-date word-break item-page-field-wrapper table">
                 <h5>
                     <i18n:text>xmlui.Mirage2.DIM-sponsorship</i18n:text>
                 </h5>
-                <xsl:for-each select="dim:field[@element='relation' and @qualifier='eusponsor']">
+                <xsl:for-each select="dim:field[@element='relation' and not(@qualifier)]">
+		<xsl:if test="contains(., 'FP7') or contains(., 'H2020')">
 		<div>
 			<xsl:variable name="info"><xsl:value-of select="substring-after(., 'EC/')" /></xsl:variable>
                         <xsl:variable name="framework">
@@ -755,9 +756,22 @@
 					<xsl:value-of select="substring-after($info, '//') " />
 				</span>
 		</div>	
+		</xsl:if>
                 </xsl:for-each>
             </div>
         </xsl:if>
+	<xsl:if test="dim:field[@element='description' and @qualifier='sponsorship' and descendant::text()]">
+		<div class="simple-item-view-date word-break item-page-field-wrapper table">
+                <h5>
+                    <xsl:text>Sponsor:</xsl:text>
+                </h5>
+                <xsl:for-each select="dim:field[@element='description' and @qualifier='sponsorship']">
+		<div>
+			<xsl:value-of select="."/>
+		</div>	
+		</xsl:for-each>
+		</div>
+	</xsl:if>
     </xsl:template>
 
     <xsl:template name="itemSummaryView-show-full">
@@ -845,8 +859,23 @@
         <xsl:param name="title" />
         <xsl:param name="label" />
         <xsl:param name="size" />
-        <div>
-            <a>
+	<div>
+	<xsl:if test="contains($href, '.mp4')">
+		<video autobuffer="" controls="yes" width="320" height="240">
+			<xsl:attribute name="src"><xsl:value-of select="$href"/></xsl:attribute>
+		    <div class="video-fallback">
+		        <br />Sie benoetigen einen Browser, der HTML5 unterstuetzt.
+		    </div>
+		</video>
+		<br />
+	</xsl:if>
+	<xsl:if test="contains($href, '.mp3')">
+		<audio controls="">
+			<xsl:attribute name="src"><xsl:value-of select="$href"/></xsl:attribute>
+		 </audio>
+                <br />
+        </xsl:if>
+        <a>
                 <xsl:attribute name="href">
                     <xsl:value-of select="$href"/>
                 </xsl:attribute>
@@ -1156,6 +1185,7 @@
 
     <xsl:template name="getFileIcon">
         <xsl:param name="mimetype"/>
+		
                 <xsl:choose>
                     <xsl:when test="contains(mets:FLocat[@LOCTYPE='URL']/@xlink:href,'isAllowed=n')">
                         <i aria-hidden="true" class="glyphicon glyphicon-lock"></i>
@@ -1184,6 +1214,13 @@
         		        <xsl:when test="$filetype = 'zip'">
                 		    <i class="fa fa-file-zip-o" aria-hidden="true"></i>
 		                </xsl:when>
+				<xsl:when test="$filetype = 'mp4'">
+                                    <span class="glyphicon glyphicon-film"></span>
+                                </xsl:when>
+				<xsl:when test="contains($mimetype, 'audio')">
+                                    <span class="glyphicon glyphicon-volume-up"></span>
+                                </xsl:when>
+
         		        <xsl:otherwise>
                 		        <i class="fa fa-file" aria-hidden="true"></i>
 	                	</xsl:otherwise>

@@ -3995,6 +3995,156 @@ Der Urheber räumt der Universität Göttingen im Rahmen der Rechtseinräumung g
 
   <message key="xmlui.static.footer.text"><span class="nowrap">Development and operation by the <a href="http://www.sub.uni-goettingen.de/"> Lower Saxon State and university Library of Göttingen</a></span></message>
 
+
+   <message key="xmlui.static.dataprivacy.title">Data Privacy</message>
+
+  <message key="xmlui.static.dataprivacy.text">
+        <h2 class="ds-div-head page-header first-page-header">Datenschutzhinweis</h2>
+	<div>
+	<p>
+       Wir weisen darauf hin, dass die Datenübertragung im Internet (z. B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
+Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor. 
+</p>   
+  
+<h3>Personenbezogene Daten</h3>
+
+ <div>           
+<p>
+Soweit auf diesen Seiten personenbezogene Daten erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis und im hier dargestellten Umfang. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben. 
+</p>
+<p>
+Namen, Postanschriften und E-Mail-Adressen, die im Rahmen von Anfragen oder Bestellungen angegeben werden, werden ausschließlich für die Korrespondenz verwendet. 
+</p>
+<p>
+Sämtliche personenbezogenen Daten werden nur solange gespeichert wie dies für den jeweils genannten Zweck erforderlich ist. Hierbei werden bestehende gesetzliche Aufbewahrungsfristen berücksichtigt. 
+</p>
+ </div>
+ 
+<h3>Informationen zur Verarbeitung personenbezogener Daten</h3>
+ <div>
+	 
+ <span><strong>Name und Kontaktdaten der Verantwortlichen</strong></span>
+ <p class="adress">
+  <span>Prof. Dr. Ulrike Beisiegel</span>
+   <span>Wilhelmsplatz 1</span>
+      <span>37073 Göttingen</span>
+	<span>Tel.:  +49 551 39-21000</span>
+	<span>E-Mail: 
+                    
+	<a href="mailto:praesidentin_at_uni-goettingen.de" title="E-Mail">praesidentin AT uni-goettingen.de</a></span>
+  </p>
+
+	</div>
+	
+<div>
+<strong>Kontaktdaten des betrieblichen Datenschutzbeauftragen</strong>
+<p>
+  <span>Prof. Dr. Andreas Wiebe</span>
+  <span>Lehrstuhl für Bürgerliches Recht</span>
+  <span>Wettbewerbs- und Immaterialgüterrecht</span>
+  <span>Medien- und Informationsrecht</span>
+   <span>Platz der Göttinger Sieben 6</span>
+      <span>37073 Göttingen</span>
+	<span>Tel.:  +49 551 39-7381</span>
+	<span>E-Mail: <a href="mailto:datenschutz_at_uni-goettingen.de" title="E-Mail">datenschutz AT uni-goettingen.de</a>
+	</span>
+	</p>
+
+ </div>
+ 
+<h3>Zwecke und Rechtsgrundlagen der Verarbeitung</h3>
+ <div>
+ <p>
+ Ihre Daten werden dafür erhoben, um Ihr Anliegen zu bearbeiten. Ihre Daten werden auf Grundlage von Art. 6 Abs. 1e erhoben. 
+ </p>
+ </div>
+    
+    <h3>Empfänger der personenbezogenen Daten</h3>
+    <div>
+    <p>
+    Um ihre Anfrage zu beantworten, werden Ihre personenbezogenen Daten an die innerhalb der SUB Göttingen zuständige Personengruppe übermittelt.
+    </p>  
+    
+        <h3>Übermittlung von personenbezogenen Daten an ein Drittland</h3>
+    <p>
+    Es ist nicht geplant Ihre personenbezogenen Daten zu übermitteln. 
+    </p> 
+        <h3>Dauer der Speicherung der personenbezogenen Daten</h3>
+    <p>
+    Ihre Daten werden gespeichert, um die Dienste zu erbringen, mit denen Sie uns beauftragen. Sobald diese Dienste erbracht sind oder Sie um eine Löschung der Daten bitten, werden ihre Daten nur noch so lange gespeichert, bis alle laufenden Vorgänge abgeschlossen sind und dann gelöscht, es sei denn gesetzliche Vorgaben erfordern eine längere Speicherung.
+    </p> 
+    </div>
+        <h3>Betroffenenrechte</h3>
+        <div>
+    <p>
+    Nach der EU-Datenschutzgrundverordnung stehen Ihnen folgende Rechte zu:
+Werden Ihre personenbezogenen Daten verarbeitet, so haben Sie das Recht Auskunft über die zu Ihrer Person gespeicherten Daten zu erhalten (Art. 15 DSGVO). Sollten unrichtige personenbezogene Daten verarbeitet werden, steht Ihnen ein Recht auf Berichtigung zu (Art. 16 DSGVO). Liegen die gesetzlichen Voraussetzungen vor, so können Sie die Löschung oder Einschränkung der Verarbeitung verlangen sowie Widerspruch gegen die Verarbeitung einlegen (Art. 17, 18 und 21 DSGVO).
+Wenn Sie die erforderlichen Daten nicht angeben, kann Ihr Antrag nicht bearbeitet werden.
+Wenn Sie in die Datenverarbeitung eingewilligt haben oder ein Vertrag zur Datenverarbeitung besteht und die Datenverarbeitung mithilfe automatisierter Verfahren durchgeführt wird, steht Ihnen gegebenenfalls ein Recht auf Datenübertragbarkeit zu (Art. 20 DSGVO). Sollten Sie von Ihren oben genannten Rechten Gebrauch machen, prüft Niedersächsische Staats- und Universitätsbibliothek Göttingen, ob die gesetzlichen Voraussetzungen hierfür erfüllt sind.
+Zur Ausübung Ihrer Rechte wenden Sie sich bitte an den betrieblichen Datenschutzbeauftragten.
+    </p> 
+    <p>
+    Bei datenschutzrechtlichen Beschwerden können Sie sich an die zuständige Aufsichtsbehörde wenden: 
+    </p> 
+      Die Landesbeauftragte für den Datenschutz Niedersachsen
+<p class="address">
+			<span>Prinzenstraße 5</span>
+			<span>30159 Hannover</span>
+			<span>37073 Göttingen</span>
+			<span>Tel.:  +49 551 120 4500 </span>
+			<span>E-Mail: <a href="mailto:poststelle_at_lfd.niedersachsen.de" title="E-Mail">poststelle AT lfd.niedersachsen.de</a></span>
+
+      </p>
+</div>
+    
+    <h3>Auskunft, Löschung, Sperrung</h3>
+    <div>
+    <p>
+    Sie haben jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung sowie ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Hierzu sowie zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit über die im Impressum angegeben Adresse des Webseitenbetreibers an uns wenden.
+    </p> 
+    </div> 
+    
+    <h3>Statistische Daten für den Betreiber der Website</h3>
+    <div>
+    <p>
+    Diese Website nutzt die Open-Source-Software MATOMO für die statistische Auswertung von Besucherzugriffen. Piwik ist datenschutzkonform konfiguriert, Daten werden anonymisiert gespeichert. Die zu diesem Zweck verwendeten „Sitzungs-Cookies“ sind Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Webseite durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieses Internetangebotes werden auf dem Server der GWDG gespeichert. Die IP-Adresse wird sofort nach der Verarbeitung und vor deren Speicherung anonymisiert. Die von Piwik erfassten Daten werden in anonymisierter Form dazu verwendet, unser Angebot zu verbessern. IP-Adressen werden in Piwik ohne das letzte Tupel gespeichert. Wir wissen, aus welchem Netz eine Anfrage kam, nicht jedoch von welchem Rechner. 
+    </p>  
+    <p>
+    Diese „Sitzungs-Cookies“ beinhalten keine personenbezogenen Daten und verfallen nach Ablauf der Sitzung. Techniken, wie zum Beispiel Java-Applets oder Active-X-Controls, die es ermöglichen, das Zugriffsverhalten der Nutzer nachzuvollziehen, werden nicht eingesetzt.
+    </p>
+    <p>
+    Im Einzelnen werden über jeden Zugriff/Abruf folgende Daten gespeichert: 
+    </p>
+    <p class="address">
+    
+    <span>- die ersten beiden Teile der IP-Adresse,</span>
+    <span>- Datum und Uhrzeit,</span>
+    <span>- User-Agent der verwendeten Software,</span>
+    <span>- aufgerufene Seite/Name der abgerufenen Datei,</span>
+    <span>- übertragene Datenmenge,</span>
+    <span>- Meldung, ob der Zugriff/Abruf erfolgreich war,</span>
+
+    </p>
+    <p>
+    Sie können sich hier entscheiden, ob in Ihrem Browser ein eindeutiger Webanalyse-Cookie abgelegt werden darf, um dem Betreiber der Webseite die Erfassung und Analyse verschiedener statistischer Daten zu ermöglichen.  
+    </p>
+    <p>
+    Durch die Nutzung dieser Website erklären Sie sich mit der Bearbeitung der über Sie erhobenen Daten durch Piwik in der zuvor beschriebenen Art und Weise und zu dem zuvor benannten Zweck einverstanden.
+Wenn Sie sich dagegen entscheiden möchten, klicken Sie den folgenden Link, um den Piwik-Deaktivierungs-Cookie in Ihrem Browser abzulegen.
+    </p>
+    <p>
+    Widerspruchs- und Beseitigungsmöglichkeit:
+    </p>
+    <p>
+                
+                Zustimmung verweigern: <a href="http://piwik.gwdg.de/index.php?module=CoreAdminHome&amp;action=optOut&amp;language=de" target="_blank">Meine Besuche sollen nicht erfasst werden.</a>
+            
+	</p>
+	</div>
+</div>
+	
+  </message>
+
   <!-- item-view labels -->
   <message key="xmlui.Mirage2.DIM-firstpublished">First published</message>
   <message key="xmlui.Mirage2.DIM-firstpublished-goescholar"> on GoeScholar</message>

@@ -807,6 +807,11 @@
                             <a href="/guideline">
                                 <i18n:text>xmlui.static.guideline_link</i18n:text>
                             </a>
+			    <xsl:text> | </xsl:text>
+                            <a href="/dataprivacy">
+                                <!-- <i18n:text>xmlui.static.guideline_link</i18n:text> -->
+				<xsl:text>Datenschutzhinweis</xsl:text>
+                            </a>
                         </div>
                     </div>
                     <div class="col-xs-5 col-sm-4 hidden-print">
@@ -942,24 +947,22 @@
         <xsl:if test="dri:body/dri:div[@n='lookup']">
             <xsl:call-template name="choiceLookupPopUpSetup"/>
         </xsl:if>
-
-	<!-- Add PIWIK analytics -->
+	
+	<!-- Piwik -->
 	<script type="text/javascript">
-			var pkBaseURL = (("https:" == document.location.protocol) ? "https://piwik.gwdg.de/" : "http://piwik.gwdg.de/");
-			document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
-		</script>
-	<script type="text/javascript">
-			try {
-				var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 72);
-				piwikTracker.trackPageView(); 
-				piwikTracker.enableLinkTracking();
-			} catch( err ) {} 
-	</script>
-	<noscript>
-	<p>
-		<img alt="" style="border:0" src="http://piwik.gwdg.de/piwik.php?idsite=72" />
-	</p>
-	</noscript>
+	  var _paq = _paq || [];
+	  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+	  _paq.push(['trackPageView']);
+	  _paq.push(['enableLinkTracking']);
+	  (function() {
+	    var u="//piwik.gwdg.de/";
+	    _paq.push(['setTrackerUrl', u+'piwik.php']);
+	    _paq.push(['setSiteId', '72']);
+	    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+	    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+	  })();
+</script>
+<!-- End Piwik Code -->
     </xsl:template>
 
     <!--The Language Selection-->
