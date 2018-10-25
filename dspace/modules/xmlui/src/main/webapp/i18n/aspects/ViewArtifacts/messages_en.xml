@@ -8673,7 +8673,7 @@
 
 
 
-    <!-- ********** SS 18******* -->
+    <!-- ********** ST 18******* -->
 
     <message key="xmlui.static.ring-18.trail">
 
@@ -8713,13 +8713,7 @@ Nachhaltigkeit als Argument
 
     <message key="xmlui.static.ring.list-18">
 
-		
-
-		<!-- Liste der Vorlesungen -->
-
-		
-
-		
+<!-- Liste der Vorlesungen -->
 
 		<!-- Vortrag -->
 
@@ -8743,11 +8737,11 @@ Nachhaltigkeit als Argument
 
 						<!-- Audio Datei -->
 
-                        <a href="/docs/audio/ring2018-04-10.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio File</span></a>
+                        <a href="/docs/audio/ring2018-04-10.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio Datei</span></a>
 
-                        <!-- YouTube Link 
+                       <!-- YouTube Link -->
 
-                        <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+                        <a target="_blank" href="//www.youtube.com/watch?list=PLgoiCMgV-zrehVHDp-UCca0loA2rluIYh&v=ps1qccivEFM" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a>
 
                     </div>
 
@@ -8789,11 +8783,11 @@ Nachhaltigkeit als Argument
 
 						<!-- Audio Datei -->
 
-                        <!-- <a href="/docs/audio/ring2018-04-17.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio File</span></a> -->
+                        <a href="/docs/audio/ring2018-04-17.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a>
 
-                        <!-- YouTube Link 
+                        <!-- YouTube Link -->
 
-                        <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+                        <a target="_blank" href="//www.youtube.com/watch?list=PLgoiCMgV-zrehVHDp-UCca0loA2rluIYh&v=-Et-ru_7fM0" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a>
 
                     </div>
 
@@ -8831,11 +8825,11 @@ Nachhaltigkeit als Argument
 
 						<!-- Audio Datei -->
 
-                        <!-- <a href="/docs/audio/ring2018-04-24.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio File</span></a> -->
+                        <a href="/docs/audio/ring2018-04-24.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a>
 
-                        <!-- YouTube Link 
+                        <!-- YouTube Link -->
 
-                        <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+                        <a target="_blank" href="//www.youtube.com/watch?list=PLgoiCMgV-zrehVHDp-UCca0loA2rluIYh&v=gTH3YWKNLjI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a>
 
                     </div>
 
@@ -8859,7 +8853,7 @@ Nachhaltigkeit als Argument
 
             <header class="panel-heading">
 
-                <h3 class="panel-title">8. May 2018</h3>
+                <h3 class="panel-title">8. Mai 2018</h3>
 
             </header>
 
@@ -8875,7 +8869,7 @@ Nachhaltigkeit als Argument
 
 						<!-- Audio Datei -->
 
-                        <!-- <a href="/docs/audio/ring2018-05-08.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio File</span></a> -->
+                        <!-- <a href="/docs/audio/ring2018-05-08.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
 
                         <!-- YouTube Link 
 
@@ -8901,7 +8895,7 @@ Nachhaltigkeit als Argument
 
             <header class="panel-heading">
 
-                <h3 class="panel-title">15. May 2018</h3>
+                <h3 class="panel-title">15. Mai 2018</h3>
 
             </header>
 
@@ -8917,11 +8911,11 @@ Nachhaltigkeit als Argument
 
 						<!-- Audio Datei -->
 
-                        <!-- <a href="/docs/audio/ring2018-05-15.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio File</span></a> -->
+                        <a href="/docs/audio/ring2018-05-15.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a>
 
-                        <!-- YouTube Link 
+                        <!-- YouTube Link -->
 
-                        <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+                        <a target="_blank" href="//www.youtube.com/watch?list=PLgoiCMgV-zrehVHDp-UCca0loA2rluIYh&v=R6Vv7CxwC8k" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a>
 
                     </div>
 
@@ -8943,7 +8937,7 @@ Nachhaltigkeit als Argument
 
             <header class="panel-heading">
 
-                <h3 class="panel-title">22. May 2018</h3>
+                <h3 class="panel-title">22. Mai 2018</h3>
 
             </header>
 
@@ -8951,7 +8945,8 @@ Nachhaltigkeit als Argument
 
                 Prof. Dr. Petra van Dam (Amsterdam)
 
-                <h4>Sustainable features of the amphibious culture of the Netherlands</h4>
+                <h4>Sustainable features of the amphibious culture of the Netherlands</h4> <br />
+		    canceled
 
                 <div class="pull-right">
 
@@ -8959,7 +8954,7 @@ Nachhaltigkeit als Argument
 
 						<!-- Audio Datei -->
 
-                        <!-- <a href="/docs/audio/ring2018-05-22.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio File</span></a> -->
+                        <!-- <a href="/docs/audio/ring2018-05-22.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
 
                         <!-- YouTube Link 
 
@@ -8985,7 +8980,7 @@ Nachhaltigkeit als Argument
 
             <header class="panel-heading">
 
-                <h3 class="panel-title">29. May 2018</h3>
+                <h3 class="panel-title">29. Mai 2018</h3>
 
             </header>
 
@@ -9001,11 +8996,11 @@ Nachhaltigkeit als Argument
 
 						<!-- Audio Datei -->
 
-                        <!-- <a href="/docs/audio/ring2018-05-29.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio File</span></a> -->
+                        <a href="/docs/audio/ring2018-05-29.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a>
 
-                        <!-- YouTube Link 
+                        <!-- YouTube Link -->
 
-                        <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+                        <a target="_blank" href="//www.youtube.com/watch?list=PLgoiCMgV-zrehVHDp-UCca0loA2rluIYh&v=oAiWU2wnFz8" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a>
 
                     </div>
 
@@ -9027,7 +9022,7 @@ Nachhaltigkeit als Argument
 
             <header class="panel-heading">
 
-                <h3 class="panel-title">5. June 2018</h3>
+                <h3 class="panel-title">5. Juni 2018</h3>
 
             </header>
 
@@ -9043,11 +9038,11 @@ Nachhaltigkeit als Argument
 
 						<!-- Audio Datei -->
 
-                        <!-- <a href="/docs/audio/ring2018-06-05.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio File</span></a> -->
+                        <a href="/docs/audio/ring2018-06-05.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a>
 
-                        <!-- YouTube Link 
+                        <!-- YouTube Link -->
 
-                        <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+                        <a target="_blank" href="//www.youtube.com/watch?list=PLgoiCMgV-zrehVHDp-UCca0loA2rluIYh&v=shvQxFKgjdU" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a>
 
                     </div>
 
@@ -9069,7 +9064,7 @@ Nachhaltigkeit als Argument
 
             <header class="panel-heading">
 
-                <h3 class="panel-title">12. June 2018</h3>
+                <h3 class="panel-title">12. Juni 2018</h3>
 
             </header>
 
@@ -9085,7 +9080,7 @@ Nachhaltigkeit als Argument
 
 						<!-- Audio Datei -->
 
-                        <!-- <a href="/docs/audio/ring2018-06-12.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio File</span></a> -->
+                        <a href="/docs/audio/ring2018-06-12.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a>
 
                         <!-- YouTube Link 
 
@@ -9111,7 +9106,7 @@ Nachhaltigkeit als Argument
 
             <header class="panel-heading">
 
-                <h3 class="panel-title">19. June 2018</h3>
+                <h3 class="panel-title">19. Juni 2018</h3>
 
             </header>
 
@@ -9127,11 +9122,11 @@ Nachhaltigkeit als Argument
 
 						<!-- Audio Datei -->
 
-                        <!-- <a href="/docs/audio/ring2018-06-19.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio File</span></a> -->
+                        <a href="/docs/audio/ring2018-06-19.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a>
 
-                        <!-- YouTube Link 
+                        <!-- YouTube Link -->
 
-                        <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+                        <a target="_blank" href="//www.youtube.com/watch?list=PLgoiCMgV-zrehVHDp-UCca0loA2rluIYh&v=IuFVgc1Sb88" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a>
 
                     </div>
 
@@ -9155,7 +9150,7 @@ Nachhaltigkeit als Argument
 
             <header class="panel-heading">
 
-                <h3 class="panel-title">26. June 2018</h3>
+                <h3 class="panel-title">26. Juni 2018</h3>
 
             </header>
 
@@ -9171,11 +9166,11 @@ Nachhaltigkeit als Argument
 
 						<!-- Audio Datei -->
 
-                        <!-- <a href="/docs/audio/ring2018-06-26.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio File</span></a> -->
+                        <a href="/docs/audio/ring2018-06-26.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a>
 
-                        <!-- YouTube Link 
+                        <!-- YouTube Link -->
 
-                        <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+                        <a target="_blank" href="//www.youtube.com/watch?list=PLgoiCMgV-zrehVHDp-UCca0loA2rluIYh&v=m-BHVpI227s" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a>
 
                     </div>
 
@@ -9199,7 +9194,7 @@ Nachhaltigkeit als Argument
 
             <header class="panel-heading">
 
-                <h3 class="panel-title">3. July 2018</h3>
+                <h3 class="panel-title">3. Juli 2018</h3>
 
             </header>
 
@@ -9215,11 +9210,11 @@ Nachhaltigkeit als Argument
 
 						<!-- Audio Datei -->
 
-                        <!-- <a href="/docs/audio/ring2018-07-03.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio File</span></a> -->
+                        <a href="/docs/audio/ring2018-07-03.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a>
 
-                        <!-- YouTube Link 
+                        <!-- YouTube Link -->
 
-                        <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+                        <a target="_blank" href="//www.youtube.com/watch?list=PLgoiCMgV-zrehVHDp-UCca0loA2rluIYh&v=Ak7lDFnrqm4" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a>
 
                     </div>
 
@@ -9241,7 +9236,7 @@ Nachhaltigkeit als Argument
 
             <header class="panel-heading">
 
-                <h3 class="panel-title">10. July 2018</h3>
+                <h3 class="panel-title">10. Juli 2018</h3>
 
             </header>
 
@@ -9257,11 +9252,11 @@ Nachhaltigkeit als Argument
 
 						<!-- Audio Datei -->
 
-                        <!-- <a href="/docs/audio/ring2018-07-10.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio File</span></a> -->
+                        <a href="/docs/audio/ring2018-07-10.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a>
 
-                        <!-- YouTube Link 
+                        <!-- YouTube Link -->
 
-                        <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+                        <a target="_blank" href="//www.youtube.com/watch?list=PLgoiCMgV-zrehVHDp-UCca0loA2rluIYh&v=9eG-tqScnKA" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a>
 
                     </div>
 
@@ -9276,8 +9271,6 @@ Nachhaltigkeit als Argument
 
 
    </message>
-
-
 
 
 
