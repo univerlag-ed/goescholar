@@ -55,24 +55,24 @@
 
     <message key="xmlui.static.ring.listall">
 
-<h3 class="list-item-header">2018</h3>     
+	<h3 class="list-item-header">2018</h3>     
 <div class="row">
-<div class="col-sm-6">
-<div class="media">
-<div class="media-left hidden-xs">
-<img src="/docs/images/ring/cover-18-19.jpg" class="media-object poster" alt="poster">
-</div>
-<div class="media-body">
-<span class="media-heading"><strong>Winter term 2018/19</strong></span>                    
-<p><a href="/lectures/18-19">&raquo;Verstehst du auch, was du liest?&laquo;<br>
-Debatten über Heilige Texte in Orient und Okzident</a></p>
-    </div>               
-  </div>            
-</div>
-<div class="col-sm-6">                
-<div class="media">                    
-<div class="media-left hidden-xs">                        
-<img src="/docs/images/ring/cover-18.jpg" class="media-object poster" alt="poster">
+	<div class="col-sm-6">
+		<div class="media">
+			<div class="media-left hidden-xs">
+				<img src="/docs/images/ring/cover-18-19.jpg" class="media-object poster" alt="poster"/>
+			</div>
+			<div class="media-body">
+				<span class="media-heading"><strong>Winter term 2018/19</strong></span>                    
+					<p><a href="/lectures/18-19">&#187;Verstehst du auch, was du liest?&#171;<br/>
+						Debatten über Heilige Texte in Orient und Okzident</a></p>
+			</div>               
+		</div>            
+	</div>
+	<div class="col-sm-6">                
+		<div class="media">                    
+			<div class="media-left hidden-xs">                        
+				<img src="/docs/images/ring/cover-18.jpg" class="media-object poster" alt="poster"/>
 </div>                    
 <div class="media-body">                        
 <span class="media-heading"><strong>Summer term 2018</strong></span>                        
@@ -84,7 +84,6 @@ Debatten über Heilige Texte in Orient und Okzident</a></p>
 	    
 	<h3 class="list-item-header">2017</h3>
 
-       <div class="row">
 
             <div class="col-sm-6">
 
@@ -9330,7 +9329,7 @@ Nachhaltigkeit als Argument
 
     <!-- Title -->
     <message key="xmlui.static.ring.title-18-19">
-        &raquo;Verstehst du auch, was du liest?laquo;<br />
+        &#187;Verstehst du auch, was du liest?&#171;<br />
 		Debatten über Heilige Texte in Orient und Okzident
     </message>
 
