@@ -86,10 +86,10 @@
 		</div>            
 	</div>
 	    
-	    
+</div>	    
 	    
 	<h3 class="list-item-header">2017</h3>
-
+	<div class="row">
 	    
             <div class="col-sm-6">
 
@@ -120,7 +120,6 @@
              	</div>
 	     </div>
         </div>
-	
         <!-- <h3 class="list-item-header">2017</h3>
 	
         <div class="row">
