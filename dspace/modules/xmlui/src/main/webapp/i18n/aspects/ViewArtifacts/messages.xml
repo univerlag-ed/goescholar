@@ -58,6 +58,24 @@
 
     <message key="xmlui.static.ring.listall">
 
+<h3 class="list-item-header">2019</h3>     
+<div class="row">
+	<div class="col-sm-6">
+		<div class="media">
+			<div class="media-left hidden-xs">
+				<img src="/docs/images/ring/cover-19.jpg" class="media-object poster" alt="poster"/>
+			</div>
+			<div class="media-body">
+				<span class="media-heading"><strong>Sommersemester 2019</strong></span>                    
+				<p><a href="/lectures/19">Das sogenannte Böse<br />
+					Das Verbrechen aus interdisziplinärer Perspektive</a></p>
+			</div>               
+	       </div>            
+	</div>
+	    
+</div>	   
+    
+	    
 <h3 class="list-item-header">2018</h3>     
 <div class="row">
 	<div class="col-sm-6">
@@ -9647,6 +9665,577 @@
 
     <!-- ********************************************************************************************* -->
 	
+<!-- ********** SS 19******* -->
+
+
+   <message key="xmlui.static.ring.playlist-19">
+   <!--     <p>
+            Die Videoaufzeichnung finden Sie unter der jeweils aktuellen <a class="extern-link" target="_blank" href="//www.youtube.com/playlist?list=PLgoiCMgV-zrc_N2snDBeXkdT41cbIbuIH"><i class="icon-youtube"></i>Playlist</a>.
+        </p> -->
+    </message>
+
+    <message key="xmlui.static.ring-19.trail">
+        SS 2019
+    </message>
+
+
+    <!-- Title -->
+
+    <message key="xmlui.static.ring.title-19">
+
+	Das sogenannte Böse - Das Verbrechen aus interdisziplinärer Perspektive
+
+    </message>
+
+
+
+    <!-- Poster -->
+
+    <message key="xmlui.static.ring.poster-19">
+
+        <div class="media-right hidden-xs">
+
+            <img class="media-object" src="/docs/images/ring/cover-19.jpg" alt="poster"></img><br />
+
+            <small><a class="extern-link" href="//www.uni-goettingen.de/de/ringvorlesung+sommersemester+2019/571206.html">Mehr Informationen ...</a></small>
+
+        </div>
+
+    </message>
+
+
+
+
+
+    <message key="xmlui.static.ring.list-19">
+
+		
+
+		<!-- Liste der Vorlesungen -->
+
+		
+
+		
+
+		<!-- Vorträge -->
+
+        <div class="panel panel-default">
+
+            <header class="panel-heading">
+
+                <h3 class="panel-title">16. April 2019</h3>
+
+            </header>
+
+            <div class="panel-body">
+
+                Prof. Dr. Jörg-Martin Jehle (Göttingen)<br />
+
+                <h4>Mythen und Wirklichkeit des Verbrechens – Eine kriminologische Einführung</h4>
+
+                <div class="pull-right">
+
+                    <div class="btn-toolbar">
+
+						<!-- Audio Datei -->
+
+                        <!-- <a href="/docs/audio/ring2019-04-16.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio Datei</span></a> -->
+
+                       <!-- YouTube Link -->
+
+                        <!-- <a target="_blank" href="//www.youtube.com/watch?list=PLgoiCMgV-zrehVHDp-UCca0loA2rluIYh&amp;v=ps1qccivEFM" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+		
+
+		<div class="panel panel-default">
+
+            <header class="panel-heading">
+
+                <h3 class="panel-title">23. April 2019</h3>
+
+            </header>
+
+            <div class="panel-body">
+
+                Dr. Dietmar Zinner, Deutsches Primatenzentrum, (Göttingen)<br />
+
+				<h4>Das sogenannte Böse – Von Konrad Lorenz zur heutigen verhaltensbiologischen Aggressionsforschung</h4>
+
+                <div class="pull-right">
+
+                    <div class="btn-toolbar">
+
+						<!-- Audio Datei -->
+
+                        <!-- <a href="/docs/audio/ring2019-04-23.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+
+                        <!-- YouTube Link -->
+
+                        <!-- <a target="_blank" href="//www.youtube.com/watch?list=PLgoiCMgV-zrehVHDp-UCca0loA2rluIYh&amp;v=-Et-ru_7fM0" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+		
+
+		<div class="panel panel-default">
+
+            <header class="panel-heading">
+
+                <h3 class="panel-title">30. April 2019</h3>
+
+            </header>
+
+            <div class="panel-body">
+
+                Prof. Dr. Thomas Kaufmann (Göttingen)<br />
+
+                <h4>&#187;Wir sind allzumal Sünder&#171; – Der Verbrecher als Sünder und Bruder aus theologischer Sicht</h4>
+
+                <div class="pull-right">
+
+                    <div class="btn-toolbar">
+
+						<!-- Audio Datei -->
+
+                        <!-- <a href="/docs/audio/ring2019-04-30.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+
+                        <!-- YouTube Link -->
+
+                        <!-- <a target="_blank" href="//www.youtube.com/watch?list=PLgoiCMgV-zrehVHDp-UCca0loA2rluIYh&amp;v=gTH3YWKNLjI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+
+
+        <div class="panel panel-default">
+
+            <header class="panel-heading">
+
+                <h3 class="panel-title">7. Mai 2019</h3>
+
+            </header>
+
+            <div class="panel-body">
+
+                Prof. Dr. Jürgen Müller (Göttingen) <br />
+
+                <h4>Krank oder kriminell? – Die Perspektive der Forensischen Psychiatrie</h4>
+
+                <div class="pull-right">
+
+                    <div class="btn-toolbar">
+
+						<!-- Audio Datei -->
+
+                        <!-- <a href="/docs/audio/ring2019-05-07.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+
+                        <!-- YouTube Link -->
+
+                        <!-- <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+
+		<div class="panel panel-default">
+
+            <header class="panel-heading">
+
+                <h3 class="panel-title">14. Mai 2019</h3>
+
+            </header>
+
+            <div class="panel-body">
+
+                Prof. Dr. Franziska Meier (Göttingen)<br />
+
+                <h4>Das Böse in uns – Ein Streifzug durch die europäische Literatur</h4>
+
+                <div class="pull-right">
+
+                    <div class="btn-toolbar">
+
+						<!-- Audio Datei -->
+
+                        <!-- <a href="/docs/audio/ring2019-05-14.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+
+                        <!-- YouTube Link -->
+
+                        <!-- <a target="_blank" href="//www.youtube.com/watch?list=PLgoiCMgV-zrehVHDp-UCca0loA2rluIYh&amp;v=R6Vv7CxwC8k" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+
+        <div class="panel panel-default">
+
+            <header class="panel-heading">
+
+                <h3 class="panel-title">21. Mai 2019</h3>
+
+            </header>
+
+            <div class="panel-body">
+
+                Prof. Dr. Thomas Bliesener (Hannover/Göttingen)<br />
+
+                <h4>Beschädigte Seelen – Frühkindliche Sozialisationsstörungen und spätere Verhaltensstörungen</h4>
+		    
+            <div class="pull-right">
+
+                    <div class="btn-toolbar">
+
+						<!-- Audio Datei -->
+
+                        <!-- <a href="/docs/audio/ring2019-05-21.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+
+                        <!-- YouTube Link -->
+
+                        <!-- <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+
+
+        <div class="panel panel-default">
+
+            <header class="panel-heading">
+
+                <h3 class="panel-title">28. Mai 2019</h3>
+
+            </header>
+
+            <div class="panel-body">
+
+                Prof. Dr. Dieter Hermann (Heidelberg)<br />
+
+                <h4>&#187;Kriminalität ist normal&#171; – Von Emile Durkheim zu aktuellen Erkenntnissen der Kriminalsoziologie</h4>
+
+                <div class="pull-right">
+
+                    <div class="btn-toolbar">
+
+						<!-- Audio Datei -->
+
+                        <!-- <a href="/docs/audio/ring2019-05-28.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+
+                        <!-- YouTube Link -->
+
+                        <!-- <a target="_blank" href="//www.youtube.com/watch?list=PLgoiCMgV-zrehVHDp-UCca0loA2rluIYh&amp;v=oAiWU2wnFz8" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+
+        <div class="panel panel-default">
+
+            <header class="panel-heading">
+
+                <h3 class="panel-title">4. Juni 2019</h3>
+
+            </header>
+
+            <div class="panel-body">
+
+                Prof. Dr. Claudia Keser (Göttingen)<br />
+
+                <h4>Homo oeconomicus – Ein Erklärungsmodell für (Wirtschafts-)Kriminalität?</h4>
+
+                <div class="pull-right">
+
+                    <div class="btn-toolbar">
+
+						<!-- Audio Datei -->
+
+                        <!-- <a href="/docs/audio/ring2019-06-04.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+
+                        <!-- YouTube Link -->
+
+                        <!-- <a target="_blank" href="//www.youtube.com/watch?list=PLgoiCMgV-zrehVHDp-UCca0loA2rluIYh&amp;v=shvQxFKgjdU" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+
+
+
+        <div class="panel panel-default">
+
+            <header class="panel-heading">
+
+                <h3 class="panel-title">11. Juni 2019</h3>
+
+            </header>
+
+            <div class="panel-body">
+
+                Prof. Dr. Dieter Thomä (St. Gallen)<br />
+
+                <h4>Außenseiter oder Kriminelle? Gesellschaftlicher Umgang mit radikaler Politik</h4>
+
+                <div class="pull-right">
+
+                    <div class="btn-toolbar">
+
+						<!-- Audio Datei -->
+
+                        <!-- <a href="/docs/audio/ring2019-06-11.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+
+                        <!-- YouTube Link -->
+
+                        <!-- <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+
+
+
+        <div class="panel panel-default">
+
+            <header class="panel-heading">
+
+                <h3 class="panel-title">18. Juni 2019</h3>
+
+            </header>
+
+            <div class="panel-body">
+
+                Prof. Dr. Katrin Höffler (Göttingen)<br />
+
+                <h4>Das Böse und die Frauen – als Opfer und Täterinnen</h4>
+
+                <div class="pull-right">
+
+                    <div class="btn-toolbar">
+
+						<!-- Audio Datei -->
+
+                        <!-- <a href="/docs/audio/ring2019-06-18.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+
+                        <!-- YouTube Link -->
+
+                        <!-- <a target="_blank" href="//www.youtube.com/watch?list=PLgoiCMgV-zrehVHDp-UCca0loA2rluIYh&amp;v=IuFVgc1Sb88" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+
+
+
+        <div class="panel panel-default">
+
+            <header class="panel-heading">
+
+                <h3 class="panel-title">25. Juni 2019</h3>
+
+            </header>
+
+            <div class="panel-body">
+
+                Prof. Dr. Barbara Krahé (Potsdam)<br />
+
+                <h4>Was fasziniert uns am Verbrechen, was stößt uns ab und wie wirkt Kriminalität in den Medien?</h4>
+
+                <div class="pull-right">
+
+                    <div class="btn-toolbar">
+
+						<!-- Audio Datei -->
+
+                        <!-- <a href="/docs/audio/ring2019-06-25.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+
+                        <!-- YouTube Link -->
+
+                        <!-- <a target="_blank" href="//www.youtube.com/watch?list=PLgoiCMgV-zrehVHDp-UCca0loA2rluIYh&amp;v=m-BHVpI227s" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+
+
+
+        <div class="panel panel-default">
+
+            <header class="panel-heading">
+
+                <h3 class="panel-title">2. Juli 2019</h3>
+
+            </header>
+
+            <div class="panel-body">
+
+                Prof. Dr. Bernd Ludwig (Göttingen)
+
+                <h4>Was die Freiheitslehre mit der Straftheorie zu tun hat: Philosophische Voraussetzungen von Prävention und Retribution</h4>
+
+                <div class="pull-right">
+
+                    <div class="btn-toolbar">
+
+						<!-- Audio Datei -->
+
+                        <!-- <a href="/docs/audio/ring2019-07-02.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+
+                        <!-- YouTube Link -->
+
+                        <!-- <a target="_blank" href="//www.youtube.com/watch?list=PLgoiCMgV-zrehVHDp-UCca0loA2rluIYh&amp;v=Ak7lDFnrqm4" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+
+
+        <div class="panel panel-default">
+
+            <header class="panel-heading">
+
+                <h3 class="panel-title">9. Juli 2019</h3>
+
+            </header>
+
+            <div class="panel-body">
+
+                Prof. Dr. Uwe Murmann (Göttingen)
+
+                <h4>Vergeltungsbedürfnis und Strafrecht – Was sind die angemessenen Antworten auf das Verbrechen?</h4>
+
+                <div class="pull-right">
+
+                    <div class="btn-toolbar">
+
+						<!-- Audio Datei -->
+
+                        <!-- <a href="/docs/audio/ring2019-07-09.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+
+                        <!-- YouTube Link -->
+
+                        <!-- <a target="_blank" href="//www.youtube.com/watch?list=PLgoiCMgV-zrehVHDp-UCca0loA2rluIYh&amp;v=9eG-tqScnKA" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+
+                    </div>
+
+                </div>
+				<h4>Podiumsdiskussion: Über den rationalen Umgang mit Kriminalität</h4><br />
+				unter Beteiligung der Journalistin Gisela Friedrichsen sowie Polizeipräsident Uwe Lührig und ROLG Frank Bornemann, Deutscher Richterbund
+
+            </div>
+
+        </div>
+
+
+   </message>
+
+
+
+
+
+
+
+
+
+	<!-- Kontakt -->
+
+    <message key="xmlui.static.ring.contact-19">
+
+
+
+        <h3>Organisation / Kontakt: </h3>
+
+
+
+        <div class="contact">
+
+            <strong>Prof. Dr. Jörg-Martin Jehle</strong>
+
+            <p><i class="icon-location"></i>Platz der Göttinger Sieben 6</p>
+            <p><span class="icon-body">37073 Göttingen</span></p>
+            <p><i class="icon-call"></i>+49 551 39 24866</p>
+            <p><i class="icon-fax"></i>+49 551 39 9241</p>
+            <p><i class="icon-mail"></i><a href="mailto:abtkrim@uni-goettingen.de">abtkrim [at] uni-goettingen.de</a></p>
+
+        </div>
+
+    </message>
+
+
+
+    <!-- ********************************************************************************************* -->
 	
 	
 </catalogue>
