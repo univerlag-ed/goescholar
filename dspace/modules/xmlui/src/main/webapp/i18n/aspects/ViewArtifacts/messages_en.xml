@@ -55,7 +55,27 @@
 
     <message key="xmlui.static.ring.listall">
 
-	<h3 class="list-item-header">2018</h3>     
+	    
+<h3 class="list-item-header">2019</h3>     
+<div class="row">
+	<div class="col-sm-6">
+		<div class="media">
+			<div class="media-left hidden-xs">
+				<img src="/docs/images/ring/cover-19.jpg" class="media-object poster" alt="poster"/>
+			</div>
+			<div class="media-body">
+				<span class="media-heading"><strong>Summer term 2019</strong></span>                    
+				<p><a href="/lectures/19">Das sogenannte Böse<br />
+					Das Verbrechen aus interdisziplinärer Perspektive</a></p>
+			</div>               
+	       </div>            
+	</div>
+	    
+</div>	   
+  
+	    
+	    
+<h3 class="list-item-header">2018</h3>     
 	<div class="row">
 	   <div class="col-sm-6">
 		<div class="media">
