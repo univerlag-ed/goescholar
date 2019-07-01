@@ -218,6 +218,11 @@
 		<xsl:choose>
 		<xsl:when test="//dim:field[@element='type' and not(@qualifier)] = 'journalArticle'">
 		  <span class="biblio">
+			<xsl:choose>
+			<xsl:when test="//dim:field[@element='identifier'][@qualifier='bibliographicCitation']">
+				<xsl:value-of select="//dim:field[@element='identifier'][@qualifier='bibliographicCitation']"/>
+			</xsl:when>
+			<xsl:otherwise>
 			<xsl:value-of select="//dim:field[@element='bibliographicCitation' and @qualifier='journal']" />
 			<xsl:if test="//dim:field[@qualifier='volume']">
 				<xsl:value-of select="concat(' ', //dim:field[@element='date' and @qualifier='issued'], '; ')" />
@@ -232,6 +237,8 @@
 			<xsl:if test="//dim:field[@qualifier='articlenumber']">
                                 <xsl:value-of select="concat(': Art. ', //dim:field[@qualifier='articlenumber'])" />
                         </xsl:if>
+			</xsl:otherwise>
+			</xsl:choose>
 		  </span>
 		</xsl:when> 
 		<xsl:otherwise>

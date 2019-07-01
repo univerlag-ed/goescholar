@@ -528,7 +528,10 @@
                         <xsl:value-of select="concat('; ', //dim:field[@element='bibliographicCitation' and @qualifier='volume'])" />
                         </xsl:if>
                 </xsl:for-each>
-	    <xsl:choose>	
+	    <xsl:choose>
+		<xsl:when test="//dim:field[@element='identifier'][@qualifier='bibliographicCitation']">
+                                <xsl:value-of select="//dim:field[@element='identifier'][@qualifier='bibliographicCitation']"/>
+                        </xsl:when>	
 		<!-- <xsl:when test="dim:field[@element='type' and @qualifier='subtype'] = 'journal article'"> -->
 		<xsl:when test="//dim:field[@element='bibliographicCitation' and @qualifier='journal']">
 			<xsl:value-of select="//dim:field[@element='bibliographicCitation' and @qualifier='journal']" />
@@ -861,7 +864,7 @@
         <xsl:param name="size" />
 	<div>
 	<xsl:if test="contains($href, '.mp4')">
-		<video autobuffer="" controls="yes" width="320" height="240">
+		<video controls="yes" width="320" height="240">
 			<xsl:attribute name="src"><xsl:value-of select="$href"/></xsl:attribute>
 		    <div class="video-fallback">
 		        <br />Sie benoetigen einen Browser, der HTML5 unterstuetzt.
