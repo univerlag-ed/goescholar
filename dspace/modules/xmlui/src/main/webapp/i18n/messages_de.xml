@@ -2716,6 +2716,7 @@
   <message key="xmlui.Mirage2.DIM-anthology">Sammelband</message>
   <message key="xmlui.Mirage2.DIM-monograph">Monografie</message>
   <message key="xmlui.Mirage2.DIM-working-paper">Arbeitspapier</message>
+  <message key="xmlui.Mirage2.DIM-specialIssue">Sonderheft</message>
 
   <!-- item-list, item-view document version -->
   <message key="xmlui.Mirage2.DIM-published-version"> (Verlagsversion)</message>
@@ -3929,7 +3930,7 @@ DE 286005 408
 Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
 </p>
 
-<h3>Datenschutzhinweis</h3>
+<!-- <h3>Datenschutzhinweis</h3>
 <div>
 <p>
 Diese Website erfasst anonymisierte Daten zur Nutzung.
@@ -3937,7 +3938,7 @@ Diese Website erfasst anonymisierte Daten zur Nutzung.
 <p>
 Zustimmung verweigern: <a href="http://piwik.gwdg.de/index.php?module=CoreAdminHome&amp;action=optOut&amp;language=en" target="_blank" class="extern-link">Meine Besuche sollen nicht erfasst werden.</a>
 </p>
-</div>
+</div> -->
 <h3>Ansprechpersonen Elektronisches Publizieren</h3>
 
 <h4>Das ganze Team</h4>
@@ -4281,6 +4282,7 @@ Wenn Sie sich dagegen entscheiden möchten, klicken Sie den folgenden Link, um d
   <message key="xmlui.Mirage2.DIM-type-report">Report</message>
   <message key="xmlui.Mirage2.DIM-type-review">Rezension</message>
   <message key="xmlui.Mirage2.DIM-type-researchData">Forschungsdaten</message>
+  <message key="xmlui.Mirage2.DIM-type-specialIssue">Sonderheft</message>
   <!-- subtypes -->
   <message key="xmlui.Mirage2.DIM-type-meetingAbstracts">Zusammenfassung der Sitzungen</message>
   <message key="xmlui.Mirage2.DIM-type-posterPresentation">Poster Präsentation</message>
@@ -4348,5 +4350,26 @@ Wenn Sie sich dagegen entscheiden möchten, klicken Sie den folgenden Link, um d
   <message key="xmlui.navigation.more.offers">Weitere Angebote</message>
   <message key="xmlui.navigation.lectures.link">Ringvorlesungen der Universität</message>
   <message key="xmlui.ArtifactBrowser.AdvancedSearch.type_version">Dokumentversion</message>
+
+                <!-- REQUEST COPY -->
+                <!-- org.dspace.app.xmlui.artifactbrowser.ItemRequestForm.java -->
+                <message key="xmlui.ArtifactBrowser.ItemRequestForm.title">Anfrage nach Dokumentkopie</message>
+                <message key="xmlui.ArtifactBrowser.ItemRequestForm.trail">Anfrage nach Dokumentkopie</message>
+                <message key="xmlui.ArtifactBrowser.ItemRequestForm.head">Anfrage nach einer Kopie von diesem Dokument</message>
+            <message key="xmlui.ArtifactBrowser.ItemRequestForm.login_para">Einloggen, um das Dokument zu sehen</message>
+            <message key="xmlui.ArtifactBrowser.ItemRequestForm.login">Login</message>
+            <message key="xmlui.ArtifactBrowser.ItemRequestForm.para1">Eine Kopie von der zuständigen Person anfragen:</message>
+                <message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterEmail">E-Mail-Adresse</message>
+                <message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterEmail_help">Die E-Mail-Adresse wird als Absender verwendet.</message>
+                <message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterEmail.error">E-mail ist Pflichtfeld!</message>
+                <message key="xmlui.ArtifactBrowser.ItemRequestForm.message">Nachricht</message>
+                <message key="xmlui.ArtifactBrowser.ItemRequestForm.message.error">Nachricht ist Pflichtfeld!</message>
+                <message key="xmlui.ArtifactBrowser.ItemRequestForm.files">Datei(en)</message>
+                <message key="xmlui.ArtifactBrowser.ItemRequestForm.allFiles">Alle Dateien, die nur eingeschränkt zugänglich sind.</message>
+                <message key="xmlui.ArtifactBrowser.ItemRequestForm.notAllFiles">Nur die angegebene Datei</message>
+                <message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterName">Ihr Name</message>
+                <message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterName.error">Name ist Pflichtfeld!</message>
+                <message key="xmlui.ArtifactBrowser.ItemRequestForm.submit">Anfage abschicken</message>
+		<message key="xmlui.dri2xhtml.METS-1.0.item-toc">Inhalt</message>
 </catalogue>
 

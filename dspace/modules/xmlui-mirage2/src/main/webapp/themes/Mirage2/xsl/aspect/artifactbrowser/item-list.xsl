@@ -244,6 +244,13 @@
 		<xsl:otherwise>
                         <!-- <xsl:if test="not(dim:field[@qualifier='ispartofseries'])"> -->
                         <span class="biblio">
+			    <xsl:for-each select="//dim:field[@element='relation' and @qualifier='ispartofseries']">
+                        	<xsl:value-of select='.'/>
+                        	<xsl:if test="//dim:field[@element='bibliographicCitation' and @qualifier='volume']">
+					<xsl:value-of select="concat('; ', //dim:field[@element='bibliographicCitation' and @qualifier='volume'])" />
+	                        </xsl:if>
+				<br />
+	                </xsl:for-each>
                             <xsl:if test="dim:field[@element='publisher']">
                                 <span class="publisher">
                                     <xsl:copy-of select="dim:field[@element='publisher' and not(@qualifier)]/node()"/>

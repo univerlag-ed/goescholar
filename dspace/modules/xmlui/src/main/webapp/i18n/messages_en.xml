@@ -4158,6 +4158,7 @@ Wenn Sie sich dagegen entscheiden möchten, klicken Sie den folgenden Link, um d
   <message key="xmlui.Mirage2.DIM-anthology">Anthology</message>
   <message key="xmlui.Mirage2.DIM-monograph">Monograph</message>
   <message key="xmlui.Mirage2.DIM-working-paper">Working paper</message>
+  <message key="xmlui.Mirage2.DIM-specialIssue">Special Issue</message>
 
   <!-- item-list, item-view document version -->
   <message key="xmlui.Mirage2.DIM-published-version"> (Published version)</message>
@@ -4194,7 +4195,8 @@ Wenn Sie sich dagegen entscheiden möchten, klicken Sie den folgenden Link, um d
   <message key="xmlui.Mirage2.DIM-type-report">Report</message>
   <message key="xmlui.Mirage2.DIM-type-review">Review</message>
   <message key="xmlui.Mirage2.DIM-type-erratum">Erratum</message>
-  <message key="xmlui.Mirage2.DIM-type-researchData">Research Data</message>  
+  <message key="xmlui.Mirage2.DIM-type-researchData">Research Data</message> 
+  <message key="xmlui.Mirage2.DIM-type-specialIssue">Special Issue</message> 
   <!-- subtypes -->
   <message key="xmlui.Mirage2.DIM-type-meetingAbstracts">Meeting Abstracts</message>
   <message key="xmlui.Mirage2.DIM-type-posterPresentation">Poster Presentation</message>
@@ -4271,4 +4273,5 @@ Wenn Sie sich dagegen entscheiden möchten, klicken Sie den folgenden Link, um d
 	<message key="xmlui.navigation.more.offers">More Offers</message>
 	<message key="xmlui.navigation.lectures.link">Lecture Series at the University</message>
 	<message key="xmlui.ArtifactBrowser.AdvancedSearch.type_version">Document version</message>
+	<message key="xmlui.dri2xhtml.METS-1.0.item-toc">Content</message>
 </catalogue>

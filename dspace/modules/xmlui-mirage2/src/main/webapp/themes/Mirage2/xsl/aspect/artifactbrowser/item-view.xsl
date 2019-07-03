@@ -214,7 +214,10 @@
                 </div>
             </div>
 	    <xsl:call-template name="itemSummaryView-DIM-abstract"/>
+	    <xsl:call-template name="itemSummaryView-DIM-toc"/>
+	    <!-- <xsl:call-template name="itemSummaryView-DIM-notes"/> -->
             <xsl:call-template name="itemSummaryView-DIM-Sponsorship" />
+	    <xsl:call-template name="itemSummaryView-DIM-notes"/>
 	<!-- <xsl:call-template name="itemSummaryView-collections"/> -->
 	    <xsl:if test="not(contains($uri, 'submit'))">
 		    <xsl:call-template name="itemSummaryView-services" />
@@ -334,6 +337,35 @@
                 </div>
             </div>
         </xsl:if>
+    </xsl:template>
+
+    <xsl:template name="itemSummaryView-DIM-toc">
+        <xsl:if test="dim:field[@element='description' and @qualifier='tableofcontents']">
+            <div class="simple-item-view-toc item-page-field-wrapper table">
+                <h4><i18n:text>xmlui.dri2xhtml.METS-1.0.item-toc</i18n:text></h4>
+                <div>
+                    <xsl:for-each select="dim:field[@element='description' and @qualifier='tableofcontents']">
+                        <xsl:choose>
+                            <xsl:when test="node()">
+				<xsl:value-of select="." disable-output-escaping="yes" /> 
+                                <!-- <xsl:copy-of select="node()"/>  -->
+                            </xsl:when>
+                            <xsl:otherwise>
+                                <xsl:text>&#160;</xsl:text>
+                            </xsl:otherwise>
+                        </xsl:choose>
+                    </xsl:for-each>
+                </div>
+            </div>
+        </xsl:if>
+    </xsl:template>
+
+    <xsl:template name="itemSummaryView-DIM-notes">
+	<xsl:for-each select="//dim:field[@element='notes' and not(@qualifier='intern')]">
+		<div class="alert alert-info" role="alert">
+			<xsl:value-of select="."/>
+		</div>
+	</xsl:for-each>
     </xsl:template>
 
     <xsl:template name="itemSummaryView-DIM-MyAuthors">
