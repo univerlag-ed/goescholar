@@ -228,6 +228,9 @@
                                     </xsl:if>
                                 </xsl:for-each>
                             </xsl:if>
+			    <xsl:if test="//dri:list[@n=(concat($handle, ':dc.type'))]/dri:item  = 'anthologyArticle'">
+				<br /><xsl:text>In: </xsl:text>
+			    </xsl:if>
                             <xsl:if test="dri:list[@n=(concat($handle, ':dc.contributor.editor'))]">
                                 <xsl:for-each select="dri:list[@n=(concat($handle, ':dc.contributor.editor'))]/dri:item">
 				   <xsl:variable name="author">
@@ -248,6 +251,9 @@
                                     </xsl:if>
                                 </xsl:for-each>
 				<i18n:text>xmlui.Mirage2.DIM-editor.label</i18n:text>
+                            </xsl:if>
+			    <xsl:if test="//dri:list[@n=(concat($handle, ':dc.type'))]/dri:item  = 'anthologyArticle'">
+                                <xsl:text> </xsl:text><xsl:value-of select="dri:list[@n=(concat($handle, ':dc.relation.ispartof'))]/dri:item"/>
                             </xsl:if>
                             <!-- <xsl:otherwise>
                                 <i18n:text>xmlui.dri2xhtml.METS-1.0.no-author</i18n:text>

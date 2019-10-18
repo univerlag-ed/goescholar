@@ -270,6 +270,11 @@
 				<xsl:value-of select="." />
 			</p>
 		    </xsl:for-each>
+		    <xsl:for-each select="dim:field[@element='description'][@qualifier='edition']">
+                        <p class="lead">
+                                <xsl:value-of select="." />
+                        </p>
+                    </xsl:for-each>
                 </div>
 		
 
@@ -392,6 +397,7 @@
 			</div>
 		</xsl:if>
 	</xsl:if>
+	<xsl:if test="not(//dim:field[@element='type' and not(@qualifier)] = 'anthologyArticle') ">	
 	<xsl:if test="dim:field[@element='contributor'][@qualifier='editor' and descendant::text()]">
                 <xsl:for-each select="dim:field[@element='contributor'][@qualifier='editor']">
 			<a>
@@ -402,6 +408,7 @@
                </xsl:for-each>
 		<xsl:text> (Eds.) </xsl:text>
         </xsl:if>
+	</xsl:if>
         </h3>
 	<xsl:if test="//dim:field[@element='relation'][@qualifier='reviewing' and descendant::text()]">
 	<div>
@@ -510,20 +517,16 @@
 
     <xsl:template name="itemSummaryView-DIM-URI">
         <div class="uri"><!-- <i class="fa fa-clipboard" aria-hidden="true"></i> --><strong><i18n:text>xmlui.dri2xhtml.METS-1.0.item-uri</i18n:text></strong>
-                
-                    <xsl:for-each select="dim:field[@element='identifier' and @qualifier='uri']">
-			<span class="bookmark">
-                        <!-- <a>
-                            <xsl:attribute name="href">
-                                <xsl:copy-of select="./node()"/>
-                            </xsl:attribute> -->
-                            <xsl:copy-of select="./node()"/>
-                        <!-- </a> -->
-			</span>
-                        <xsl:if test="count(following-sibling::dim:field[@element='identifier' and @qualifier='uri']) != 0">
-                            <br/>
-                        </xsl:if>
-                    </xsl:for-each>
+              	    <span class="bookmark"> 
+		    <xsl:choose> 
+		    <xsl:when test="//dim:field[@element='intern' and @qualifier='doi']">
+			<xsl:text>https://doi.org/</xsl:text><xsl:value-of select="//dim:field[@element='intern' and @qualifier='doi']"/>
+		    </xsl:when>
+                    <xsl:otherwise>
+                            <xsl:value-of select="//dim:field[@element='identifier' and @qualifier='uri']"/>
+                    </xsl:otherwise>
+		    </xsl:choose>
+		    </span>
         </div>
     </xsl:template>
 
@@ -552,6 +555,15 @@
 			<xsl:value-of select="//dim:field[@element='identifier' and @qualifier='doi']"/> <i class="fa fa-external-link" aria-hidden="true"></i>
 			</a>
 		</div>
+	</xsl:if>
+	<xsl:if test="//dim:field[@element='type' and not(@qualifier)] = 'anthologyArticle'">
+		<xsl:text>In: </xsl:text>
+		<xsl:for-each select="//dim:field[@element='contributor' and @qualifier='editor']">
+			<xsl:value-of select="."/>
+			<xsl:if test="position() != last()"><xsl:text>; </xsl:text></xsl:if>
+                 </xsl:for-each>
+                 <xsl:text> (Eds.) </xsl:text>	
+		 <xsl:value-of select="//dim:field[@element='relation' and @qualifier='ispartof']"/>
 	</xsl:if>
 	<div class="publisher">
 	    <xsl:for-each select="//dim:field[@element='relation' and @qualifier='ispartofseries']">
