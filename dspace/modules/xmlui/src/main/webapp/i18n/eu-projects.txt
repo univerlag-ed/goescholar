@@ -1,0 +1,347 @@
+                                                                                                                text_value                                                                                                                
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ info:eu-repo/grantAgreement/EC/FP7/312495/EU/High-Resolution Solar Physics Network/SOLARNET
+ info:eu-repo/grantAgreement/EC/FP7/612425/EU//FOSTER
+ info:eu-repo/grantAgreement/EC/FP7/229517/EU//ESO-FEL-ALMA08
+ info:eu-repo/grantAgreement/EC/FP7/211917/EU/Enhancing Poplar Traits for Energy Applications/ENERGYPOPLAR
+ info:eu-repo/grantAgreement/EC/FP7/279347/EU/Development of new wavelength standards for the search for habitable planets/WAVELENGTH STANDARDS
+ info:eu-repo/grantAgreement/EC/FP7/223031/EU//TROCAR
+ info:eu-repo/grantAgreement/EC/FP7/226977/EU//MAMBA
+ info:eu-repo/grantAgreement/EC/FP7/337283/EU/ Biological Membranes in Action: A Unified Approach to Complexation, Scaffolding and Active Transport/MEMBRANESACT
+ info:eu-repo/grantAgreement/EC/FP7/669240
+ info:eu-repo/grantAgreement/EC/FP7/337283
+ info:eu-repo/grantAgreement/EC/FP7/271027
+ info:eu-repo/grantAgreement/EC/FP7/313421/EU/Preventing Abuse of Children in the Context of AIDS in sub-Saharan Africa/PACCASA
+ info:eu-repo/grantAgreement/EC/FP7/262443/EU//EUPRIM-NET II
+ info:eu-repo/grantAgreement/EC/FP7/315963/EU//CELLEUROPE
+ info:eu-repo/grantAgreement/EC/FP7/315963
+ info:eu-repo/grantAgreement/EC/FP7/242257/EU//ADAMS
+ info:eu-repo/grantAgreement/EC/FP7/267864/EU/ASTERoseismic Investigations with SONG and Kepler/ASTERISK
+ info:eu-repo/grantAgreement/EC/FP7/290693/EU//FOODSECURE
+ info:eu-repo/grantAgreement/EC/FP7/229289
+ info:eu-repo/grantAgreement/EC/FP7/222886
+ info:eu-repo/grantAgreement/EC/FP7/259294
+ info:eu-repo/grantAgreement/EC/FP7/227458/EU//OACFT
+ info:eu-repo/grantAgreement/EC/FP7/230739/EU//P3AGI
+ info:eu-repo/grantAgreement/EC/FP7/260427
+ info:eu-repo/grantAgreement/EC/FP7/282510/EU//BLUEPRINT
+ info:eu-repo/grantAgreement/EC/FP7/201024/EU/ Affording Recovery In Stroke/ARISE
+ info:eu-repo/grantAgreement/EC/FP7/311394/EU//PAROSIN
+ info:eu-repo/grantAgreement/EC/FP7/249858
+ info:eu-repo/grantAgreement/EC/FP7/282378/EU//DENFREE
+ info:eu-repo/grantAgreement/EC/FP7/210949/EU//SISI
+ info:eu-repo/grantAgreement/EC/FP7/291734/EU/International IST Postdoctoral Fellowship Programme/ISTFELLOW
+ info:eu-repo/grantAgreement/EC/FP7/FP7-PEOPLE-2009-IEF
+ info:eu-repo/grantAgreement/EC/FP7/336736/EU//CALENDS
+ info:eu-repo/grantAgreement/EC/FP7/282664/EU/Raising the alert about critical feedbacks between climate and long-term land use change in the Amazon/AMAZALERT
+ info:eu-repo/grantAgreement/EC/FP7/226354/EU//HERMIONE
+ info:eu-repo/grantAgreement/EC/FP7/247014/EU/ Oxidation via low-energy electron transfer. Development of green oxidation methodology via a biomimetic approach/OXLEET
+ info:eu-repo/grantAgreement/EC/FP7/231807/EU//EPIWORK
+ info:eu-repo/grantAgreement/EC/FP7/Open-Access-Publikationsfonds 2017
+ info:eu-repo/grantAgreement/EC/FP7/604305/EU/SUSTAINABLE NANOTECHNOLOGIES/SUN
+ info:eu-repo/grantAgreement/EC/FP7/246102/EU//IFOX
+ info:eu-repo/grantAgreement/EC/FP7/610028
+ info:eu-repo/grantAgreement/EC/FP7/211868/EU//NOVELTREE
+ info:eu-repo/grantAgreement/EC/FP7/600698/EU//H2R
+ info:eu-repo/grantAgreement/EC/FP7/201535/EU//NGIDD
+ info:eu-repo/grantAgreement/EC/FP7/267888/EU//DEMOVE
+ info:eu-repo/grantAgreement/EC/FP7/338251
+ info:eu-repo/grantAgreement/EC/FP7246806/EU/European Particle physics Latin American NETwork/EPLANET
+ info:eu-repo/grantAgreement/EC/FP7/687795/EU/Intuitive Natural Prosthesis UTilization/INPUT
+ info:eu-repo/grantAgreement/EC/FP7/202886/EU/ Catalytic Carbene Insertion Reactions; Creating Diversity in (Material) Synthesis/CATCIR
+ info:eu-repo/grantAgreement/EC/FP7/283783/EU//GLORIA
+ info:eu-repo/grantAgreement/EC/FP7/244096/EU//FORESTTRAC
+ info:eu-repo/grantAgreement/EC/FP7/270273/EU//Xperience
+ info:eu-repo/grantAgreement/EC/FP7/242048/EU//ZF-HEALTH
+ info:eu-repo/grantAgreement/EC/FP7/258749/EU/The Collective Experience of Empathic Data Systems/CEEDs
+ info:eu-repo/grantAgreement/EC/FP7/282105/EU//LEC&LIP2INVADE
+ info:eu-repo/grantAgreement/EC/FP7/259348/EU//ASSET
+ info:eu-repo/grantAgreement/EC/FP7/203312/EU//NEUROFOLD
+ info:eu-repo/grantAgreement/EC/FP7/230374/EU/Genetics of Mental Illness/GMI
+ info:eu-repo/grantAgreement/EC/FP7/268358/EU//NL-4 IN AUTISM
+ info:eu-repo/grantAgreement/EC/FP7/283883
+ info:eu-repo/grantAgreement/EC/FP7/295375/EU/Persia and its Neighbours: the Archaeology of Late Antique Imperial Power in Iran/PERSIA
+ info:eu-repo/grantAgreement/EC/FP7/258713/EU//ANTHOS
+ info:eu-repo/grantAgreement/EC/FP7/223524
+ info:eu-repo/grantAgreement/EC/FP7/246686/EU//OpenAIRE
+ info:eu-repo/grantAgreement/EC/FP7/247935/EU//BETTER
+ info:eu-repo/grantAgreement/EC/FP7/266753
+ info:eu-repo/grantAgreement/EC/H2020/646809/EU/ Data Intensive Modelling of the Rhizosphere Processes/DIMR
+ info:eu-repo/grantAgreement/EC/FP7/607080/EU/Vitrified Metals Technologies and Applications in Devices and Chemistry/VitriMetTech
+ info:eu-repo/grantAgreement/EC/FP7/282008/EU//DYNAMOM
+ info:eu-repo/grantAgreement/EC/H2020/641321/EU/ Socialising Sensori-Motor Contingencies/ocSMCs
+ info:eu-repo/grantAgreement/EC/FP7/611687/EU//NEBIAS
+ info:eu-repo/grantAgreement/EC/FP7/Mitochondria, Peroxisomes and Lysosomes - the ""menage a trois"" of cellular metabolism/EU/Mitochondria, Peroxisomes and Lysosomes - the ""menage a trois"" of cellular metabolism/MITOPEXLYSONETWORK
+ info:eu-repo/grantAgreement/EC/FP7/246479/EU//NAMDIATREAM
+ info:eu-repo/grantAgreement/EC/FP7/710722
+ info:eu-repo/grantAgreement/EC/FP7/283595/EU//OpenAIREplus
+ info:eu-repo/grantAgreement/EC/FP7/262443/EU/European Primate Network: Advancing 3Rs and International Standards in Biological and Biomedical Research/EUPRIM-NET II
+ info:eu-repo/grantAgreement/EC/FP7/226852/EU//SCALES
+ info:eu-repo/grantAgreement/EC/FP7/018883
+ info:eu-repo/grantAgreement/EC/FP7/290011/EU/Adaptive Brain Computations/ABC
+ info:eu-repo/grantAgreement/EC/FP7/330430/EU//PRANA
+ info:eu-repo/grantAgreement/EC/FP7/319968/EU//FlowCCS
+ info:eu-repo/grantAgreement/EC/FP7/602299
+ info:eu-repo/grantAgreement/EC/FP7/226701
+ info:eu-repo/grantAgreement/EC/FP7/609593/EU/ The Future of Brain/Neural Computer Interaction: Horizon 2020/BNCI Horizon 2020
+ info:eu-repo/grantAgreement/EC/FP7/241558/EU//SICA-HF
+ info:eu-repo/grantAgreement/EC/FP7/612425/EU/FACILITATE OPEN SCIENCE TRAINING FOR EUROPEAN RESEARCH/FOSTER
+ info:eu-repo/grantAgreement/EC/FP7/311929/EU//WATBIO
+ info:eu-repo/grantAgreement/EC/FP7/60402
+ info:eu-repo/grantAgreement/EC/FP7/027657
+ info:eu-repo/grantAgreement/EC/FP7/600388/EU/ACC10 programme to foster mobility of researchers with a focus in applied research and technology transfer/TECNIOSPRING
+ info:eu-repo/grantAgreement/EC/FP7/ 312844
+ info:eu-repo/grantAgreement/EC/FP7/284553/EU/Towards new Brain-Machine Interfaces:state-dependent information coding/SI-CODE
+ info:eu-repo/grantAgreement/EC/FP7/218816/EU//SOTERIA
+ info:eu-repo/grantAgreement/EC/FP7/286208/EU//MYOSENS
+ info:eu-repo/grantAgreement/EC/FP7/257110/EU//RAWG
+ info:eu-repo/grantAgreement/EC/FP7/ 336479
+ info:eu-repo/grantAgreement/EC/FP7/228292/EU//EVA
+ info:eu-repo/grantAgreement/EC/FP7/213646
+ info:eu-repo/grantAgreement/EC/FP7/229294
+ info:eu-repo/grantAgreement/EC/FP7/242193/EU//EFACTS
+ info:eu-repo/grantAgreement/EC/FP7/295243
+ info:eu-repo/grantAgreement/EC/FP7/258236/EU//SYSCOL
+ info:eu-repo/grantAgreement/EC/FP7/268288/EU//SEP
+ info:eu-repo/grantAgreement/EC/FP7/279227/EU//CRESTAR
+ info:eu-repo/grantAgreement/EC/H2020/646747/EU/N2 as Chemical Feedstock – Synthetic Nitrogen Fixation beyond Haber-Bosch/N2FEED
+ info:eu-repo/grantAgreement/EC/FP7/252951/EU//SHAPEXPIUM
+ info:eu-repo/grantAgreement/EC/FP7/312789
+ info:eu-repo/grantAgreement/EC/FP7/289442/EU//INVISIBLES
+ info:eu-repo/grantAgreement/EC/FP7/286208/EU/MYOELECTRIC INTERFACING WITH SENSORY-MOTOR INTEGRATION/MYOSENS
+ info:eu-repo/grantAgreement/EC/FP7/267399
+ info:eu-repo/grantAgreement/EC/FP7/246806
+ info:eu-repo/grantAgreement/EC/FP7/315877/EU//MCNETITN
+ info:eu-repo/grantAgreement/EC/FP7/226310/EU//REDD-ALERT
+ info:eu-repo/grantAgreement/EC/FP7/278611/EU/NOX enzymes as mediators of inflammation-triggered neurodegeneration: modulating NOX enzymes as novel therapies/NEURINOX
+ info:eu-repo/grantAgreement/EC/FP7/278486/EU//DEVELAGE
+ info:eu-repo/grantAgreement/EC/FP7/266401
+ info:eu-repo/grantAgreinfo:eu-repo/grantAgreement/EC/FP7/246806/EU/European Particle physics Latin American NETwork/EPLANET
+ info:eu-repo/grantAgreement/EC/FP7/268421/EU//ISANDAL
+ info:eu-repo/grantAgreement/EC/FP7/214402/EU//ANGIOSCAFF
+ info:eu-repo/grantAgreement/EC/FP7/339659/EU//MUSICOS
+ info:eu-repo/grantAgreement/EC/FP7/316165/EU/Crete Center for Quantum Complexity and Nanotechnology/CCQCN
+ info:eu-repo/grantAgreement/EC/FP7/278594
+ info:eu-repo/grantAgreement/EC/FP7/282008
+ info:eu-repo/grantAgreement/EC/FP7/602299/EU/ Comparative Effectiveness Research to Assess the Use of Primary ProphylacTic Implantable Cardioverter Defibrillators in EUrope/EU-CERT-ICD
+ info:eu-repo/grantAgreement/EC/FP7/269716/EU/The merging of the senses: understanding multisensory experience/Multisense
+ info:eu-repo/grantAgreement/EC/FP7/265170/EU/Enhancing Robustness and Model Integration for The Assessment of Global Environmental Change/ERMITAGE
+ info:eu-repo/grantAgreement/EC/FP7/602144
+ info:eu-repo/grantAgreement/EC/FP7/278535
+ info:eu-repo/grantAgreement/EC/FP7/020589
+ info:eu-repo/grantAgreement/EC/FP7/265926/EU//MARINE FUNGI
+ info:eu-repo/grantAgreement/EC/FP7/281043/EU//FEMTOSPIN
+ info:eu-repo/grantAgreement/EC/FP7/643410
+ info:eu-repo/grantAgreement/EC/FP7/201433/EU//NGIN
+ info:eu-repo/grantAgreement/EC/FP7/283093/EU/ Role Of Biodiversity In climate change mitigatioN/ROBIN
+ info:eu-repo/grantAgreement/EC/FP7/318786/EU/Model and Inference Driven, Automated testing of Services architectures/MIDAS
+ info:eu-repo/grantAgreement/EC/FP7/606950/EU/Extracellular brain proteolysis in neuronal plasticity and neuropsychiatric disorders/EXTRABRAIN
+ info:eu-repo/grantAgreement/EC/FP7/302103/EU//TAUKITFORNEWPHYSICS
+ info:eu-repo/grantAgreement/EC/FP7/244090/EU//STEP
+ info:eu-repo/grantAgreement/EC/FP7/241791/EU/European Project on Mendelian Forms of Parkinson’s Disease/MEFOPA
+ info:eu-repo/grantAgreement/EC/FP7/284405/EU//DISCANALYSIS
+ info:eu-repo/grantAgreement/EC/FP7/267864/EU//ASTERISK
+ info:eu-repo/grantAgreement/EC/FP7/278976/EU/ANTIcipating the Global Onset of Novel Epidemics/ANTIGONE
+ info:eu-repo/grantAgreement/EC/FP7/339580/EU//MITRAC
+ info:eu-repo/grantAgreement/EC/FP7/239224/EU//TA PROTEIN INSERTION
+ info:eu-repo/grantAgreement/EC/H2020/646747/EU/ N2 as Chemical Feedstock – Synthetic Nitrogen Fixation beyond Haber-Bosch/N2FEED
+ info:eu-repo/grantAgreement/EC/FP7/219175
+ info:eu-repo/grantAgreement/EC/FP7/291352/EU//BEAMING
+ info:eu-repo/grantAgreement/EC/FP7/042360
+ info:eu-repo/grantAgreement/EC/FP7/274889/EU//ACTIVITY & PLANETS
+ info:eu-repo/grantAgreement/EC/FP7/227286/EU//MUSTANG
+ info:eu-repo/grantAgreement/EC/FP7/655694/EU/Evolutionary Trends And GRasping form and function In Primates and other tetrapod lineages/GETAGRIP
+ info:eu-repo/grantAgreement/EC/FP7/Open-Access-Publikationsfonds 2016
+ info:eu-repo/grantAgreement/EC/FP7/671048/EU/Myelinic nanochannels in neurodegenerative diseases/MyeliNANO
+ info:eu-repo/grantAgreement/EC/FP7/307535/EU//CATCHFUN
+ info:eu-repo/grantAgreement/EC/FP7/246806/EU/Time dynamics and ContROl in naNOStructures for magnetic recording and energy applications/CRONOS
+ info:eu-repo/grantAgreement/EC/H2020/655760/EU/Development of Maximum Efficiency Phase Contrast Electron Microscopy/DIGIPHASE
+ info:eu-repo/grantAgreement/EC/FP7/262025/EU//AIDA
+ info:eu-repo/grantAgreement/EC/FP7/242564
+ info:eu-repo/grantAgreement/EC/FP7/212147/EU//DRIVER
+ info:eu-repo/grantAgreement/EC/FP7/241544
+ info:eu-repo/grantAgreement/EC/FP7/600954/EU/VISUAL MODELLING USING GANGLION CELLS/VISUALISE
+ info:eu-repo/grantAgreement/EC/FP7/647168/EU/Cell biology of myelin wrapping, plasticity and turnover/Myelination
+ info:eu-repo/grantAgreement/EC/FP7/607072/EU/The biogenesis of tail-anchored membrane proteins: knowledge and exploitation/TAMPTING
+ info:eu-repo/grantAgreement/EC/FP7/616791
+ info:eu-repo/grantAgreement/EC/FP7/246678/EU//OGLEIV
+ info:eu-repo/grantAgreement/EC/FP7/337327/EU/"Mitochondria, Peroxisomes and Lysosomes - the ""menage a trois"" of cellular metabolism"
+ info:eu-repo/grantAgreement/EC/FP7/247935/EU/BNCI-driven Robotic Physical Therapies in Stroke Rehabilitation of Gait Disorders/BETTER
+ info:eu-repo/grantAgreement/EC/FP7/294757/EU/Assessment of bacterial life and matter cycling in deep-sea surface sediments/ABYSS
+ info:eu-repo/grantAgreement/EC/FP7/222645
+ info:eu-repo/grantAgreement/EC/FP7/202204/EU//TISS.EU
+ info:eu-repo/grantAgreement/EC/FP7/
+ info:eu-repo/grantAgreement/EC/FP7/311922/EU/Development of improved perennial non-food biomass and bioproduct crops for water stressed environments/WATBIO
+ info:eu-repo/grantAgreement/EC/FP7/239108
+ info:eu-repo/grantAgreement/EC/FP7/214919/EU//MULTIFLOW
+ info:eu-repo/grantAgreement/EC/FP7/293438/EU//RUBICAN
+ info:eu-repo/grantAgreement/EC/FP7/250179/EU//I-FIVE
+ info:eu-repo/grantAgreement/EC/FP7/242167/EU//SYNSYS
+ info:eu-repo/grantAgreement/EC/FP7/269716/EU/The merging of the senses: understanding multisensory experience/MULTISENSE
+ info:eu-repo/grantAgreement/EC/FP7/245536
+ info:eu-repo/grantAgreement/EC/FP7/279347.
+ info:eu-repo/grantAgreement/EC/FP7/237521/EU//PTURB
+ info:eu-repo/grantAgreement/EC/FP7/611695/EU//BioMot
+ info:eu-repo/grantAgreement/EC/FP7/613793
+ info:eu-repo/grantAgreement/EC/FP7/247060/EU//PEPS
+ info:eu-repo/grantAgreement/EC/FP7/267888
+ info:eu-repo/grantAgreement/EC/FP7/337327
+ info:eu-repo/grantAgreement/EC/FP7/211400/EU//ICON
+ info:eu-repo/grantAgreement/EC/FP7/602805/EU//AGGRESSOTYPE
+ info:eu-repo/grantAgreement/EC/FP7/607080
+ info:eu-repo/grantAgreement/EC/FP7/231724/EU/Human Behavioral Modeling for Enhancing Learning\r                                                                                                                                         +
+ by Optimizing Human-Robot Interaction/HUMOUR
+ info:eu-repo/grantAgreement/EC/FP7/2336479
+ info:eu-repo/grantAgreement/EC/H2020/669531/EU/ Beating Complexity through Selectivity:Excited state Dynamics from Anti-Stokes and non-linear resonant inelastic X-ray scattering/EDAX
+ info:eu-repo/grantAgreement/EC/FP7/312778
+ info:eu-repo/grantAgreement/EC/FP7//EU//
+ info:eu-repo/grantAgreement/EC/FP7/290605/EU//PSI-FELLOW
+ info:eu-repo/grantAgreement/EC/FP7/310932/EU/Neuroprotection in Multiple Sclerosis: From Molecular Imaging to Screenable Models/NEMESIS
+ info:eu-repo/grantAgreement/EC/Horizon2020/659227/EU/Stochastic Multi-Scale Modelling for the Analysis of Closed-Loop Interactions among Brain Networks/STOMMAC
+ info:eu-repo/grantAgreement/EC/FP7/312844/EU//SPACEINN
+ info:eu-repo/grantAgreement/EC/FP7/330621/EU//GUT TC PHENOTYPES
+ info:eu-repo/grantAgreement/EC/FP7/281422/EU//TEEMBIO
+ info:eu-repo/grantAgreement/EC/FP7/202213/EU/European Stroke Research Network/EUSTROKE
+ info:eu-repo/grantAgreement/EC/FP7/224495/EU//euHeart
+ info:eu-repo/grantAgreement/EC/FP7/503039
+ info:eu-repo/grantAgreement/EC/FP7/200754/EU//GEN2PHEN
+ info:eu-repo/grantAgreement/EC/FP7/258883/EU//IMPACT
+ info:eu-repo/grantAgreement/EC/FP7/612212
+ info:eu-repo/grantAgreement/EC/FP7/279347/EU//WAVELENGTH STANDARDS
+ info:eu-repo/grantAgreement/EC/FP7/261752/EU//PLANTFOODSEC
+ info:eu-repo/grantAgreement/EC/FP7/281265/EU//BETAREGENERATION
+ info:eu-repo/grantAgreement/EC/FP7/241677
+ info:eu-repo/grantAgreement/EC/FP7/227224/EU//PROSPERITY
+ info:eu-repo/grantAgreement/EC/FP7/602450/EU/IMAging GEnetics for MENtal Disorders/IMAGEMEND
+ info:eu-repo/grantAgreement/EC/FP7/291734/EU//ISTFELLOW
+ info:eu-repo/grantAgreement/EC/FP7/251555/EU//AMYO
+ info:eu-repo/grantAgreement/EC/FP7/311710/EU//MU TUNING
+ info:eu-repo/grantAgreement/EC/FP7/312284/EU//CALIPSO
+ info:eu-repo/grantAgreement/EC/FP7/2009-241526
+ info:eu-repo/grantAgreement/EC/FP7/275303
+ info:eu-repo/grantAgreement/EC/FP7/268626/EU//EPINORC
+ info:eu-repo/grantAgreement/EC/FP7/115300
+ info:eu-repo/grantAgreement/EC/FP7/234866/EU//EXOPLANET SEARCH
+ info:eu-repo/grantAgreement/EC/FP7/283093/EU//ROBIN
+ info:eu-repo/grantAgreement/EC/FP7/279097/EU/ESmart Systems for Small Molecule Activation and Sustainable Homogeneous Catalysis/EuReCat
+ info:eu-repo/grantAgreement/EC/FP7/293568/EU//RENAL EPIGENETICS
+ info:eu-repo/grantAgreement/EC/FP7/222623
+ info:eu-repo/grantAgreement/EC/FP7/299105/EU//FITNESS & EVOLUTION
+ info:eu-repo/grantAgreement/EC/FP7/037950
+ info:eu-repo/grantAgreement/EC/FP7/330792/EU//DYNVIB
+ info:eu-repo/grantAgreement/EC/H2020/702976/EU/Discriminatory and Nondiscriminatory Trade Costs/COST
+ info:eu-repo/grantAgreement/EC/FP7/265942
+ info:eu-repo/grantAgreement/EC/FP7/211696
+ info:eu-repo/grantAgreement/EC/FP7/600954/EU//VISUALISE
+ info:eu-repo/grantAgreement/EC/FP7/211917/EU//ENERGYPOPLAR
+ info:eu-repo/grantAgreement/EC/FP7/311575/EU//F12
+ info:eu-repo/grantAgreement/EC/FP7/278948/EU//TACTICS
+ info:eu-repo/grantAgreement/EC/FP7/606950/EU//EXTRABRAIN
+ info:eu-repo/grantAgreement/EC/FP7/201549/EU//EURO-PADNET
+ info:eu-repo/grantAgreement/EC/FP7/312253/EU/Synthesis of systematic resources/SYNTHESYS III
+ info:eu-repo/grantAgreement/EC/FP7/269020/EU/The role of myelinating glia in preserving axon function/AXOGLIA
+ info:eu-repo/grantAgreement/EC/FP7/312844/EU/Exploitation of Space Data for Innovative Helio- and Asteroseismology/SPACEINN
+ info:eu-repo/grantAgreement/EC/FP7/026145
+ info:eu-repo/grantAgreement/EC/FP7/338251/EU/Accurate ages of stars/StellarAges
+ info:eu-repo/grantAgreement/EC/FP7/239953/EU//EXOEARTHS
+ info:eu-repo/grantAgreement/EC/FP7/259881/EU//IMAGINT
+ info:eu-repo/grantAgreement/EC/FP7/252811/EU//EMMA
+ info:eu-repo/grantAgreement/EC/H2020//EU//
+ info:eu-repo/grantAgreement/EC/FP7/226604/EU//OPTICON
+ info:eu-repo/grantAgreement/EC/FP7/241861
+ info:eu-repo/grantAgreement/EC/FP7/ 312495
+ info:eu-repo/grantAgreement/EC/FP7/305121/EU//NEUROMICS
+ info:eu-repo/grantAgreement/EC/FP7/222645/EU/Improving nutrient efficiency in major European food, feed and biofuel crops to reduce the negative environmental impact of crop production/NUE-CROPS
+ info:eu-repo/grantAgreement/EC/FP7/244165/EU//EUGENE
+ info:eu-repo/grantAgreement/EC/FP7/222887/EU//PRIORITY
+ info:eu-repo/grantAgreement/EC/FP7/246513/EU//NADINE
+ info:eu-repo/grantAgreement/EC/FP7/614765/EU//NEUROMOLANATOMY
+ info:eu-repo/grantAgreement/EC/FP7/226070/EU//TRENTINO
+ info:eu-repo/grantAgreement/EC/FP7/218795
+ info:eu-repo/grantAgreement/EC/FP7/223111/EU//CAREPNEUMO
+ info:eu-repo/grantAgreement/EC/FP7/281986/EU//TERRAGEN
+ info:eu-repo/grantAgreement/EC/FP7/267888/EU/DECODING THE NEURAL CODE OF HUMAN MOVEMENTS FOR A NEW GENERATION OF MAN-MACHINE INTERFACES/DEMOVE
+ info:eu-repo/grantAgreement/EC/FP7/245536/EU/Opening Estonian Genome Project for European Research Area/REGPOT
+ info:eu-repo/grantAgreement/EC/FP7/unbekannt
+ info:eu-repo/grantAgreement/EC/FP7/202272
+ info:eu-repo/grantAgreement/EC/FP7/233066/EU//SPATIODIVERSITY
+ info:eu-repo/grantAgreement/EC/FP7/FP HEALTH 2013-602144
+ info:eu-repo/grantAgreement/EC/FP7/294293/EU//PAIN PLASTICITY
+ info:eu-repo/grantAgreement/EC/FP7/312495/EU/High-Resolution Solar Physics Network/ SOLARNET
+ info:eu-repo/grantAgreement/EC/FP7/201413/EU/European Network for Genetic and Genomic Epidemiology/ENGAGE
+ info:eu-repo/grantAgreement/EC/FP7/215851
+ info:eu-repo/grantAgreement/EC/FP7/268421/EU/Ice: Small and Near, Distant and Large. Understanding planet formation through observation of Solar-System minor bodies and extra-solar planets/iSANDAL
+ info:eu-repo/grantAgreement/EC/FP7/627202/EU/Planet Analysis and Small Transit Investigation Software/PASTIS
+ info:eu-repo/grantAgreement/EC/FP7/602299/EU/Comparative Effectiveness Research to Assess the Use of Primary ProphylacTic Implantable Cardioverter Defibrillators in EUrope/EU-CERT-ICD
+ info:eu-repo/grantAgreement/EC/FP7/619793/EU//CoLiSA.MMP
+ info:eu-repo/grantAgreement/EC/FP7/269020/EU//AXOGLIA
+ info:eu-repo/grantAgreement/EC/FP7/260916
+ info:eu-repo/grantAgreement/EC/FP7/600578/EU//ACAT
+ info:eu-repo/grantAgreement/EC/FP7/222925/EU//NEUGENE
+ info:eu-repo/grantAgreement/EC/FP7/LATENTCAUSES
+ info:eu-repo/grantAgreement/EC/FP7/311781/EU//LIBERATION
+ info:eu-repo/grantAgreement/EC/FP7/315877/EU/Training Network for Monte Carlo Event Generators for LHC Physics/MCnetITN
+ info:eu-repo/grantAgreement/EC/FP7/330792/EU/Dynamic effective connectivity of the Virtual Brain/DynViB
+ info:eu-repo/grantAgreement/EC/FP7/263215/EU/Managing Risks of Nanoparticles/MARINA
+ info:eu-repo/grantAgreement/EC/FP7/321570/EU//EURONANOMED II
+ info:eu-repo/grantAgreement/EC/FP7/312495/EU/ High-Resolution Solar Physics Network/SOLARNET
+ info:eu-repo/grantAgreement/EC/FP7/204034/EU//MYELIN
+ info:eu-repo/grantAgreement/EC/FP7/242209/EU/A systems BIOlogy Study to TAilored Treatment in Chronic Heart Failure/BIOSTAT-CHF
+ info:eu-repo/grantAgreement/EC/FP7/264143/EU//ENVISION
+ info:eu-repo/grantAgreement/EC/FP7/282008/EU/ New magnetic resonance techniques to determine the dynamic structure of mitochondrial outer membrane proteins and their complexes/DYNAMOM
+ info:eu-repo/grantAgreement/EC/FP7/335080/EU//
+ info:eu-repo/grantAgreement/EC/FP7/258749
+ info:eu-repo/grantAgreement/EC/FP7/279281/EU//BRAINAGE
+ info:eu-repo/grantAgreement/EC/FP7/308454/EU/ EU BON: Building the European Biodiversity Observation Network/EU BON
+ info:eu-repo/grantAgreement/EC/FP7/241481/EU//AFFINOMICS
+ info:eu-repo/grantAgreement/EC/FP7/634486
+ info:eu-repo/grantAgreement/EC/FP7/603646
+ info:eu-repo/grantAgreement/EC/FP7/619793/EU/(Computational Lithography for Directed Self-Assembly: Materials, Models, and Processes/CoLiSA.MMP
+ info:eu-repo/grantAgreement/EC/FP7/294494/EU//THCB2011
+ info:eu-repo/grantAgreement/EC/FP7/269194/EU//ASK
+ info:eu-repo/grantAgreement/EC/FP7/317672/EU//CONGAS
+ info:eu-repo/grantAgreement/EC/FP7/336453/EU/Picometer scale insight and manipulation of novel materials/PICOMAT
+ info:eu-repo/grantAgreement/EC/FP7/241526/EU//EUTRIGTREAT
+ info:eu-repo/grantAgreement/EC/FP7/607616/EU//IN-SENS
+ info:eu-repo/grantAgreement/EC/FP7/242553/EU//ESED
+ info:eu-repo/grantAgreement/EC/FP7/268776/EU//EVOLNA
+ info:eu-repo/grantAgreement/EC/FP7/307535/EU/ Sustainable Catalytic C-H Bond Functionalization/CatCHFun
+ info:eu-repo/grantAgreement/EC/FP7/229292
+ info:eu-repo/grantAgreement/EC/FP7/267251/EU//ASTROFIT
+ info:eu-repo/grantAgreement/EC/FP7/606862/EU/Flare Chromospheres: Observations, Models and Archives/F-CHROMA
+ info:eu-repo/grantAgreement/EC/FP7/226716/EU//ELISA
+ info:eu-repo/grantAgreement/EC/FP7/261391/EU//EUROWESTNILE
+ info:eu-repo/grantAgreement/EC/FP7/611687
+ info:eu-repo/grantAgreement/EC/FP7/312495/EU//SOLARNET
+ info:eu-repo/grantAgreement/EC/FP7/European Research Council (ERC)
+ info:eu-repo/grantAgreement/EC/FP7/246806/EU/European Particle physics LatinAmerican NETwork/EPLANET
+ info:eu-repo/grantAgreement/EC/FP7/606692/EU/Heliospheric Cataloguing, Analysis and Techniques Service/HELCATS
+ info:eu-repo/grantAgreement/EC/FP7/307535/EU/Sustainable Catalytic C-H Bond Functionalization/CatCHFun
+ info:eu-repo/grantAgreement/EC/FP7/3109321
+ info:eu-repo/grantAgreement/EC/FP7/315963/EU/Improving HSCT By Validation Of Biomarkers & Development Of Novel Cellular Therapies/CELLEUROPE
+ info:eu-repo/grantAgreement/EC/FP7/223276
+ info:eu-repo/grantAgreement/EC/FP7/627202/EU//PASTIS
+ info:eu-repo/grantAgreement/EC/FP7/222887
+ info:eu-repo/grantAgreement/EC/FP7/339580
+ info:eu-repo/grantAgreement/EC/FP7/265073
+ info:eu-repo/grantAgreement/EC/FP7/607793/EU//BIOENERGY
+ info:eu-repo/grantAgreement/EC/FP7/257082/EU//EPIGENESYS
+ info:eu-repo/grantAgreement/EC/FP7/310886/EU//HISTFUNC
+ info:eu-repo/grantAgreement/EC/FP7/228304/EU/Equidistribution in number theory/EQUIARITH
+ info:eu-repo/grantAgreement/EC/FP7/301002/EU//TF3B_P3
+ info:eu-repo/grantAgreement/EC/FP7/339580/EU/Mitochondrial translational regulation coupled to respiratory chain assembly and protein import/MITRAC
+ info:eu-repo/grantAgreement/EC/FP7/309528/EU//CHROMDECON
+ info:eu-repo/grantAgreement/EC/FP7/201936/EU//NANOMAP
+ info:eu-repo/grantAgreement/EC/FP7/242564/EU//DOFOCO
+ info:eu-repo/grantAgreement/EC/FP7/264645/EU//DYNAMOL
+ info:eu-repo/grantAgreement/EC/FP7/246806/EU/European Particle physics Latin American NETwork/EPLANET
+ info:eu-repo/grantAgreement/EC/FP7/247303/EU//MFECE
+ info:eu-repo/grantAgreement/EC/FP7/627266/EU/Towards improving biofuel production - Oil synthesis and accumulation pathways in promising oleaginous microalgae/ALGAEOILSYNTH
+ info:eu-repo/grantAgreement/EC/FP7/600698
+ info:eu-repo/grantAgreement/EC/FP7/242038/EU//CARE-MI
+ info:eu-repo/grantAgreement/EC/FP7/602144/EU/Innovative methodology for small populations research/InSPiR
+ info:eu-repo/grantAgreement/EC/FP7/266401/EU/Genetic Improvement of Algae for Value Added Products/GIAVAP
+ info:eu-repo/grantAgreement/EC/FP7/267934/EU//MISTIC
+ info:eu-repo/grantAgreement/EC/FP7/247947/EU//GARNICS
+(342 rows)
+
