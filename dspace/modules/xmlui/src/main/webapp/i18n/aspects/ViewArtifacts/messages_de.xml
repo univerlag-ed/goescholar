@@ -8225,9 +8225,9 @@
     <!-- ********** WS 17/18 ******* -->
 
    <message key="xmlui.static.ring.playlist-17-18">
-   <!--     <p>
-            Die Videoaufzeichnung finden Sie unter der jeweils aktuellen <a class="extern-link" target="_blank" href="//www.youtube.com/playlist?list=PLgoiCMgV-zrc_N2snDBeXkdT41cbIbuIH"><i class="icon-youtube"></i>Playlist</a>.
-        </p> -->
+        <p>
+            Die Videoaufzeichnung finden Sie unter der jeweils aktuellen <a class="extern-link" target="_blank" href="//www.youtube.com/playlist?list=PLgoiCMgV-zrfJc7ZCyc9uruc3KxP-4Ih1"><i class="icon-youtube"></i>Playlist</a>.
+        </p>
     </message>
 
     <message key="xmlui.static.ring-17-18.trail">
@@ -8733,9 +8733,9 @@
 
 
    <message key="xmlui.static.ring.playlist-18">
-   <!--     <p>
-            Die Videoaufzeichnung finden Sie unter der jeweils aktuellen <a class="extern-link" target="_blank" href="//www.youtube.com/playlist?list=PLgoiCMgV-zrc_N2snDBeXkdT41cbIbuIH"><i class="icon-youtube"></i>Playlist</a>.
-        </p> -->
+        <p>
+            Die Videoaufzeichnung finden Sie unter der jeweils aktuellen <a class="extern-link" target="_blank" href="//www.youtube.com/playlist?list=PLgoiCMgV-zrehVHDp-UCca0loA2rluIYh"><i class="icon-youtube"></i>Playlist</a>.
+        </p>
     </message>
 
     <message key="xmlui.static.ring-18.trail">
@@ -9384,6 +9384,12 @@
     <!-- ********************************************************************************************* -->
 
 <!-- ********** WS 18/19******* -->
+
+<message key="xmlui.static.ring.playlist-18-19">
+        <p>
+            Die Videoaufzeichnung finden Sie unter der jeweils aktuellen <a class="extern-link" target="_blank" href="//www.youtube.com/playlist?list=PLgoiCMgV-zrdCe-UINmtcQ7V9-sISy9Qp"><i class="icon-youtube"></i>Playlist</a>.
+        </p>
+    </message>
 	
     <message key="xmlui.static.ring-18-19.trail">
         WS 2018 / 2019
@@ -9680,9 +9686,9 @@
 
 
    <message key="xmlui.static.ring.playlist-19">
-   <!--     <p>
-            Die Videoaufzeichnung finden Sie unter der jeweils aktuellen <a class="extern-link" target="_blank" href="//www.youtube.com/playlist?list=PLgoiCMgV-zrc_N2snDBeXkdT41cbIbuIH"><i class="icon-youtube"></i>Playlist</a>.
-        </p> -->
+        <p>
+            Die Videoaufzeichnung finden Sie unter der jeweils aktuellen <a class="extern-link" target="_blank" href="//www.youtube.com/playlist?list=PLgoiCMgV-zreGzQHIKHlvESqAj4xu8myY"><i class="icon-youtube"></i>Playlist</a>.
+        </p>
     </message>
 
     <message key="xmlui.static.ring-19.trail">
@@ -10250,6 +10256,13 @@
     <!-- ********************************************************************************************* -->
 
         <!-- ********** WS 19/20******* -->
+	
+<!-- <message key="xmlui.static.ring.playlist-19-20">
+        <p>
+            Die Videoaufzeichnung finden Sie unter der jeweils aktuellen <a class="extern-link" target="_blank" href="//www.youtube.com/playlist?list=PLgoiCMgV-zreGzQHIKHlvESqAj4xu8myY"><i class="icon-youtube"></i>Playlist</a>.
+        </p>
+    </message> -->
+	
     <message key="xmlui.static.ring-19-20.trail">
         WS 2019 / 2020
     </message>
