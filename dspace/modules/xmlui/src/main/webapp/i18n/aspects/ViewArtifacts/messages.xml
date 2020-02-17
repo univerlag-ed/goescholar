@@ -10257,11 +10257,11 @@
 
         <!-- ********** WS 19/20******* -->
 	
-<!-- <message key="xmlui.static.ring.playlist-19-20">
+    <message key="xmlui.static.ring.playlist-19-20">
         <p>
-            Die Videoaufzeichnung finden Sie unter der jeweils aktuellen <a class="extern-link" target="_blank" href="//www.youtube.com/playlist?list=PLgoiCMgV-zreGzQHIKHlvESqAj4xu8myY"><i class="icon-youtube"></i>Playlist</a>.
+            Die Videoaufzeichnung finden Sie unter der jeweils aktuellen <a class="extern-link" target="_blank" href="//www.youtube.com/playlist?list=PLgoiCMgV-zrdREYiMYbEgYjHmTU1-2tfI"><i class="icon-youtube"></i>Playlist</a>.
         </p>
-    </message> -->
+    </message>
 	
     <message key="xmlui.static.ring-19-20.trail">
         WS 2019 / 2020
@@ -10462,7 +10462,7 @@
                 <div class="pull-right">
                     <div class="btn-toolbar">
                        <a href="/docs/audio/ring2020-01-07.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a>
-					   <!-- <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a> -->
+			   <a target="_blank" href="//www.youtube.com/watch?v=JJaofXg57II" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a>
                     </div>
                 </div>
             </div>
@@ -10479,8 +10479,8 @@
                 <h4>Vegan, aber richtig - vollwertige Lebensmittelauswahl oder Nährstoffpräparate?</h4>
                 <div class="pull-right">
                     <div class="btn-toolbar">
-                       <!-- <a href="/docs/audio/ring2020-01-14.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
-					   <!-- <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a> -->
+                       <a href="/docs/audio/ring2020-01-14.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a>
+				<a target="_blank" href="//www.youtube.com/watch?v=V-8hp3oZBD0" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a>
                     </div>
                 </div>
             </div>
@@ -10498,7 +10498,7 @@
                 <div class="pull-right">
                     <div class="btn-toolbar">
                        <!-- <a href="/docs/audio/ring2020-01-21.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
-					   <!-- <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a> -->
+				<a target="_blank" href="//www.youtube.com/watch?v=FJcme7GnpCM" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a>
                     </div>
                 </div>
             </div>
@@ -10515,8 +10515,8 @@
                 <h4>Nachhaltig und gesund essen, geht das nicht auch einfacher? Aktuelle Erkenntnisse aus der Psychologie</h4>
                 <div class="pull-right">
                     <div class="btn-toolbar">
-                       <!-- <a href="/docs/audio/ring2020-01-28.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
-					   <!-- <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a> -->
+                       <a href="/docs/audio/ring2020-01-28.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a>
+				<a target="_blank" href="//www.youtube.com/watch?v=l7BGxfxK-dw" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a>
                     </div>
                 </div>
             </div>
@@ -10531,15 +10531,20 @@
             <div class="panel-body">
                 Dr. Antje Risius (Göttingen)
                 <h4>"... und morgen scheint die Sonne". Ernährung im Alltag und was können wir wie verändern?</h4>
+		    <div class="pull-right">
+                    <div class="btn-toolbar">
+                       <a href="/docs/audio/ring2020-02-04.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a>
+				   <a target="_blank" href="//www.youtube.com/watch?v=sUtxKgB1p28" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a>
+                    	</div>
+                	</div>
 				anschließend<br />
 				<h4>Podiumsdiskussion: Ernährungsmoden und Ernährungsmythen</h4>
 				PD Dr. Thomas Ellrott und Dr. Antje Risius, (Göttingen); Prof. Dr. Michaela Fenske (Würzburg); Dr. Katja Triplett und Prof. Dr. Andreas Hahn (Hannover)
                 <div class="pull-right">
                     <div class="btn-toolbar">
-                       <!-- <a href="/docs/audio/ring2020-02-04.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
-					   <!-- <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a> -->
-                    </div>
-                </div>
+			    <a target="_blank" href="//www.youtube.com/watch?v=plrCV-IOyvs" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a>
+                    	</div>
+                	</div>
             </div>
         </div>
 
