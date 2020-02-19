@@ -63,18 +63,6 @@
 	<div class="col-sm-6">
 		<div class="media">
 			<div class="media-left hidden-xs">
-				<img src="/docs/images/ring/cover-19.jpg" class="media-object poster" alt="poster"/>
-			</div>
-			<div class="media-body">
-				<span class="media-heading"><strong>Sommersemester 2019</strong></span>                    
-				<p><a href="/lectures/19">Das sogenannte Böse<br />
-					Das Verbrechen aus interdisziplinärer Perspektive</a></p>
-			</div>               
-	       </div>            
-	</div>
-	<div class="col-sm-6">
-		<div class="media">
-			<div class="media-left hidden-xs">
 				<img src="/docs/images/ring/cover-19-20.jpg" class="media-object poster" alt="poster"/>
 			</div>
 			<div class="media-body">
@@ -83,7 +71,20 @@
 			</div>               
 	       </div>            
 	</div>
-	    
+
+	
+	<div class="col-sm-6">
+		<div class="media">
+			<div class="media-left hidden-xs">
+				<img src="/docs/images/ring/cover-19.jpg" class="media-object poster" alt="poster"/>
+			</div>
+			<div class="media-body">
+				<span class="media-heading"><strong>Sommersemester 2019</strong></span>                    
+				<p><a href="/lectures/19">Das sogenannte Böse<br />
+					Das Verbrechen aus interdisziplinärer Perspektive</a></p>
+			</div>               
+	       </div>            
+	</div>   
 </div>	   
     
 	    
