@@ -58,6 +58,24 @@
 
     <message key="xmlui.static.ring.listall">
 
+	<h3 class="list-item-header">2020</h3>     
+<div class="row">
+		
+	<div class="col-sm-6">
+		<div class="media">
+			<div class="media-left hidden-xs">
+				<img src="/docs/images/ring/cover-20.jpg" class="media-object poster" alt="poster"/>
+			</div>
+			<div class="media-body">
+				<span class="media-heading"><strong>Sommersemester 2020</strong></span>                    
+				<p><a href="/lectures/20">Ein Virus verändert die Welt<br />
+					Göttinger Wissenschaftler*innen zur Corona-Pandemie</a></p>
+			</div>               
+	       </div>            
+	</div> 
+</div>	  	    
+	    
+	    
 <h3 class="list-item-header">2019</h3>     
 <div class="row">
 	<div class="col-sm-6">
@@ -10574,5 +10592,318 @@
     </message>
     <message key="xmlui.static.ring.playlist-19-20"> </message>
     <!-- ********************************************************************************************* -->	
+	
+<message key="xmlui.static.ring.list-20">
+
+			<!-- Liste der Vorlesungen -->
+		
+
+		<!-- Vorträge -->
+
+        <div class="panel panel-default">
+            <header class="panel-heading">
+                <h3 class="panel-title">28. April 2020</h3>
+            </header>
+
+            <div class="panel-body">
+                Prof. Dr. Stefan Pöhlmann (Göttingen)<br />
+                <h4>Neuer Ansatz zur COVID-19-Therapie</h4>
+                <div class="pull-right">
+					<div class="btn-toolbar">
+						<!-- Audio Datei -->
+                        <!-- <a href="/docs/audio/ring2019-04-16.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio Datei</span></a> -->
+                       <!-- YouTube Link -->
+                        <a target="_blank" href="//www.youtube.com/watch?v=V6lnL9Vqn_Q" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a>
+			        </div>
+                </div>
+            </div>
+        </div>
+
+		
+
+		<div class="panel panel-default">
+            <header class="panel-heading">
+                <h3 class="panel-title">05. Mai 2020</h3>
+            </header>
+
+            <div class="panel-body">
+                Prof. Dr. Tim Friede, (Göttingen)<br />
+				<h4>Klinische Forschung in Zeiten von Corona</h4>
+                <div class="pull-right">
+                    <div class="btn-toolbar">
+						<!-- Audio Datei -->
+                        <!-- <a href="/docs/audio/ring2019-04-23.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                        <!-- YouTube Link -->
+                        <a target="_blank" href="//www.youtube.com/watch?v=hf61WJXvr7A" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+		
+
+		<div class="panel panel-default">
+            <header class="panel-heading">
+                <h3 class="panel-title">12. Mai 2020</h3>
+            </header>
+
+            <div class="panel-body">
+                Prof. Dr. Andreas Grünschloss (Göttingen)<br />
+                <h4>Zorn Gottes, apokalyptische Prüfung und spirituell basierte Resilienz: Zum religiösen und esoterischen Umgang mit der Corona-Pandemie</h4>
+                <div class="pull-right">
+                    <div class="btn-toolbar">
+						<!-- Audio Datei -->
+                        <!-- <a href="/docs/audio/ring2019-04-30.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                        <!-- YouTube Link -->
+                        <a target="_blank" href="//www.youtube.com/watch?v=ICiC1bdSRgI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+        <div class="panel panel-default">
+            <header class="panel-heading">
+                <h3 class="panel-title">19. Mai 2020</h3>
+            </header>
+
+            <div class="panel-body">
+                Prof. Dr. Franziska Meier (Göttingen) <br />
+                <h4>Der Krankheit einen Namen geben - Albert Camus' Roman "La Peste" von 1947</h4>
+                <div class="pull-right">
+                    <div class="btn-toolbar">
+						<!-- Audio Datei -->
+                        <!-- <a href="/docs/audio/ring2019-05-07.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                        <!-- YouTube Link -->
+                        <a target="_blank" href="//www.youtube.com/watch?v=F8qxbAGYEPY" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+		<div class="panel panel-default">
+            <header class="panel-heading">
+                <h3 class="panel-title">26. Mai 2020</h3>
+            </header>
+
+            <div class="panel-body">
+                Prof. Dr. Andrew Gross (Göttingen)<br />
+                <h4>Benjamin Franklin, Smallpox Inoculation, and the Public Good</h4>
+                <div class="pull-right">
+                    <div class="btn-toolbar">
+						<!-- Audio Datei -->
+                        <!-- <a href="/docs/audio/ring2019-05-14.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                        <!-- YouTube Link -->
+                        <a target="_blank" href="//www.youtube.com/watch?v=DzTKXWTUjgc" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="panel panel-default">
+            <header class="panel-heading">
+                <h3 class="panel-title">2. Juni 2020</h3>
+            </header>
+
+            <div class="panel-body">
+                Prof. Dr. Reiner Kree (Göttingen)<br />
+                <h4>Das SIR Modell für Epidemien als Entscheidungshilfe</h4>
+		                <div class="pull-right">
+                    <div class="btn-toolbar">
+						<!-- Audio Datei -->
+                        <!-- <a href="/docs/audio/ring2019-05-21.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                        <!-- YouTube Link -->
+                        <a target="_blank" href="//www.youtube.com/watch?v=6kuzDkQ_nJg" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+        <div class="panel panel-default">
+            <header class="panel-heading">
+                <h3 class="panel-title">9. Juni 2020</h3>
+            </header>
+
+            <div class="panel-body">
+                Dr. Viola Priesemann (Göttingen)<br />
+                <h4>Mit Modellrechnungen der COVID-19 Ausbreitung auf der Spur</h4>
+                <div class="pull-right">
+                    <div class="btn-toolbar">
+						<!-- Audio Datei -->
+                        <!-- <a href="/docs/audio/ring2019-05-28.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                        <!-- YouTube Link -->
+                        <a target="_blank" href="//www.youtube.com/watch?v=0em9srVa1Xc" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="panel panel-default">
+            <header class="panel-heading">
+                <h3 class="panel-title">16. Juni 2020</h3>
+            </header>
+
+            <div class="panel-body">
+                Prof. Dr. Niko Balkenhol und Prof. Dr. Andreas Schuldt (Göttingen)<br />
+                <h4>Biodiversität contra Corona – Was hat der Erhalt von Arten und ihren Lebensräumen mit der Covid-19 Pandemie zu tun?</h4>
+                <div class="pull-right">
+                    <div class="btn-toolbar">
+						<!-- Audio Datei -->
+                        <!-- <a href="/docs/audio/ring2019-06-04.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                        <!-- YouTube Link -->
+                        <a target="_blank" href="//www.youtube.com/watch?v=zzISoWRvV-Y" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+        <div class="panel panel-default">
+            <header class="panel-heading">
+                <h3 class="panel-title">23. Juni 2020</h3>
+            </header>
+
+            <div class="panel-body">
+                Prof. Dr. Andreas Busch (Göttingen)<br />
+                <h4>Entscheiden unter Unsicherheit: Wie, wann und weshalb Regierungen auf die Corona-Pandemie reagieren</h4>
+                <div class="pull-right">
+                    <div class="btn-toolbar">
+						<!-- Audio Datei -->
+                        <!-- <a href="/docs/audio/ring2019-06-11.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                        <!-- YouTube Link -->
+                        <!-- <a target="_blank" href="//www.youtube.com/..." class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+        <div class="panel panel-default">
+            <header class="panel-heading">
+                <h3 class="panel-title">30. Juni 2020</h3>
+            </header>
+
+            <div class="panel-body">
+                Prof. Dr. Thomas Zeuch (Göttingen)<br />
+                <h4>Mundschutz aus Perspektive der Aerosolchemie</h4>
+                <div class="pull-right">
+                    <div class="btn-toolbar">
+						<!-- Audio Datei -->
+                        <!-- <a href="/docs/audio/ring2019-06-18.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                        <!-- YouTube Link -->
+                        <!-- <a target="_blank" href="//www.youtube.com/..." class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+        <div class="panel panel-default">
+            <header class="panel-heading">
+                <h3 class="panel-title">7. Juli 2020</h3>
+            </header>
+
+            <div class="panel-body">
+                Prof. Dr. Senja Post (Göttingen)<br />
+                <h4>Die Corona-Krise. Die Rolle von Medien, Politik und Wissenschaft aus Sicht der Deutschen</h4>
+                <div class="pull-right">
+                    <div class="btn-toolbar">
+						<!-- Audio Datei -->
+                        <!-- <a href="/docs/audio/ring2019-06-25.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                        <!-- YouTube Link -->
+                        <!-- <a target="_blank" href="//www.youtube.com/..." class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+        <div class="panel panel-default">
+            <header class="panel-heading">
+                <h3 class="panel-title">14. Juli 20120</h3>
+            </header>
+
+            <div class="panel-body">
+                Prof. Dr. Sebastian Vollmer (Göttingen)
+                <h4>Auswirkungen von Pandemien auf Entwicklungsländer</h4>
+                <div class="pull-right">
+                    <div class="btn-toolbar">
+						<!-- Audio Datei -->
+                        <!-- <a href="/docs/audio/ring2019-07-02.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                        <!-- YouTube Link -->
+                        <!-- <a target="_blank" href="//www.youtube.com/..." class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+        <div class="panel panel-default">
+            <header class="panel-heading">
+                <h3 class="panel-title">21. Juli 2020</h3>
+            </header>
+
+            <div class="panel-body">
+                Dr. Philip Bittihn (Göttingen)
+                <h4>Unkonventionelle Ideen zur Eindämmung von Epidemien und die Rolle zufälliger Fluktuationen aus Sicht eines Physikers</h4>
+                <div class="pull-right">
+                    <div class="btn-toolbar">
+						<!-- Audio Datei -->
+                        <!-- <a href="/docs/audio/ring2019-07-09.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                        <!-- YouTube Link -->
+                        <!-- <a target="_blank" href="//www.youtube.com/..." class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+                    </div>
+                </div>
+			</div>
+        </div>
+
+   </message>
+   
+   <!-- Kontakt -->
+
+    <message key="xmlui.static.ring.contact-20">
+
+        <h3>Kontakt: </h3>
+
+        <div class="contact">
+
+			<strong>Öffentlichkeitarbeit</strong>
+
+            <p><i class="icon-location"></i>Wilhelmsplatz 1</p>
+            <p><span class="icon-body">37073 Göttingen</span></p>
+            <p><i class="icon-call"></i>+49 551 39 24342</p>
+            <p><i class="icon-fax"></i>+49 551 39 24251</p>
+            <p><i class="icon-mail"></i><a href="mailto:pressestelle@uni-goettingen.de">pressestelle [at] uni-goettingen.de</a></p>
+
+        </div>
+
+    </message>
+
+
+
+    <!-- ********************************************************************************************* -->
+	
 	
 </catalogue>
