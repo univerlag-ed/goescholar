@@ -10592,6 +10592,39 @@
     </message>
     <message key="xmlui.static.ring.playlist-19-20"> </message>
     <!-- ********************************************************************************************* -->	
+
+	<!-- Sose 2020 -->
+   <message key="xmlui.static.ring.playlist-20">
+        <p>
+            Die Videoaufzeichnung finden Sie unter der jeweils aktuellen <a class="extern-link" target="_blank" href="//www.youtube.com/playlist?list=PLgoiCMgV-zrfxjtVZsUMDp3fM986Y0NGw"><i class="icon-youtube"></i>playlist</a>.
+        </p>
+    </message>
+
+    <message key="xmlui.static.ring-20.trail">
+        SS 2020
+    </message>
+
+
+    <!-- Title -->
+
+    <message key="xmlui.static.ring.title-20">
+
+        Virtuelle Ringvorlesung - Ein Virus verändert die Welt<br />
+Göttinger Wissenschaftler*innen zur Corona-Pandemie
+
+    </message>
+
+
+
+    <!-- Poster -->
+
+    <message key="xmlui.static.ring.poster-20">
+        <div class="media-right hidden-xs">
+            <img class="media-object" src="/docs/images/ring/cover-20.jpg" alt="poster"></img><br />
+            <small><a class="extern-link" href="//www.uni-goettingen.de/de/613408.html">Mehr Informationen ...</a></small>
+        </div>
+
+    </message>
 	
 <message key="xmlui.static.ring.list-20">
 
