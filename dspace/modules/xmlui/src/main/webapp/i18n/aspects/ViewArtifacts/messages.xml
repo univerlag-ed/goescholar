@@ -54,6 +54,19 @@
         <!-- </div> -->
     </message>
 
+    <message key="xmlui.static.ring.preambel.noradio">
+        <!-- <div class="media-body"> -->
+        <h3 class="media-head">Audiomitschnitte Universität Göttingen</h3>
+	<p>
+	Aus aktuellem Anlass musste die für das Sommersemester ursprünglich geplante Ringvorlesung abgesagt werden. Stattdessen gibt es eine virtuelle Ringvorlesung verschiedener Fakultäten und wissenschaftlicher Einrichtungen des Göttingen Campus. Expert*innen unterschiedlicher Disziplinen gehen mit ihrem jeweiligen fachspezifischen Blick auf das mit dem Virus verbundene Geschehen ein.
+	</p>
+	<p>
+	Für dieses Semester gibt es keine Audiomitschnitte.
+        </p>
+
+        <!-- </div> -->
+    </message>
+
     <!-- Liste der Ringvorlesungen -->
 
     <message key="xmlui.static.ring.listall">

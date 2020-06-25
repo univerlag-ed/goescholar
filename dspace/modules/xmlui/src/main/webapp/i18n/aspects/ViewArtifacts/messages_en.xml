@@ -43,6 +43,15 @@
 
         <!-- </div> -->
     </message>
+	
+    <message key="xmlui.static.ring.preambel.noradio">
+	<p>
+		Due to recent events, the lecture series originally planned for the summer semester had to be cancelled. Instead, there will be a virtual lecture series of different Faculties and academic institutions on the Göttingen Campus. Experts from various disciplines will discuss the virus and its associated events from their respective specialist perspectives.
+        </p>
+        <p>
+	There are no audio recordings for this semester.
+        </p>
+    </message>
 
     <message key="xmlui.static.ring.list.preambel">
         <p>
