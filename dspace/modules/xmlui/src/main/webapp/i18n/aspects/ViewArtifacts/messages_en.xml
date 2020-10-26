@@ -10879,5 +10879,205 @@ Göttinger Wissenschaftler*innen zur Corona-Pandemie
 
     <!-- ********************************************************************************************* -->
 	
+	        <!-- ********** WT 20/21******* -->
+	
+    <message key="xmlui.static.ring.playlist-20-21">
+        <p>
+            The video recordings may be found within the current  <a class="extern-link" target="_blank" href="//www.youtube.com/playlist?list=PLgoiCMgV-zrdREYiMYbEgYjHmTU1-2tfI"><i class="icon-youtube"></i>Playlist</a>.
+        </p>
+    </message>
+	
+    <message key="xmlui.static.ring-20-21.trail">
+        WT 2020 / 2021
+    </message>
+
+    <!-- Title -->
+    <message key="xmlui.static.ring.title-20-21">
+        Ursprünge<br />
+	</message>
+
+    <!-- Poster -->
+    <message key="xmlui.static.ring.poster-20-21">
+        <div class="media-right hidden-xs">
+            <img class="media-object" src="/docs/images/ring/cover-20-21.jpg" alt="poster"></img><br />
+            <small><a class="extern-link" href="//www.uni-goettingen.de/de/613408.html">Mehr Informationen ...</a></small>
+        </div>
+    </message>
+
+
+    <message key="xmlui.static.ring.list-20-21">
+		
+		<!-- Liste der Vorlesungen -->
+		
+		
+        <div class="panel panel-default panel-first">
+            <header class="panel-heading">
+                <h4 class="panel-title">27. October 2020</h4>
+            </header>
+
+            <div class="panel-body">
+                Prof. Dr. Harald Lesch (Munich)
+                <h4>Der Ursprung des Kosmos</h4>
+				<div class="pull-right">
+                    <div class="btn-toolbar">
+                       <!-- <a href="/docs/audio/ring2020-10-27.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                       <!-- <a target="_blank" href="//youtu.be/Ir0FpSvwSz4" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a> -->
+				    </div>
+                </div>
+            </div>
+        </div>
+		
+
+ <div class="panel panel-default panel-first">
+            <header class="panel-heading">
+                <h4 class="panel-title">3. November 2020</h4>
+            </header>
+
+            <div class="panel-body">
+                Prof. Dr. Ulrich Christensen (Göttingen)
+                <h4>Unsere Heimat im Kosmos – die Entstehung des Sonnensystems</h4>
+                <div class="pull-right">
+                    <div class="btn-toolbar">
+                       <!-- <a href="/docs/audio/ring2020-11-03.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+					   <!-- <a target="_blank" href="//www.youtube.com/watch?v=4rxcCbIBynw" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="panel panel-default panel-first">
+            <header class="panel-heading">
+                <h4 class="panel-title">10. November 2020</h4>
+            </header>
+
+            <div class="panel-body">
+                Prof. Dr. Harald Hiesinger (Münster)
+                <h4>Geschichte und Evolution des Mondes – eine Impakt Geschichte!</h4>
+                <div class="pull-right">
+                    <div class="btn-toolbar">
+                       <!-- <a href="/docs/audio/ring2020-11-10.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+					   <!-- <a target="_blank" href="//www.youtube.com/watch?v=0nhhK13j5ZM" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="panel panel-default panel-first">
+            <header class="panel-heading">
+                <h4 class="panel-title">17. November 2020</h4>
+            </header>
+
+            <div class="panel-body">
+                Prof. Dr. Wolfgang Bach (Bremen)
+                <h4>Geochemische Prozesse auf der Frühen Erde und mögliche Implikationen für erste Habitate</h4>
+                <div class="pull-right">
+                    <div class="btn-toolbar">
+                       <!-- <a href="/docs/audio/ring2020-11-17.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+					   <!-- <a target="_blank" href="//www.youtube.com/watch?v=fY8xNZhBADI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="panel panel-default panel-first">
+            <header class="panel-heading">
+                <h4 class="panel-title">24. November 2020</h4>
+            </header>
+
+            <div class="panel-body">
+                Prof. Dr. Lorenz Rahmstorf (Göttingen)
+                <h4>Der Ursprung von „Hochkultur“: eine archäologische Perspektive</h4>
+                <div class="pull-right">
+                    <div class="btn-toolbar">
+                       <!-- <a href="/docs/audio/ring2020-11-24.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+					   <!-- <a target="_blank" href="//www.youtube.com/watch?v=vClxUVCTRuQ" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="panel panel-default panel-first">
+            <header class="panel-heading">
+                <h4 class="panel-title">1. December 2020</h4>
+            </header>
+
+            <div class="panel-body">
+                Prof. Dr. Dieter Braun (Munich)
+                <h4>Präbiotische Welten – Chemische und physikalische Grundvoraussetzungen für die Entstehung von Leben</h4>
+                <div class="pull-right">
+                    <div class="btn-toolbar">
+                       <!-- <a href="/docs/audio/ring2020-12-01.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+					   <!-- <a target="_blank" href="//www.youtube.com/watch?v=hB9p271_iRA" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="panel panel-default panel-first">
+            <header class="panel-heading">
+                <h4 class="panel-title">8. December 2020</h4>
+            </header>
+
+            <div class="panel-body">
+                Prof. Dr. Gert Wörheide (Munich)
+                <h4>Ein phylogenomischer Blick auf die frühe Evolution der Tiere</h4>
+                <div class="pull-right">
+                    <div class="btn-toolbar">
+                       <!-- <a href="/docs/audio/ring2020-12-08.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+					   <!-- <a target="_blank" href="//www.youtube.com/watch?v=DMM5z6PLAcc" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="panel panel-default panel-first">
+            <header class="panel-heading">
+                <h4 class="panel-title">15. December 2020</h4>
+            </header>
+
+            <div class="panel-body">
+                Prof. Dr. Thomas Terberger (Göttingen)
+                <h4>Vom Dummkopf zum Denker? Der Ursprung des Menschen im Lichte neuer Forschungen</h4>
+                <div class="pull-right">
+                    <div class="btn-toolbar">
+                       <!-- <a href="/docs/audio/ring2020-12-15.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+					   <!-- <a target="_blank" href="//www.youtube.com/watch?v=lwYiipDyiwI" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+    </message>
+
+	<!-- Kontakt -->
+    <message key="xmlui.static.ring.contact-20-21">
+
+        <h3>Organisation: </h3>
+		<strong>Georg-August-Universität Göttingen in cooperation with the Akademie der Wissenschaften Göttingen</strong>
+		
+		<h3>Kontakt: </h3>
+        <div class="contact">
+            <strong>Öffentlichkeitsarbeit</strong>
+            <p><i class="icon-location"></i>Wilhelmsplatz 1</p>
+            <p><span class="icon-body">37073 Göttingen</span></p>
+            <p><i class="icon-call"></i>+49 551 39-24342</p>
+            <p><i class="icon-mail"></i><a href="mailto:pressestelle@uni-goettingen.de">Pressestelle der Universität Göttingen</a></p>
+			
+        </div>
+    </message>
+    <message key="xmlui.static.ring.playlist-20-21"> </message>
+    <!-- ********************************************************************************************* -->	
+
+
+	
 	
 </catalogue>
