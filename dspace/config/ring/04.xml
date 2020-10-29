@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document xmlns="http://di.tamu.edu/DRI/1.0/" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.1">
+
+<body>
+	<div>
+		<head>
+			<i18n:text>xmlui.static.ring.head</i18n:text>
+			<i18n:text>xmlui.static.ring.title-04</i18n:text>
+		</head>
+		<div class="media" rend="copy">
+			<div class="media-body" rend="copy media-left">
+				<i18n:text>xmlui.static.ring.preambel</i18n:text>
+				<!--<i18n:text>xmlui.static.ring.playlist-04</i18n:text> -->
+			</div>		
+			<i18n:text>xmlui.static.ring.poster-04</i18n:text>
+		</div>
+		
+			<i18n:text>xmlui.static.ring.list-04</i18n:text>
+
+		<div  rend="copy">
+			<i18n:text>xmlui.static.ring.contact-04</i18n:text>
+		</div>
+	</div>
+</body>
+
+<options/>
+
+<meta>
+<userMeta/>
+<pageMeta>
+	<metadata element="title"><i18n:text>xmlui.static.ring-04.trail</i18n:text></metadata>
+	<trail target="/"><i18n:text>xmlui.general.dspace_home</i18n:text></trail>
+        <trail target="/lectures/list"><i18n:text>xmlui.static.ring.list</i18n:text></trail>
+	<trail><i18n:text>xmlui.static.ring-04.trail</i18n:text></trail>
+</pageMeta>
+<repositoryMeta/>
+</meta>
+</document>
