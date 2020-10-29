@@ -67,6 +67,30 @@
         <!-- </div> -->
     </message>
 
+<message key="xmlui.static.ring.preambel.livestream">
+
+        <!-- <div class="media-body"> -->
+
+        <h3 class="media-head">Audiomitschnitte Universität Göttingen</h3>
+
+	<p>
+
+	Die Ringvorlesung war ursprünglich in einem hybriden Format mit wenigen Präsenz-Teilnehmern geplant. Aufgrund der aktuellen Infektionsdynamik der Covid19-Pandemie, werden die Vorträge ausschließlich als virtuelle Ringvorlesung – über die Videokonferenzsoftware Zoom und als Livestream auf YouTube stattfinden. 
+
+	</p>
+
+	<p>
+
+	Für dieses Semester gibt es keine Audiomitschnitte.
+
+        </p>
+
+
+
+        <!-- </div> -->
+
+    </message>
+
     <!-- Liste der Ringvorlesungen -->
 
     <message key="xmlui.static.ring.listall">
