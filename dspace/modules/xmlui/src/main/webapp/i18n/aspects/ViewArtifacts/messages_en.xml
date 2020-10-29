@@ -71,6 +71,18 @@
 	<div class="col-sm-6">
 		<div class="media">
 			<div class="media-left hidden-xs">
+				<img src="/docs/images/ring/cover-20-21.jpg" class="media-object poster" alt="poster"/>
+			</div>
+			<div class="media-body">
+				<span class="media-heading"><strong>Winter term 2020/21</strong></span>                    
+				<p><a href="/lectures/20-21">Ursprünge</a></p>
+			</div>               
+	       </div>            
+	</div>	
+	
+	<div class="col-sm-6">
+		<div class="media">
+			<div class="media-left hidden-xs">
 				<img src="/docs/images/ring/cover-20.jpg" class="media-object poster" alt="poster"/>
 			</div>
 			<div class="media-body">
