@@ -10904,7 +10904,7 @@ Göttinger Wissenschaftler*innen zur Corona-Pandemie
 	
     <message key="xmlui.static.ring.playlist-20-21">
         <p>
-            The video recordings may be found within the current  <a class="extern-link" target="_blank" href="//www.youtube.com/playlist?list=PLgoiCMgV-zrdREYiMYbEgYjHmTU1-2tfI"><i class="icon-youtube"></i>Playlist</a>.
+            The video recordings may be found within the current  <a class="extern-link" target="_blank" href="//www.youtube.com/playlist?list=PLgoiCMgV-zrcL4wn_R0PxZsoK_bHRqmdB"><i class="icon-youtube"></i>Playlist</a>.
         </p>
     </message>
 	
@@ -10941,7 +10941,7 @@ Göttinger Wissenschaftler*innen zur Corona-Pandemie
                 <h4>Der Ursprung des Kosmos</h4>
 				<div class="pull-right">
                     <div class="btn-toolbar">
-                       <!-- <a href="/docs/audio/ring2020-10-27.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                       <a href="/docs/audio/ring2020-10-27.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a>
                        <!-- <a target="_blank" href="//youtu.be/Ir0FpSvwSz4" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a> -->
 				    </div>
                 </div>
@@ -10960,7 +10960,7 @@ Göttinger Wissenschaftler*innen zur Corona-Pandemie
                 <div class="pull-right">
                     <div class="btn-toolbar">
                        <!-- <a href="/docs/audio/ring2020-11-03.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
-					   <!-- <a target="_blank" href="//www.youtube.com/watch?v=4rxcCbIBynw" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a> -->
+					   <a target="_blank" href="//www.youtube.com/watch?v=resLmTMesAs" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a>
                     </div>
                 </div>
             </div>
