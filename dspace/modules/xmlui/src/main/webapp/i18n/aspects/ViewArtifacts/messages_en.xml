@@ -10713,7 +10713,7 @@ Göttinger Wissenschaftler*innen zur Corona-Pandemie
 						<!-- Audio Datei -->
                         <!-- <a href="/docs/audio/ring2019-05-21.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
                         <!-- YouTube Link -->
-                        <a target="_blank" href="//www.youtube.com/watch?v=6kuzDkQ_nJg" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a>
+                        <a target="_blank" href="//www.youtube.com/watch?v=6kuzDkQ_nJg" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a>
                     </div>
                 </div>
             </div>
@@ -10957,7 +10957,7 @@ Göttinger Wissenschaftler*innen zur Corona-Pandemie
                 <h4>Unsere Heimat im Kosmos – die Entstehung des Sonnensystems</h4>
                 <div class="pull-right">
                     <div class="btn-toolbar">
-                       <!-- <a href="/docs/audio/ring2020-11-03.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                       <a href="/docs/audio/ring2020-11-03.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a>
 					   <a target="_blank" href="//www.youtube.com/watch?v=resLmTMesAs" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a>
                     </div>
                 </div>
@@ -10976,8 +10976,9 @@ Göttinger Wissenschaftler*innen zur Corona-Pandemie
                 <h4>Geschichte und Evolution des Mondes – eine Impakt Geschichte!</h4>
                 <div class="pull-right">
                     <div class="btn-toolbar">
-                       <!-- <a href="/docs/audio/ring2020-11-10.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
-					   <!-- <a target="_blank" href="//www.youtube.com/watch?v=0nhhK13j5ZM" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a> -->
+                         <a href="/docs/audio/ring2020-11-10.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a>
+			  <a target="_blank" href="//www.youtube.com/watch?v=PqD0apNKZxA" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i><span class="hidden-xs"> YouTube Video</span></a>
+
                     </div>
                 </div>
             </div>
