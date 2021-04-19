@@ -11300,9 +11300,9 @@ Göttinger Wissenschaftler*innen zur Corona-Pandemie
                 <div class="pull-right">
 					<div class="btn-toolbar">
 						<!-- Audio Datei -->
-                        <!-- <a href="/docs/audio/ring2021-04-13.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio Datei</span></a> -->
+                        <a href="/docs/audio/ring2021-04-13.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i><span class="hidden-xs">Audio Datei</span></a>
                        <!-- YouTube Link -->
-                        <!-- <a target="_blank" href="//www.youtube.com/watch?v=V6lnL9Vqn_Q" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+                        <a target="_blank" href="//www.youtube.com/watch?v=qf14MNiLq_Q" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a>
 			        </div>
                 </div>
             </div>
