@@ -11321,9 +11321,9 @@ Göttinger Wissenschaftler*innen zur Corona-Pandemie
                 <div class="pull-right">
                     <div class="btn-toolbar">
 						<!-- Audio Datei -->
-                        <!-- <a href="/docs/audio/ring2021-04-20.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                        <a href="/docs/audio/ring2021-04-20.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a>
                         <!-- YouTube Link -->
-                        <!-- <a target="_blank" href="//www.youtube.com/watch?v=hf61WJXvr7A" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
+                        <a target="_blank" href="//www.youtube.com/watch?v=z8PNPuFXxp4" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a>
                     </div>
                 </div>
             </div>
@@ -11342,10 +11342,9 @@ Göttinger Wissenschaftler*innen zur Corona-Pandemie
                 <div class="pull-right">
                     <div class="btn-toolbar">
 						<!-- Audio Datei -->
-                        <!-- <a href="/docs/audio/ring2021-04-27.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a> -->
+                        <a href="/docs/audio/ring2021-04-27.mp3" class="btn btn-default btn-xs" role="button"><i class="icon-headphones-1" aria-hidden="true"></i> Audio Datei</a>
                         <!-- YouTube Link -->
-                        <!-- <a target="_blank" href="//www.youtube.com/watch?v=hf61WJXvr7A" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a> -->
-                    </div>
+                        <a target="_blank" href="//www.youtube.com/watch?v=c7dNApnhIIA" class="btn btn-default btn-xs" role="button"><i class="icon-videocam-1" aria-hidden="true"></i> YouTube Video</a>                    </div>
                 </div>
             </div>
         </div>
