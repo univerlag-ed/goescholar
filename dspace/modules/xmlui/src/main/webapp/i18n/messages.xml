@@ -3721,7 +3721,7 @@
         <h3>Rechtseinräumung</h3>
 
 	<div>
-		Hiermit gestatte ich der Georg-August-Universität Göttingen (nachfolgend „Universität Göttingen“), vertreten durch die Präsidentin, durchführende Einrichtung: Niedersächsische Staats- und Universitätsbibliothek Göttingen (SUB Göttingen), vertreten durch den Direktor, mein Dokument zu den unten genannten Lizenzbedingungen zur freien Nutzung im Internet bereitzustellen. Im Rahmen dieser Bereitstellung sind Nutzerinnen und Nutzer berechtigt, Dokumente nach Maßgabe des Urhebergesetzes unentgeltlich zu nutzen, insbesondere, das Dokument zum privaten und sonstigen eigenen Gebrauch herunter zu laden, zu speichern oder in kleiner Anzahl zu drucken (§ 53 UrhG).
+		Hiermit gestatte ich der Georg-August-Universität Göttingen (nachfolgend „Universität Göttingen“), komissarisch vertreten durch die Präsidentin, durchführende Einrichtung: Niedersächsische Staats- und Universitätsbibliothek Göttingen (SUB Göttingen), vertreten durch den Direktor, mein Dokument zu den unten genannten Lizenzbedingungen zur freien Nutzung im Internet bereitzustellen. Im Rahmen dieser Bereitstellung sind Nutzerinnen und Nutzer berechtigt, Dokumente nach Maßgabe des Urhebergesetzes unentgeltlich zu nutzen, insbesondere, das Dokument zum privaten und sonstigen eigenen Gebrauch herunter zu laden, zu speichern oder in kleiner Anzahl zu drucken (§ 53 UrhG).
 	</div>
    </message>
    <message key="xmlui.deposit.license.text">
@@ -3901,7 +3901,7 @@ Anbieter dieser Internetpräsenz ist im Rechtssinne die Niedersächsische Staats
 <h3>Vertreter</h3>
 <div>
 <p>Die Niedersächsische Staats- und Universitätsbibliothek Göttingen (SUB Göttingen) wird vertreten durch den leitenden Direktor Dr. Wolfram Horstmann. Die SUB Göttingen ist als zentrale Einrichtung eine organisatorische, rechtlich nicht selbständige Einheit der Georg-August-Universität Göttingen. </p>
-<p>Die Georg-August-Universität Göttingen ist eine Körperschaft des öffentlichen Rechts. Sie wird durch Prof. Dr. Reinhard Jahn gesetzlich vertreten, der beauftragt ist, das Amt des Präsidenten wahrzunehmen.
+<p>Die Georg-August-Universität Göttingen ist eine Körperschaft des öffentlichen Rechts. Sie wird durch den Präsidenten Prof. Dr. Metin Tolan gesetzlich vertreten. 
 </p>
 </div>
 
@@ -4140,7 +4140,7 @@ Sämtliche personenbezogenen Daten werden nur solange gespeichert wie dies für 
  <span><strong>Name und Kontaktdaten der Verantwortlichen</strong></span>
  <p class="adress">
   <span>Der Präsident</span>
-  <span>Prof. Dr. Reinhard Jahn</span>
+  <span>Prof. Dr. Metin Tolan</span>
    <span>Wilhelmsplatz 1</span>
       <span>37073 Göttingen</span>
 	<span>Tel.:  +49 551 39-21000</span>
